@@ -13,7 +13,7 @@ Description: "An EHMI profile of the Device resource."
 * deviceName 1..1 MS
 * modelNumber 0..0
 * partNumber 0..0
-* type 0..0 
+* type 1..1 
 * specialization 0..0
 * property 0..0
 * patient 0..0
@@ -23,7 +23,7 @@ Description: "An EHMI profile of the Device resource."
 * url 0..0
 * safety 0..0
 * parent 0..0
-
+/*
 Profile: EerDeviceAP
 Parent: EerDevice
 Title: "EER Device - AP"
@@ -38,3 +38,4 @@ Profile: EerDeviceEUA
 Parent: EerDevice
 Title: "EER Device - EUA"
 Description: "An EerDeviceEUA profile of the EerDevice resource."
+*/
