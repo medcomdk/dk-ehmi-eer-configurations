@@ -15,7 +15,7 @@ publisher:
   email: ehmi@medcom.dk
 
 dependencies:
-  ihe.iti.mcsd: 3.9.0
+  ihe.iti.mcsd: 4.0.0
   hl7.fhir.dk.core: 3.4.0
   medcom.fhir.dk.core: 3.0.1
   medcom.fhir.dk.messaging: 4.0.1
