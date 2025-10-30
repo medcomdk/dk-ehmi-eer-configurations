@@ -1,6 +1,6 @@
 // MultiMed
 Instance: EerDevice-MultiMedAP-test-LPS
-InstanceOf: EerDevice
+InstanceOf: EerDeviceConfig
 Description: "EerDevice-MultiMed AP"
 * id = "MultiMedAP-test-LPS" 
 * identifier.value = "MultiMedAP-test-LPS"
@@ -12,7 +12,7 @@ Description: "EerDevice-MultiMed AP"
 * manufacturer = "MultiMed"
 
 Instance: EerDevice-MultiMedMSH-test-LPS
-InstanceOf: EerDevice
+InstanceOf: EerDeviceConfig
 Description: "EerDevice-MultiMedMSH"
 * id = "MultiMedMSH-test-LPS" 
 * identifier.value = "MultiMedMSH-test-LPS"
@@ -25,7 +25,7 @@ Description: "EerDevice-MultiMedMSH"
 
 // KvalitetsIt
 Instance: EerDevice-KvalitetsItAP-test-aarhus
-InstanceOf: EerDevice
+InstanceOf: EerDeviceConfig
 Description: "EerDevice-KvalitetsItAP"
 * id = "EerDevice-KvalitetsItAP-test-aarhus"
 * identifier.value = "EerDevice-KvalitetsItAP-test-aarhus"
@@ -37,7 +37,7 @@ Description: "EerDevice-KvalitetsItAP"
 * manufacturer = "KvalitetsIt"
 
 Instance: EerDevice-KvalitetsItAP-test-kobenhavn
-InstanceOf: EerDevice
+InstanceOf: EerDeviceConfig
 Description: "EerDevice-KvalitetsItAP"
 * id = "EerDevice-KvalitetsItAP-test-kobenhavn"
 * identifier.value = "EerDevice-KvalitetsItAP-test-kobenhavn"
@@ -50,7 +50,7 @@ Description: "EerDevice-KvalitetsItAP"
 
 // EG 
 Instance: EerDevice-EGClineaEUA-test-aarhus
-InstanceOf: EerDevice
+InstanceOf: EerDeviceConfig
 Description: "EerDevice-EGClineaEUA"
 * id = "EerDevice-EGClineaEUA-test-aarhus"
 * identifier.value = "EerDevice-EGClineaEUA-test-aarhus"
@@ -62,7 +62,7 @@ Description: "EerDevice-EGClineaEUA"
 * manufacturer = "EG"
 
 Instance: EerDevice-EGClineaEUA-test-kobenhavn
-InstanceOf: EerDevice
+InstanceOf: EerDeviceConfig
 Description: "EerDevice-EGClineaEUA"
 * id = "EerDevice-EGClineaEUA-test-kobenhavn"
 * identifier.value = "EerDevice-EGClineaEUA-test-kobenhavn"
@@ -75,7 +75,7 @@ Description: "EerDevice-EGClineaEUA"
 
 // Systematic
 Instance: EerDevice-SystematicMSH-test-aarhus
-InstanceOf: EerDevice
+InstanceOf: EerDeviceConfig
 Description: "EerDevice-SystematicMSH for Aarhus"
 * id = "SystematicMSH-test-aarhus" 
 * identifier.value = "SystematicMSH-test-aarhus"
@@ -87,7 +87,7 @@ Description: "EerDevice-SystematicMSH for Aarhus"
 * manufacturer = "Systematic"
 
 Instance: EerDevice-SystematicMSH-test-kobenhavn
-InstanceOf: EerDevice
+InstanceOf: EerDeviceConfig
 Description: "EerDevice-SystematicMSH for Copenhagen"
 * id = "SystematicMSH-test-kobenhavn" 
 * identifier.value = "SystematicMSH-test-kobenhavn"
@@ -99,7 +99,7 @@ Description: "EerDevice-SystematicMSH for Copenhagen"
 * manufacturer = "Systematic"
 
 Instance: EerDevice-SystematicCura-test-aarhus
-InstanceOf: EerDevice
+InstanceOf: EerDeviceConfig
 Description: "EerDevice-SystematicCura for Aarhus"
 * id = "SystematicCura-test-aarhus" 
 * identifier.value = "SystematicCura-test-aarhus"
@@ -111,7 +111,7 @@ Description: "EerDevice-SystematicCura for Aarhus"
 * manufacturer = "Systematic"
 
 Instance: EerDevice-SystematicCura-test-kobenhavn
-InstanceOf: EerDevice
+InstanceOf: EerDeviceConfig
 Description: "EerDevice-SystematicCura for Copenhagen"
 * id = "SystematicCura-test-kobenhavn" 
 * identifier.value = "SystematicCura-test-kobenhavn"

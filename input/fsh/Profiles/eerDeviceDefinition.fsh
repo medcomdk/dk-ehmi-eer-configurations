@@ -1,3 +1,4 @@
+/*
 Profile: EerDeviceDefinition
 Parent: DeviceDefinition
 Title: "EER DeviceDefinition"
@@ -8,7 +9,7 @@ Description: "An EER profile of the DeviceDefinition resource."
 * type.coding.system = $EerDeviceTypeCS
 * type from $EerDeviceTypeVS 
 * type 1..1 MS 
-
+*/
 Profile: EerDeviceDefinitionAP
 Parent: EerDeviceDefinition
 Title: "EER DeviceDefinition - AP"

@@ -20,8 +20,10 @@ dependencies:
   medcom.fhir.dk.core: 2.4.0
   medcom.fhir.dk.messaging: 3.0.0
   medcom.fhir.dk.terminology: 1.8.1
-  dk.ehmi.terminology: 1.0.1-draft
-  dk.ehmi.eer: 1.0.0-draft
+  dk.ehmi.terminology: 1.0.0
+  dk.ehmi.eer: 
+    version: 1.0.0-draft
+    uri: http://medcomehmi.dk/ig/eer/ImplementationGuide/dk.ehmi.eer
 
 menu:
   Home: index.html

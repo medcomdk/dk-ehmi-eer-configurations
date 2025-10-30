@@ -1,6 +1,6 @@
-Profile: EerDevice
+Profile: EerDeviceConfig
 Parent: Device
-Title: "EER Device - General"
+Title: "EER Device - General for configuration"
 Description: "An EHMI profile of the Device resource."
 * ^abstract = true
 * udiCarrier 0..0 
