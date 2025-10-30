@@ -1,3 +1,4 @@
+/*
 Instance: SearchParameter-MessageType
 InstanceOf: SearchParameter
 Usage: #definition
@@ -8,3 +9,4 @@ Usage: #definition
 * base = #Organization
 * type = #token
 * expression = "Organization.endpoint.resolve().payloadType.coding"
+*/

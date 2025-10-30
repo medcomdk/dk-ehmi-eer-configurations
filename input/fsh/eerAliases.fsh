@@ -32,8 +32,8 @@ Alias: $EerMessageDefinitionIdentifierSystemVS = http://medcomehmi.dk/ig/termino
 Alias: $EerEndpointPayloadType = http://medcomehmi.dk/ig/terminology/CodeSystem/ehmi-payload-type
 Alias: $EerEndpointPayloadTypeVS = http://medcomehmi.dk/ig/terminology/ValueSet/ehmi-payload-type-valueset
 
-Alias: $EerMessagingOrganizationType = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-sor-organization-type
-Alias: $EerMessagingOrganizationTypeVS = http://medcomehmi.dk/ig/terminology/ValueSet/eer-sor-organization-type-valueset
+Alias: $EerMessagingOrganizationType = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-sor-organization-type|1.0.0
+Alias: $EerMessagingOrganizationTypeVS = http://medcomehmi.dk/ig/terminology/ValueSet/eer-sor-organization-type-valueset|1.0.0
 
 Alias: $EerSorOrganizationTypeCS = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-sor-organization-type
 Alias: $EerSorOrganizationTypeVS = http://medcomehmi.dk/ig/terminology/ValueSet/eer-sor-organization-type-valueset
