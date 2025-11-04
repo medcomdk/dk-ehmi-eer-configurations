@@ -1,3 +1,4 @@
+/*
 Profile: EerMessageDefinitionEnvelope
 Parent: EerMessageDefinition
 Description: "A profile of the MessageDefinition-envelope resource."
@@ -5,4 +6,4 @@ Description: "A profile of the MessageDefinition-envelope resource."
 * identifier.type = $EerMedComMessageDefinitionType#ENVELOPE
 * useContext.code = $EerUsageContextCodeSystem#workflow
 * eventCoding = $MessageEvents#empty-message
-
+*/
