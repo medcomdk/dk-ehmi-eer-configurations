@@ -34,7 +34,6 @@ menu:
     Devices: instances-devices.html
     Endpoints: instances-endpoints.html
     Organizations: instances-organizations.html
-#    Organizations byid: instances-byid-organizations.html
   Artifacts: artifacts.html
   More:
     Table of Contents: toc.html

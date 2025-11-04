@@ -5,7 +5,12 @@
     The following organization instances are part of the EHMI Production Pilot 2026:
   </p>
   <div>
-    {% include list-organizations.xhtml %}
+  <table border="1">
+      {% include table-organizations.xhtml %}
+  </table>
   </div>
+  <!-- div>
+    {% include list-organizations.xhtml %}
+  </div-->
 </div>
 

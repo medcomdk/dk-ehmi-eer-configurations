@@ -4,7 +4,10 @@
   <p>
     The following endpoints instances are part of the EHMI Production Pilot 2026:
   </p>
-  <div>
+  <table border="1">
+    {% include table-endpoints.xhtml %}
+  </table>
+  <!-- div>
     {% include list-endpoints.xhtml %}
-  </div>
+  </div-->
 </div>
