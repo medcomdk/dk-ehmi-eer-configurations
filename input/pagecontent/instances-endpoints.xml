@@ -2,9 +2,9 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../input-cache/schemas-r5/fhir-single.xsd">
   
   <p>
-    The following device profiles set the minimum expectations to record, search and fetch health data associated with a MedCom FHIR Message:
+    The following endpoints instances are part of the EHMI Production Pilot 2026:
   </p>
   <div>
-    {% include list-devices.xhtml %}
+    {% include list-endpoints.xhtml %}
   </div>
 </div>
