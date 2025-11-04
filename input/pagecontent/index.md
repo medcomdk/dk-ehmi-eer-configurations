@@ -6,4 +6,4 @@ It will among  other things handle public keys related to CVRs that are specific
 
 At the moment the following ressources for EHMI PP26 are made:
 
-- [Devices (EUA'er, MSH'er og AP'er)](deviceprofiles.html) 
+- [Devices (EUA'er, MSH'er og AP'er)](instances-devices.html) 
