@@ -29,7 +29,9 @@ dependencies:
 
 menu:
   Home: index.html
-  Profiles: profiles.html
+  Profiles:
+    Profiles: profiles.html
+    Device profiles: deviceprofiles.html
   Artifacts: artifacts.html
   More:
     Table of Contents: toc.html

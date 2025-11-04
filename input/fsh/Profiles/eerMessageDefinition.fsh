@@ -1,3 +1,4 @@
+/*
 Profile: EerMessageDefinition
 Parent: MessageDefinition
 Title: "EER MessageDefinition"
@@ -48,3 +49,4 @@ Description: "A profile of the MessageDefinition resource."
 * category 1..1 MS SU
 * category = #notification
 * responseRequired 1..1 MS 
+*/

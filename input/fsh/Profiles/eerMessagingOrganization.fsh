@@ -1,3 +1,4 @@
+/*
 Profile:      EerMessagingOrganization
 Parent:       MCSDOrganization
 Id:           Eer.Messaging.Organization
@@ -39,3 +40,4 @@ Title:        "EER Core Organization"
 Description:  """ EER Core Organization"""
 * partOf 0..0
 * endpoint 0..0
+*/

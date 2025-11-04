@@ -1,3 +1,4 @@
+/*
 Profile:      EerEndpoint
 Parent:       MCSDEndpoint
 Id:           eer.dk.endpoint
@@ -51,3 +52,4 @@ Parent:       EerEndpointMessagingEdelivery
 Id:           eer.dk.messaging.edelivery.fhir
 Title:        "EER Endpoint Messaging eDelivery - FHIR"
 Description:  "EER Endpoint Messaging eDelivery - FHIR"
+*/
