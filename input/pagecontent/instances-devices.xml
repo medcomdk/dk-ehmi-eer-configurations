@@ -1,3 +1,4 @@
+
 <div xmlns="http://www.w3.org/1999/xhtml" 
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../input-cache/schemas-r5/fhir-single.xsd">
   
@@ -5,7 +6,7 @@
     The following device instances are part of the EHMI Production Pilot 2026:
   </p>
   <div>
-  <table border="1">
+  <table border="1" color="blue">
     {% include table-devices.xhtml %}
   </table>
   </div>
