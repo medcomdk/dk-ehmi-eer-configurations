@@ -4,9 +4,9 @@ Alias: $ehmi-message-definition-uri = http://medcomehmi.dk/ig/terminology/CodeSy
 
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-1
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002619588"
@@ -23,9 +23,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-2
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002411298"
@@ -42,9 +42,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-3
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000130436"
@@ -61,9 +61,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-4
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002014529"
@@ -80,9 +80,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-5
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002399084"
@@ -99,9 +99,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-6
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000129577"
@@ -118,9 +118,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-7
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002621659"
@@ -137,9 +137,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-8
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000145706"
@@ -156,9 +156,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-9
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000132973"
@@ -175,9 +175,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-10
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002519840"
@@ -194,9 +194,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-11
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001390617"
@@ -213,9 +213,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-12
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002028830"
@@ -232,9 +232,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-13
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000128594"
@@ -251,9 +251,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-14
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507861"
@@ -270,9 +270,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-15
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002621888"
@@ -289,9 +289,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-16
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002516009"
@@ -308,9 +308,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-17
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001356958"
@@ -327,9 +327,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-18
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002508868"
@@ -346,9 +346,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-19
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000135912"
@@ -365,9 +365,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-20
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002516368"
@@ -384,9 +384,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-21
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002414466"
@@ -403,9 +403,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-22
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002412042"
@@ -422,9 +422,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-23
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001356965"
@@ -441,9 +441,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-24
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002510939"
@@ -460,9 +460,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-25
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507410"
@@ -479,9 +479,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-26
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002620546"
@@ -498,9 +498,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-27
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002518539"
@@ -517,9 +517,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-28
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002620423"
@@ -536,9 +536,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-29
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002015632"
@@ -555,9 +555,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-30
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002412172"
@@ -574,9 +574,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-31
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507403"
@@ -593,9 +593,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-32
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002412059"
@@ -612,9 +612,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-33
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002504280"
@@ -631,9 +631,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-34
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002757549"
@@ -650,9 +650,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-35
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002621741"
@@ -669,9 +669,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-36
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000136186"
@@ -688,9 +688,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-37
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002760839"
@@ -707,9 +707,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-38
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002012549"
@@ -726,9 +726,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-39
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002634666"
@@ -745,9 +745,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-40
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001377687"
@@ -764,9 +764,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-41
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002631276"
@@ -783,9 +783,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-42
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002413797"
@@ -802,9 +802,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-43
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002398919"
@@ -821,9 +821,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-44
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002518430"
@@ -840,9 +840,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-45
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002414411"
@@ -859,9 +859,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-46
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001377694"
@@ -878,9 +878,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-47
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002286490"
@@ -897,9 +897,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-48
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002410178"
@@ -916,9 +916,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-49
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002406836"
@@ -935,9 +935,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-50
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002402357"
@@ -954,9 +954,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-51
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002620515"
@@ -973,9 +973,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-52
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000148271"
@@ -992,9 +992,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-53
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001368623"
@@ -1011,9 +1011,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-54
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002411397"
@@ -1030,9 +1030,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-55
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002633232"
@@ -1049,9 +1049,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-56
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002414428"
@@ -1068,9 +1068,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-57
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002414305"
@@ -1087,9 +1087,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-58
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002510731"
@@ -1106,9 +1106,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-59
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002618666"
@@ -1125,9 +1125,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-60
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002618789"
@@ -1144,9 +1144,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-61
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002026829"
@@ -1163,9 +1163,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-62
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002757532"
@@ -1182,9 +1182,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-63
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000121816"
@@ -1201,9 +1201,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-64
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002621949"
@@ -1220,9 +1220,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-65
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002506475"
@@ -1239,9 +1239,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-66
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002509896"
@@ -1258,9 +1258,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-67
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507472"
@@ -1277,9 +1277,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-68
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002410918"
@@ -1296,9 +1296,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-69
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002002823"
@@ -1315,9 +1315,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-70
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001368647"
@@ -1334,9 +1334,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-71
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000146192"
@@ -1353,9 +1353,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-72
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002633133"
@@ -1372,9 +1372,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-73
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002002830"
@@ -1391,9 +1391,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-74
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002765377"
@@ -1410,9 +1410,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-75
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002636882"
@@ -1429,9 +1429,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-76
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002509650"
@@ -1448,9 +1448,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-77
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002619861"
@@ -1467,9 +1467,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-78
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507236"
@@ -1486,9 +1486,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-79
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001368630"
@@ -1505,9 +1505,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-80
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002633027"
@@ -1524,9 +1524,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-81
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002415142"
@@ -1543,9 +1543,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-82
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507373"
@@ -1562,9 +1562,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-83
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000137374"
@@ -1581,9 +1581,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-84
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002407840"
@@ -1600,9 +1600,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-85
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002625046"
@@ -1619,9 +1619,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-86
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002516085"
@@ -1638,9 +1638,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-87
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002520433"
@@ -1657,9 +1657,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-88
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000127696"
@@ -1676,9 +1676,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-89
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002415036"
@@ -1695,9 +1695,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-90
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002636660"
@@ -1714,9 +1714,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-91
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002000416"
@@ -1733,9 +1733,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-92
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002625039"
@@ -1752,9 +1752,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-93
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000153831"
@@ -1771,9 +1771,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-94
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000139545"
@@ -1790,9 +1790,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-95
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002414190"
@@ -1809,9 +1809,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-96
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002410710"
@@ -1828,9 +1828,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-97
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002506277"
@@ -1847,9 +1847,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-98
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002618611"
@@ -1866,9 +1866,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-99
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002506062"
@@ -1885,9 +1885,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-100
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002414244"
@@ -1904,9 +1904,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-101
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002626401"
@@ -1923,9 +1923,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-102
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002627613"
@@ -1942,9 +1942,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-103
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002637650"
@@ -1961,9 +1961,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-104
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002407659"
@@ -1980,9 +1980,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-105
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002278839"
@@ -1999,9 +1999,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-106
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002010996"
@@ -2018,9 +2018,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-107
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002635007"
@@ -2037,9 +2037,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-108
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000127504"
@@ -2056,9 +2056,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-109
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002021442"
@@ -2075,9 +2075,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-110
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000125562"
@@ -2094,9 +2094,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-111
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002510588"
@@ -2113,9 +2113,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-112
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002623066"
@@ -2132,9 +2132,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-113
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002406676"
@@ -2151,9 +2151,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-114
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002405105"
@@ -2170,9 +2170,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-115
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000147588"
@@ -2189,9 +2189,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-116
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002625480"
@@ -2208,9 +2208,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-117
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002627514"
@@ -2227,9 +2227,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-118
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002520471"
@@ -2246,9 +2246,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-119
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002508387"
@@ -2265,9 +2265,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-120
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002515903"
@@ -2284,9 +2284,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-121
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002510335"
@@ -2303,9 +2303,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-122
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002763007"
@@ -2322,9 +2322,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-123
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000127528"
@@ -2341,9 +2341,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-124
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000126798"
@@ -2360,9 +2360,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-125
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002408434"
@@ -2379,9 +2379,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-126
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002409400"
@@ -2398,9 +2398,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-127
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002510120"
@@ -2417,9 +2417,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-128
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001369217"
@@ -2436,9 +2436,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-129
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002409646"
@@ -2455,9 +2455,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-130
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000123117"
@@ -2474,9 +2474,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-131
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002520297"
@@ -2493,9 +2493,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-132
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002513503"
@@ -2512,9 +2512,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-133
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002630828"
@@ -2531,9 +2531,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-134
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002763106"
@@ -2550,9 +2550,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-135
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002410536"
@@ -2569,9 +2569,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-136
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000137657"
@@ -2588,9 +2588,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-137
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002405143"
@@ -2607,9 +2607,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-138
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001384944"
@@ -2626,9 +2626,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-139
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001363802"
@@ -2645,9 +2645,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-140
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000125678"
@@ -2664,9 +2664,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-141
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001382650"
@@ -2683,9 +2683,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-142
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002412844"
@@ -2702,9 +2702,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-143
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002520273"
@@ -2721,9 +2721,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-144
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002762482"
@@ -2740,9 +2740,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-145
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002008436"
@@ -2759,9 +2759,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-146
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002396359"
@@ -2778,9 +2778,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-147
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002624469"
@@ -2797,9 +2797,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-148
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002405495"
@@ -2816,9 +2816,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-149
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000134250"
@@ -2835,9 +2835,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-150
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002407314"
@@ -2854,9 +2854,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-151
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002522345"
@@ -2873,9 +2873,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-152
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000150953"
@@ -2892,9 +2892,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-153
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002410550"
@@ -2911,9 +2911,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-154
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001379018"
@@ -2930,9 +2930,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-155
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002514609"
@@ -2949,9 +2949,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-156
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002512469"
@@ -2968,9 +2968,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-157
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002622038"
@@ -2987,9 +2987,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-158
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000134328"
@@ -3006,9 +3006,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-159
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002414084"
@@ -3025,9 +3025,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-160
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001385736"
@@ -3044,9 +3044,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-161
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002409684"
@@ -3063,9 +3063,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-162
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002506901"
@@ -3082,9 +3082,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-163
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002628429"
@@ -3101,9 +3101,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-164
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002006555"
@@ -3120,9 +3120,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-165
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002637384"
@@ -3139,9 +3139,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-166
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000136612"
@@ -3158,9 +3158,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-167
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002281051"
@@ -3177,9 +3177,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-168
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002630989"
@@ -3196,9 +3196,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-169
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002512575"
@@ -3215,9 +3215,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-170
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002408229"
@@ -3234,9 +3234,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-171
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002505805"
@@ -3253,9 +3253,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-172
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002761249"
@@ -3272,9 +3272,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-173
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002628436"
@@ -3291,9 +3291,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-174
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002405075"
@@ -3310,9 +3310,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-175
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001372200"
@@ -3329,9 +3329,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-176
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001390198"
@@ -3348,9 +3348,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-177
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002415074"
@@ -3367,9 +3367,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-178
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002406034"
@@ -3386,9 +3386,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-179
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002631856"
@@ -3405,9 +3405,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-180
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000125630"
@@ -3424,9 +3424,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-181
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000134212"
@@ -3443,9 +3443,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-182
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002623219"
@@ -3462,9 +3462,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-183
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002758171"
@@ -3481,9 +3481,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-184
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002409417"
@@ -3500,9 +3500,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-185
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002764615"
@@ -3519,9 +3519,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-186
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000143030"
@@ -3538,9 +3538,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-187
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002505942"
@@ -3557,9 +3557,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-188
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001350895"
@@ -3576,9 +3576,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-189
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002277283"
@@ -3595,9 +3595,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-190
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000147717"
@@ -3614,9 +3614,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-191
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002632723"
@@ -3633,9 +3633,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-192
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002634901"
@@ -3652,9 +3652,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-193
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002506826"
@@ -3671,9 +3671,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-194
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002408274"
@@ -3690,9 +3690,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-195
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002516856"
@@ -3709,9 +3709,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-196
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000160921"
@@ -3728,9 +3728,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-197
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000131488"
@@ -3747,9 +3747,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-198
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002762895"
@@ -3766,9 +3766,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-199
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002506819"
@@ -3785,9 +3785,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-200
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002506932"
@@ -3804,9 +3804,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-201
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002411465"
@@ -3823,9 +3823,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-202
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002624759"
@@ -3842,9 +3842,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-203
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002516764"
@@ -3861,9 +3861,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-204
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002512285"
@@ -3880,9 +3880,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-205
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002621482"
@@ -3899,9 +3899,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-206
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002634918"
@@ -3918,9 +3918,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-207
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002411472"
@@ -3937,9 +3937,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-208
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507816"
@@ -3956,9 +3956,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-209
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002281518"
@@ -3975,9 +3975,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-210
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002630682"
@@ -3994,9 +3994,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-211
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000154241"
@@ -4013,9 +4013,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-212
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002622205"
@@ -4032,9 +4032,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-213
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000158720"
@@ -4051,9 +4051,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-214
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507809"
@@ -4070,9 +4070,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-215
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002761546"
@@ -4089,9 +4089,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-216
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000123766"
@@ -4108,9 +4108,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-217
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002630699"
@@ -4127,9 +4127,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-218
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002518607"
@@ -4146,9 +4146,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-219
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002517754"
@@ -4165,9 +4165,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-220
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002013003"
@@ -4184,9 +4184,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-221
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002627293"
@@ -4203,9 +4203,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-222
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000130122"
@@ -4222,9 +4222,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-223
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002634826"
@@ -4241,9 +4241,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-224
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002761898"
@@ -4260,9 +4260,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-225
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002504204"
@@ -4279,9 +4279,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-226
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002412868"
@@ -4298,9 +4298,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-227
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507830"
@@ -4317,9 +4317,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-228
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002397547"
@@ -4336,9 +4336,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-229
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002015656"
@@ -4355,9 +4355,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-230
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002620485"
@@ -4374,9 +4374,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-231
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002514593"
@@ -4393,9 +4393,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-232
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002409271"
@@ -4412,9 +4412,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-233
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002506857"
@@ -4431,9 +4431,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-234
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507823"
@@ -4450,9 +4450,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-235
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002410574"
@@ -4469,9 +4469,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-236
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002000287"
@@ -4488,9 +4488,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-237
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002412752"
@@ -4507,9 +4507,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-238
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002401305"
@@ -4526,9 +4526,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-239
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002623622"
@@ -4545,9 +4545,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-240
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000145836"
@@ -4564,9 +4564,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-241
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000135714"
@@ -4583,9 +4583,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-242
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002410581"
@@ -4602,9 +4602,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-243
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002504228"
@@ -4621,9 +4621,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-244
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002410468"
@@ -4640,9 +4640,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-245
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507854"
@@ -4659,9 +4659,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-246
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000152025"
@@ -4678,9 +4678,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-247
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002515224"
@@ -4697,9 +4697,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-248
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000153114"
@@ -4716,9 +4716,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-249
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002516313"
@@ -4735,9 +4735,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-250
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002516436"
@@ -4754,9 +4754,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-251
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002636912"
@@ -4773,9 +4773,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-252
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002630019"
@@ -4792,9 +4792,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-253
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002408045"
@@ -4811,9 +4811,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-254
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002631467"
@@ -4830,9 +4830,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-255
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507847"
@@ -4849,9 +4849,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-256
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002398742"
@@ -4868,9 +4868,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-257
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002618383"
@@ -4887,9 +4887,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-258
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000145614"
@@ -4906,9 +4906,9 @@ Usage: #inline
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-259
-InstanceOf: Endpoint
-Usage: #inline
-* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
+InstanceOf: EerEndpointMessagingEdelivery
+// Usage: #inline
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002504211"
