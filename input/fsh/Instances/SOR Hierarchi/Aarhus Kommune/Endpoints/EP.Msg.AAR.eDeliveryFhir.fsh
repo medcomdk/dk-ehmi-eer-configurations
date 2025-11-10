@@ -1,3 +1,4 @@
+/*
 Instance: EerEndpoint-Messaging-AAR-eDeliveryFhir.5790002508226
 InstanceOf: EerEndpointMessagingEdeliveryFhir
 Description: "AAR EerEndpointMessagingEdeliveryFhir."
@@ -15,3 +16,4 @@ Description: "AAR EerEndpointMessagingEdeliveryFhir."
 * payloadMimeType[+] = #application/fhir+json
 * payloadType[0] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:homecareobservation:1.1
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:acknowledgement:2.0
+*/

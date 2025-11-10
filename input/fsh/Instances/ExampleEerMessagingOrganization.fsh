@@ -17,6 +17,7 @@ Description: "An example instance of the EER Messaging Organization with a requi
 * address[0].postalCode = "12345"
 * endpoint[0].reference = "Endpoint/example-endpoint"
 
+/*
 Instance: ExampleEndpoint
 InstanceOf: EerEndpointMessagingEdelivery
 Title: "Example EER Messaging Endpoint"
@@ -36,3 +37,4 @@ Description: "An example endpoint for the EER Messaging Organization."
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:acknowledgement:2.0	
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:ehmi:messaging:envelope:xml:sbdh:1.0
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:ehmi:messaging:envelope:xml:sbdhacknowledgement:1.0
+*/

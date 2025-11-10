@@ -1,3 +1,4 @@
+/*
 Instance: EerEndpoint-Messaging-eDeliveryFhir.01
 InstanceOf: EerEndpointMessagingEdeliveryFhir
 Description: "An example of an EerEndpointMessagingEdeliveryFhir."
@@ -15,3 +16,4 @@ Description: "An example of an EerEndpointMessagingEdeliveryFhir."
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:acknowledgement:2.0	
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:ehmi:messaging:envelope:xml:sbdh:1.0
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:ehmi:messaging:envelope:xml:sbdhacknowledgement:1.0
+*/
