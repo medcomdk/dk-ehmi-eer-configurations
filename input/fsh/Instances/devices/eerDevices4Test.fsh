@@ -27,7 +27,7 @@ Description: "EerDevice-MultiMedMSH"
 Instance: EerDevice-KvalitetsItAP-test-aarhus
 InstanceOf: EerDeviceConfig
 Description: "EerDevice-KvalitetsItAP"
-* id = "EerDevice-KvalitetsItAP-test-aarhus"
+* id = "KvalitetsItAP-test-aarhus"
 * identifier.value = "EerDevice-KvalitetsItAP-test-aarhus"
 * definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
@@ -39,7 +39,7 @@ Description: "EerDevice-KvalitetsItAP"
 Instance: EerDevice-KvalitetsItAP-test-kobenhavn
 InstanceOf: EerDeviceConfig
 Description: "EerDevice-KvalitetsItAP"
-* id = "EerDevice-KvalitetsItAP-test-kobenhavn"
+* id = "KvalitetsItAP-test-kobenhavn"
 * identifier.value = "EerDevice-KvalitetsItAP-test-kobenhavn"
 * definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
@@ -52,7 +52,7 @@ Description: "EerDevice-KvalitetsItAP"
 Instance: EerDevice-EGClineaEUA-test-aarhus
 InstanceOf: EerDeviceConfig
 Description: "EerDevice-EGClineaEUA"
-* id = "EerDevice-EGClineaEUA-test-aarhus"
+* id = "EGClineaEUA-test-aarhus"
 * identifier.value = "EerDevice-EGClineaEUA-test-aarhus"
 * definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
@@ -64,7 +64,7 @@ Description: "EerDevice-EGClineaEUA"
 Instance: EerDevice-EGClineaEUA-test-kobenhavn
 InstanceOf: EerDeviceConfig
 Description: "EerDevice-EGClineaEUA"
-* id = "EerDevice-EGClineaEUA-test-kobenhavn"
+* id = "EGClineaEUA-test-kobenhavn"
 * identifier.value = "EerDevice-EGClineaEUA-test-kobenhavn"
 * definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
@@ -98,25 +98,25 @@ Description: "EerDevice-SystematicMSH for Copenhagen"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
-Instance: EerDevice-SystematicCura-test-aarhus
+Instance: EerDevice-SystematicCuraEUA-test-aarhus
 InstanceOf: EerDeviceConfig
-Description: "EerDevice-SystematicCura for Aarhus"
-* id = "SystematicCura-test-aarhus" 
-* identifier.value = "SystematicCura-test-aarhus"
-* definition = Reference(EerDeviceDefinition4MSH)
-* type = $EerDeviceTypeCS#MSH "Message Service Handler"
+Description: "EerDevice-SystematicCuraEUA for Aarhus"
+* id = "SystematicCuraEUA-test-aarhus" 
+* identifier.value = "SystematicCuraEUA-test-aarhus"
+* definition = Reference(EerDeviceDefinition4EUA)
+* type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
 * deviceName.name = "SystematicCura"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
-Instance: EerDevice-SystematicCura-test-kobenhavn
+Instance: EerDevice-SystematicCuraEUA-test-kobenhavn
 InstanceOf: EerDeviceConfig
-Description: "EerDevice-SystematicCura for Copenhagen"
-* id = "SystematicCura-test-kobenhavn" 
-* identifier.value = "SystematicCura-test-kobenhavn"
-* definition = Reference(EerDeviceDefinition4MSH)
-* type = $EerDeviceTypeCS#MSH "Message Service Handler"
+Description: "EerDevice-SystematicCuraEUA for Copenhagen"
+* id = "SystematicCuraEUA-test-kobenhavn" 
+* identifier.value = "SystematicCuraEUA-test-kobenhavn"
+* definition = Reference(EerDeviceDefinition4EUA)
+* type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
 * deviceName.name = "SystematicCura"
 * deviceName.type = #manufacturer-name
