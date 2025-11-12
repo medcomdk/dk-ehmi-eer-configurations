@@ -11,7 +11,7 @@ Description: "EER SOR HI AAR Kommune - Sundhed og Omsorg (937961000016000)"
 * type[SOR-Hierarchy].coding.system = $EerSorOrganizationTypeCS
 * type[SOR-UnitType].coding.code = $EerSorUnitType#sundhedsforvaltning
 * type[SOR-UnitType].coding.system = $EerSorUnitType
-* endpoint[+] = Reference(Endpoint/EerEndpoint-Messaging-AAR-eDeliveryFhir.5790000123117)
+//* endpoint[+] = Reference(Endpoint/EerEndpoint-Messaging-AAR-eDeliveryFhir.5790000123117)
 
 
 

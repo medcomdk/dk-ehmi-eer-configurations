@@ -9,4 +9,4 @@ Description: "Sygehusadviser, AAR - SOR.OU-AAR-Kommune.1144751000016008"
 * type[SOR-Hierarchy].coding.code = $EerSorOrganizationTypeCS#OE
 * type[SOR-Hierarchy].coding.system = $EerSorOrganizationTypeCS
 * partOf = Reference(Organization/EER.SOR.HI-AAR-Kommune.937961000016000)
-* endpoint[+] = Reference(Endpoint/EerEndpoint-Messaging-AAR-eDeliveryFhir.5790000123117)
+//* endpoint[+] = Reference(Endpoint/EerEndpoint-Messaging-AAR-eDeliveryFhir.5790000123117)

@@ -2,14 +2,13 @@ Alias: $ehmi-delivery-status-agent-who-identifier-types = http://medcomehmi.dk/i
 Alias: $eer-endpoint-connection-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-endpoint-connection-type
 Alias: $ehmi-message-definition-uri = http://medcomehmi.dk/ig/terminology/CodeSystem/ehmi-message-definition-uri
 
-
+/*
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-1
-InstanceOf: EerEndpointMessagingEdelivery
-// Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002619588"
+InstanceOf: EerEndpointMessaging
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002619588"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmenLægeklinikHvidovre.2650.Hvidovre.1254731000016003 FHIR Endpoint"
@@ -23,12 +22,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-2
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002411298"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002411298"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægenAmagerbrogade100APS.2300.KøbenhavnS.1448311000016001 FHIR Endpoint"
@@ -42,12 +41,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-3
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000130436"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000130436"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneSallvej.8450.Hammel.1090421000016000 FHIR Endpoint"
@@ -61,12 +60,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-4
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002014529"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002014529"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeHenrikEngbergSchjørring.8560.Kolind.550721000016002 FHIR Endpoint"
@@ -80,12 +79,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-5
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002399084"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002399084"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Voksentandplejen,KøbenhavnsKommune.1704.KøbenhavnV.1133261000016002 FHIR Endpoint"
@@ -99,12 +98,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-6
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000129577"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000129577"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneiSkovbyI/S.8464.Galten.1399451000016004 FHIR Endpoint"
@@ -118,12 +117,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-7
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002621659"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002621659"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægernevedDamhussøen.2500.Valby.1279151000016006 FHIR Endpoint"
@@ -137,12 +136,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-8
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000145706"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000145706"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægerneiHvidovre.2650.Hvidovre.69091000016001 FHIR Endpoint"
@@ -156,12 +155,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-9
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000132973"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000132973"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeHenrikNordentoft.8000.AarhusC.774141000016003 FHIR Endpoint"
@@ -175,12 +174,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-10
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002519840"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002519840"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CaritasKlinikken.1756.KøbenhavnV.1190541000016001 FHIR Endpoint"
@@ -194,12 +193,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-11
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001390617"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001390617"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Neurorehabilitering,AmbulantAfdeling,KøbenhavnsKommune.2900.Hellerup.390871000016002 FHIR Endpoint"
@@ -213,12 +212,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-12
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002028830"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002028830"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - KildebjergLægehus.8680.Ry.1498711000016005 FHIR Endpoint"
@@ -232,12 +231,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-13
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000128594"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000128594"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneGardesAllé.2900.Hellerup.1469261000016007 FHIR Endpoint"
@@ -251,12 +250,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-14
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507861"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507861"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenSkæringSkole.8250.Egå.1027281000016009 FHIR Endpoint"
@@ -270,12 +269,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-15
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002621888"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002621888"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægehusetKronen.2720.Vanløse.1282331000016002 FHIR Endpoint"
@@ -289,12 +288,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-16
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002516009"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002516009"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Lokallægerne.2920.Charlottenlund.1138411000016006 FHIR Endpoint"
@@ -308,12 +307,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-17
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001356958"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001356958"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CenterforKræftogSundhed,KøbenhavnsKommune.2200.KøbenhavnN.390481000016003 FHIR Endpoint"
@@ -327,12 +326,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-18
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002508868"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002508868"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Sygehusadviser,Aarhus.8000.AarhusC.1053851000016007 FHIR Endpoint"
@@ -346,12 +345,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-19
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000135912"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000135912"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FrederiksbjergLægehus.8000.AarhusC.1216891000016007 FHIR Endpoint"
@@ -365,12 +364,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-20
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002516368"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002516368"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Vesterbrofamilielæge.1756.KøbenhavnV.1142601000016006 FHIR Endpoint"
@@ -384,12 +383,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-21
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002414466"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002414466"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeJohanPoulsen.2700.Brønshøj.994831000016001 FHIR Endpoint"
@@ -403,12 +402,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-22
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002412042"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002412042"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeSigneBrøndt.8000.AarhusC.970111000016003 FHIR Endpoint"
@@ -422,12 +421,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-23
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001356965"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001356965"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Genoptræning,KøbenhavnsKommune.2200.KøbenhavnN.193221000016001 FHIR Endpoint"
@@ -441,12 +440,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-24
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002510939"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002510939"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Handicap,psykiatrioghjælpemidler,KøbenhavnsKommune.1577.KøbenhavnV.1069051000016005 FHIR Endpoint"
@@ -460,12 +459,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-25
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507410"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507410"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Hjortshøjlægehus.8530.Hjortshøj.1047891000016007 FHIR Endpoint"
@@ -479,12 +478,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-26
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002620546"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002620546"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægeLindevang.2000.Frederiksberg.1264801000016006 FHIR Endpoint"
@@ -498,12 +497,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-27
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002518539"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002518539"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - ValbySundhedshus.2500.Valby.1177091000016007 FHIR Endpoint"
@@ -517,12 +516,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-28
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002620423"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002620423"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneLergravsvej.2300.KøbenhavnS.1263371000016009 FHIR Endpoint"
@@ -536,12 +535,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-29
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002015632"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002015632"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - ForumLægehus.1970.Frederiksberg.1461451000016007 FHIR Endpoint"
@@ -555,12 +554,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-30
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002412172"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002412172"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - IBOS-Rådgivning.2900.Hellerup.1117111000016008 FHIR Endpoint"
@@ -574,12 +573,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-31
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507403"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507403"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeLauraBjerring.2200.KøbenhavnN.1047811000016000 FHIR Endpoint"
@@ -593,12 +592,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-32
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002412059"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002412059"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Frederiksberglægen,LægePernilleLund.1850.FrederiksbergC.838101000016008 FHIR Endpoint"
@@ -612,12 +611,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-33
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002504280"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002504280"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægernevedFredensvej.2920.Charlottenlund.1494401000016006 FHIR Endpoint"
@@ -631,12 +630,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-34
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002757549"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002757549"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægehusetKirkedammen.8000.AarhusC.1461771000016005 FHIR Endpoint"
@@ -650,12 +649,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-35
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002621741"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002621741"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - SocialeForholdogBeskæftigelse.8000.AarhusC.1280171000016004 FHIR Endpoint"
@@ -669,12 +668,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-36
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000136186"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000136186"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeMilanSocevic.2200.KøbenhavnN.839661000016008 FHIR Endpoint"
@@ -688,12 +687,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-37
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002760839"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002760839"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægenvedRosenborg.1130.KøbenhavnK.1493141000016004 FHIR Endpoint"
@@ -707,12 +706,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-38
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002012549"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002012549"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - NørrebroLægehus.2200.KøbenhavnN.1238221000016000 FHIR Endpoint"
@@ -726,12 +725,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-39
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002634666"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002634666"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneNordvest.2400.KøbenhavnNV.1409521000016000 FHIR Endpoint"
@@ -745,12 +744,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-40
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001377687"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001377687"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CenterforGenoptræning-Vesterbro,KøbenhavnsKommune.1620.KøbenhavnV.347561000016000 FHIR Endpoint"
@@ -764,12 +763,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-41
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002631276"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002631276"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Familielægeklinikken.2000.Frederiksberg.1378671000016006 FHIR Endpoint"
@@ -783,12 +782,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-42
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002413797"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002413797"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeMicheleSaldo.2100.KøbenhavnØ.802801000016008 FHIR Endpoint"
@@ -802,12 +801,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-43
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002398919"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002398919"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AmnehHawwaKlinikken.2700.Brønshøj.688961000016006 FHIR Endpoint"
@@ -821,12 +820,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-44
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002518430"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002518430"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Sundhedsteamet,KøbenhavnsKommune.2300.KøbenhavnS.1118261000016001 FHIR Endpoint"
@@ -840,12 +839,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-45
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002414411"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002414411"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FrederiksbergLægecenter.2000.Frederiksberg.994551000016008 FHIR Endpoint"
@@ -859,12 +858,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-46
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001377694"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001377694"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CenterforGenoptræning-Amager,KøbenhavnsKommune.2300.KøbenhavnS.347581000016007 FHIR Endpoint"
@@ -878,12 +877,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-47
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002286490"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002286490"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - RusmiddelcenterKøbenhavnsKommune.2300.KøbenhavnS.1118811000016002 FHIR Endpoint"
@@ -897,12 +896,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-48
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002410178"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002410178"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - BryggensLægehus.2300.KøbenhavnS.951791000016000 FHIR Endpoint"
@@ -916,12 +915,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-49
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002406836"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002406836"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - OrdrupLægehus.2920.Charlottenlund.917961000016006 FHIR Endpoint"
@@ -935,12 +934,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-50
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002402357"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002402357"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenGazelleD.Maghsoudi.2100.KøbenhavnØ.887521000016000 FHIR Endpoint"
@@ -954,12 +953,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-51
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002620515"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002620515"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeLejlaJohannesen.2000.Frederiksberg.1264731000016006 FHIR Endpoint"
@@ -973,12 +972,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-52
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000148271"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000148271"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneFuglesangsAllé95.8210.AarhusV.1476191000016005 FHIR Endpoint"
@@ -992,12 +991,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-53
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001368623"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001368623"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - NeurocenterGOP,AarhusKommune-KUNINTERNTBRUG.8260.VibyJ.331071000016009 FHIR Endpoint"
@@ -1011,12 +1010,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-54
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002411397"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002411397"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Flyvelæge-Aarhus.dk.8200.AarhusN.962371000016004 FHIR Endpoint"
@@ -1030,12 +1029,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-55
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002633232"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002633232"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmentpraktiserendelægeWinnyKalra.2400.KøbenhavnNV.1396561000016006 FHIR Endpoint"
@@ -1049,12 +1048,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-56
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002414428"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002414428"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneGyldenløvesgade.8200.AarhusN.994611000016008 FHIR Endpoint"
@@ -1068,12 +1067,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-57
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002414305"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002414305"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeMarieBaunsgaard.2100.KøbenhavnØ.993501000016009 FHIR Endpoint"
@@ -1087,12 +1086,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-58
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002510731"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002510731"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneWarrerogIsaksen.8250.Egå.992681000016005 FHIR Endpoint"
@@ -1106,12 +1105,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-59
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002618666"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002618666"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - BørnogUngeSundhed-SundVægt,KøbenhavnsKommune.2200.KøbenhavnN.1133071000016001 FHIR Endpoint"
@@ -1125,12 +1124,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-60
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002618789"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002618789"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - allesLægehusNørrebro.2200.KøbenhavnN.1248391000016009 FHIR Endpoint"
@@ -1144,12 +1143,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-61
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002026829"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002026829"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeTineSøndergaard.2200.KøbenhavnN.596141000016002 FHIR Endpoint"
@@ -1163,12 +1162,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-62
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002757532"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002757532"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneHelleruphus.2900.Hellerup.1461521000016003 FHIR Endpoint"
@@ -1182,12 +1181,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-63
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000121816"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000121816"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Sygepleje,omsorgoghjælpemidler,65+,KøbenhavnsKommune.2200.KøbenhavnN.328091000016002 FHIR Endpoint"
@@ -1201,12 +1200,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-64
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002621949"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002621949"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - NørrebroLægeklinik.2200.KøbenhavnN.1282681000016008 FHIR Endpoint"
@@ -1220,12 +1219,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-65
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002506475"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002506475"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeNannaOvergaard.2100.KøbenhavnØ.1036201000016001 FHIR Endpoint"
@@ -1239,12 +1238,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-66
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002509896"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002509896"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneVirkefeltetv/JoenSteendahl.2700.Brønshøj.1058461000016003 FHIR Endpoint"
@@ -1258,12 +1257,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-67
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507472"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507472"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægernevedSvanemøllen.2100.KøbenhavnØ.1048251000016003 FHIR Endpoint"
@@ -1277,12 +1276,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-68
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002410918"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002410918"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeBirgitteBorup.8410.Rønde.959531000016007 FHIR Endpoint"
@@ -1296,12 +1295,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-69
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002002823"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002002823"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægehusetKrumtappen.2500.Valby.1316751000016004 FHIR Endpoint"
@@ -1315,12 +1314,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-70
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001368647"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001368647"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - GOP§140,AarhusKommune.8260.VibyJ.331091000016008 FHIR Endpoint"
@@ -1334,12 +1333,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-71
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000146192"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000146192"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeToreTveitKnudsen.2300.KøbenhavnS.844041000016003 FHIR Endpoint"
@@ -1353,12 +1352,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-72
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002633133"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002633133"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Langenæslægehus.8000.AarhusC.1394741000016009 FHIR Endpoint"
@@ -1372,12 +1371,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-73
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002002830"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002002830"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - ValbyKlinikv.PearlPedersen.2500.Valby.1302071000016005 FHIR Endpoint"
@@ -1391,12 +1390,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-74
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002765377"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002765377"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - VestfløjensLægeklinik.2700.Brønshøj.1554921000016007 FHIR Endpoint"
@@ -1410,12 +1409,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-75
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002636882"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002636882"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneiVoldum.8370.Hadsten.1430101000016001 FHIR Endpoint"
@@ -1429,12 +1428,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-76
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002509650"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002509650"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneKromannogFrost.2000.Frederiksberg.1058811000016003 FHIR Endpoint"
@@ -1448,12 +1447,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-77
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002619861"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002619861"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - BispebjergLægehus.2400.KøbenhavnNV.1257551000016006 FHIR Endpoint"
@@ -1467,12 +1466,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-78
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507236"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507236"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - RødovreLægeklinik.2610.Rødovre.1044931000016005 FHIR Endpoint"
@@ -1486,12 +1485,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-79
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001368630"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001368630"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Ortopædkir.GOPcenter,AarhusKommune-KUNINTERNTBRUG.8260.VibyJ.331081000016006 FHIR Endpoint"
@@ -1505,12 +1504,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-80
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002633027"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002633027"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AirportDoctorDenmark.2300.KøbenhavnS.1393471000016008 FHIR Endpoint"
@@ -1524,12 +1523,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-81
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002415142"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002415142"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlleensLægeklinik.2770.Kastrup.998541000016001 FHIR Endpoint"
@@ -1543,12 +1542,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-82
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507373"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507373"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - MinSundhedsklinik.2650.Hvidovre.1045971000016008 FHIR Endpoint"
@@ -1562,12 +1561,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-83
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000137374"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000137374"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - DinLægeklinik.2700.Brønshøj.1484981000016009 FHIR Endpoint"
@@ -1581,12 +1580,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-84
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002407840"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002407840"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeAndersBrøndt.8000.AarhusC.928971000016007 FHIR Endpoint"
@@ -1600,12 +1599,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-85
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002625046"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002625046"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneKamillevej.2770.Kastrup.712921000016008 FHIR Endpoint"
@@ -1619,12 +1618,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-86
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002516085"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002516085"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeLarsDamkjær.2000.Frederiksberg.1140331000016008 FHIR Endpoint"
@@ -1638,12 +1637,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-87
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002520433"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002520433"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeIntaAndersen.8230.Åbyhøj.1206581000016005 FHIR Endpoint"
@@ -1657,12 +1656,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-88
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000127696"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000127696"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneiTranbjerg.8310.TranbjergJ.1145841000016004 FHIR Endpoint"
@@ -1676,12 +1675,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-89
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002415036"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002415036"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeAnne-MetteToftgaard.2100.KøbenhavnØ.998001000016008 FHIR Endpoint"
@@ -1695,12 +1694,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-90
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002636660"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002636660"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeTanjaTran.2400.KøbenhavnNV.1428521000016000 FHIR Endpoint"
@@ -1714,12 +1713,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-91
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002000416"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002000416"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Sundhedspleje.8000.AarhusC.951321000016004 FHIR Endpoint"
@@ -1733,12 +1732,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-92
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002625039"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002625039"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneTårnbySundhedshus.2770.Kastrup.711601000016001 FHIR Endpoint"
@@ -1752,12 +1751,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-93
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000153831"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000153831"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenpåVærnedamsvej1.1819.FrederiksbergC.82911000016000 FHIR Endpoint"
@@ -1771,12 +1770,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-94
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000139545"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000139545"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmentpraktiserendelægeOleBrockMadsen.2400.KøbenhavnNV.1434771000016001 FHIR Endpoint"
@@ -1790,12 +1789,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-95
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002414190"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002414190"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - ÅboulevardensLægeklinik.1635.KøbenhavnV.992201000016004 FHIR Endpoint"
@@ -1809,12 +1808,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-96
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002410710"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002410710"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Frederiksberglægerne.2000.Frederiksberg.956911000016004 FHIR Endpoint"
@@ -1828,12 +1827,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-97
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002506277"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002506277"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Børne-ogUngdomstandplejen-Administration.1662.KøbenhavnV.1032751000016006 FHIR Endpoint"
@@ -1847,12 +1846,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-98
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002618611"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002618611"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - WEMAHealth.2300.KøbenhavnS.1243391000016003 FHIR Endpoint"
@@ -1866,12 +1865,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-99
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002506062"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002506062"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Nyhavnslaegernev.TrineJuhler.1254.KøbenhavnK.1029451000016008 FHIR Endpoint"
@@ -1885,12 +1884,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-100
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002414244"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002414244"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Ryge-ogNikotinstop,KøbenhavnsKommune.2200.KøbenhavnN.992841000016000 FHIR Endpoint"
@@ -1904,12 +1903,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-101
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002626401"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002626401"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - VesterbroLægeklinik.1810.Frederiksberg.1334591000016004 FHIR Endpoint"
@@ -1923,12 +1922,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-102
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002627613"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002627613"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - GoDoctorv.speciallægeialmenmedicinKristianGottliebsen.1970.Frederiksberg.1347061000016007 FHIR Endpoint"
@@ -1942,12 +1941,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-103
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002637650"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002637650"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneIngolfsAllé.2300.KøbenhavnS.1439671000016009 FHIR Endpoint"
@@ -1961,12 +1960,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-104
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002407659"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002407659"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægernepåTredje.1665.KøbenhavnV.923001000016008 FHIR Endpoint"
@@ -1980,12 +1979,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-105
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002278839"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002278839"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneTruelsen&Lykkegaard.2100.KøbenhavnØ.1040971000016001 FHIR Endpoint"
@@ -1999,12 +1998,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-106
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002010996"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002010996"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - SociallægeinstitutionenAarhus.8000.AarhusC.535411000016006 FHIR Endpoint"
@@ -2018,12 +2017,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-107
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002635007"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002635007"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenNøjsomhedsvej.2100.KøbenhavnØ.1412621000016008 FHIR Endpoint"
@@ -2037,12 +2036,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-108
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000127504"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000127504"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Lægehuset,Egålægerne.8250.Egå.1206171000016001 FHIR Endpoint"
@@ -2056,12 +2055,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-109
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002021442"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002021442"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LÆ-blanketter,suppl.kommunikation,Aarhus.8000.AarhusC.576011000016009 FHIR Endpoint"
@@ -2075,12 +2074,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-110
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000125562"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000125562"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneHvidt-Nielsen&Carson.2100.KøbenhavnØ.709611000016001 FHIR Endpoint"
@@ -2094,12 +2093,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-111
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002510588"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002510588"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - RunddelensLægehus.2200.KøbenhavnN.1168301000016005 FHIR Endpoint"
@@ -2113,12 +2112,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-112
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002623066"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002623066"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeChristeljackson.2720.Vanløse.1297441000016003 FHIR Endpoint"
@@ -2132,12 +2131,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-113
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002406676"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002406676"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægerneFrederiksberg.2000.Frederiksberg.791721000016000 FHIR Endpoint"
@@ -2151,12 +2150,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-114
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002405105"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002405105"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeSebastianFriisAbrahamsen.8240.Risskov.903551000016008 FHIR Endpoint"
@@ -2170,12 +2169,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-115
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000147588"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000147588"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - HellerupLægehus.2900.Hellerup.1195421000016004 FHIR Endpoint"
@@ -2189,12 +2188,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-116
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002625480"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002625480"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneIdrissKiseGalten.8464.Galten.1325521000016000 FHIR Endpoint"
@@ -2208,12 +2207,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-117
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002627514"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002627514"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenSanktHansTorv.2200.København.1346501000016001 FHIR Endpoint"
@@ -2227,12 +2226,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-118
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002520471"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002520471"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Allélægen2920.2920.Charlottenlund.1207111000016007 FHIR Endpoint"
@@ -2246,12 +2245,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-119
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002508387"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002508387"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Sygehusadviser,København.1550.KøbenhavnV.1053371000016007 FHIR Endpoint"
@@ -2265,12 +2264,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-120
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002515903"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002515903"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - allesLægehusTårnby.2770.Kastrup.1137121000016006 FHIR Endpoint"
@@ -2284,12 +2283,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-121
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002510335"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002510335"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Familielaegernepaatoppen.1620.København.1062831000016004 FHIR Endpoint"
@@ -2303,12 +2302,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-122
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002763007"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002763007"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - KløvermarkensLæger.2300.KøbenhavnS.1518521000016003 FHIR Endpoint"
@@ -2322,12 +2321,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-123
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000127528"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000127528"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneMereteAndersenogDorteLeiKaltoft.8240.Risskov.753691000016000 FHIR Endpoint"
@@ -2341,12 +2340,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-124
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000126798"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000126798"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeAnetteHenriksen.8520.Lystrup.917681000016008 FHIR Endpoint"
@@ -2360,12 +2359,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-125
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002408434"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002408434"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægernepåAmagertorv.1160.KøbenhavnK.933211000016002 FHIR Endpoint"
@@ -2379,12 +2378,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-126
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002409400"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002409400"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmentpraktiserendelægeSkovshovedLægeklinik.2930.Klampenborg.1533241000016009 FHIR Endpoint"
@@ -2398,12 +2397,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-127
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002510120"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002510120"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeZohrehAbbariki.2650.Hvidovre.1061131000016002 FHIR Endpoint"
@@ -2417,12 +2416,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-128
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001369217"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001369217"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Sygeplejeogomsorg,18-65år,KøbenhavnsKommune.2100.KøbenhavnØ.1119001000016000 FHIR Endpoint"
@@ -2436,12 +2435,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-129
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002409646"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002409646"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeNicolaiUtzon-Frank.2820.Gentofte.946491000016002 FHIR Endpoint"
@@ -2455,12 +2454,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-130
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000123117"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000123117"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - SundhedogOmsorg.8260.VibyJ.937961000016000 FHIR Endpoint"
@@ -2474,12 +2473,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-131
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002520297"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002520297"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægenVordingborggade.2100.KøbenhavnØ.1203821000016002 FHIR Endpoint"
@@ -2493,12 +2492,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-132
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002513503"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002513503"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægenHøjbjergIS.8270.Højbjerg.1285371000016005 FHIR Endpoint"
@@ -2512,12 +2511,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-133
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002630828"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002630828"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneTuborgvej.2400.KøbenhavnNV.1393151000016009 FHIR Endpoint"
@@ -2531,12 +2530,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-134
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002763106"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002763106"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - KløvermarkensLæger.2300.KøbenhavnS.1519351000016006 FHIR Endpoint"
@@ -2550,12 +2549,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-135
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002410536"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002410536"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeEfdalSerdarCatalgøl.2650.Hvidovre.955531000016005 FHIR Endpoint"
@@ -2569,12 +2568,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-136
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000137657"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000137657"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneiThorsø.8881.Thorsø.993601000016008 FHIR Endpoint"
@@ -2588,12 +2587,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-137
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002405143"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002405143"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægernepåStrandvejen.2900.Hellerup.904071000016007 FHIR Endpoint"
@@ -2607,12 +2606,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-138
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001384944"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001384944"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneMagnus.8000.AarhusC.1499141000016001 FHIR Endpoint"
@@ -2626,12 +2625,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-139
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001363802"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001363802"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægePeymanPedrampour.2200.KøbenhavnN.88631000016002 FHIR Endpoint"
@@ -2645,12 +2644,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-140
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000125678"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000125678"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægepraksisAmagerbrogade150v/lægeAndrzejBohn-Jespersen.2300.KøbenhavnS.1086441000016008 FHIR Endpoint"
@@ -2664,12 +2663,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-141
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001382650"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001382650"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneJagtvej.2200.KøbenhavnN.359651000016009 FHIR Endpoint"
@@ -2683,12 +2682,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-142
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002412844"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002412844"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægepraksisLergravsvej-AnnaSomogyi.2300.KøbenhavnS.718201000016008 FHIR Endpoint"
@@ -2702,12 +2701,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-143
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002520273"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002520273"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenAarhus,AarhusKommune.8260.VibyJ.1203461000016006 FHIR Endpoint"
@@ -2721,12 +2720,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-144
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002762482"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002762482"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeMajVadskjær.2100.KøbenhavnØ.1514241000016002 FHIR Endpoint"
@@ -2740,12 +2739,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-145
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002008436"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002008436"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Sundhedsplejen,KøbenhavnsKommune.1600.KøbenhavnV.523661000016009 FHIR Endpoint"
@@ -2759,12 +2758,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-146
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002396359"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002396359"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægerneiRødovre.2610.Rødovre.990351000016005 FHIR Endpoint"
@@ -2778,12 +2777,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-147
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002624469"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002624469"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeSarahGuldager.2820.Gentofte.1313141000016005 FHIR Endpoint"
@@ -2797,12 +2796,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-148
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002405495"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002405495"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlexandriaKlinikken.2100.KøbenhavnØ.1048171000016000 FHIR Endpoint"
@@ -2816,12 +2815,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-149
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000134250"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000134250"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - allesLægehusBrønshøj.2700.Brønshøj.1365031000016002 FHIR Endpoint"
@@ -2835,12 +2834,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-150
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002407314"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002407314"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneKirstinelund.8520.Lystrup.991721000016006 FHIR Endpoint"
@@ -2854,12 +2853,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-151
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002522345"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002522345"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægernevedTorvehallerne.1364.KøbenhavnK.1211281000016004 FHIR Endpoint"
@@ -2873,12 +2872,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-152
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000150953"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000150953"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CenterforGenoptræning-Nørrebro,KøbenhavnsKommune.2200.KøbenhavnN.928531000016000 FHIR Endpoint"
@@ -2892,12 +2891,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-153
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002410550"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002410550"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeTomHelmPetersen.2100.KøbenhavnØ.955681000016005 FHIR Endpoint"
@@ -2911,12 +2910,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-154
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001379018"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001379018"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikLandsbyenSølund.8660.Skanderborg.349651000016007 FHIR Endpoint"
@@ -2930,12 +2929,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-155
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002514609"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002514609"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - 2100TidSammeDag.2100.KøbenhavnØ.1397381000016005 FHIR Endpoint"
@@ -2949,12 +2948,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-156
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002512469"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002512469"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - HellerupSundhedscenter.2900.Hellerup.1087391000016009 FHIR Endpoint"
@@ -2968,12 +2967,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-157
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002622038"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002622038"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneVennelystparken.8000.AarhusC.1283771000016007 FHIR Endpoint"
@@ -2987,12 +2986,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-158
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000134328"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000134328"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Grøndalslægerne.2720.Vanløse.881761000016005 FHIR Endpoint"
@@ -3006,12 +3005,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-159
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002414084"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002414084"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneDyhrogKlint.2000.Frederiksberg.741421000016004 FHIR Endpoint"
@@ -3025,12 +3024,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-160
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001385736"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001385736"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CenterforBørnogUngesSundhed,KøbenhavnsKommune.2200.KøbenhavnN.377821000016007 FHIR Endpoint"
@@ -3044,12 +3043,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-161
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002409684"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002409684"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Voksentandplejen,Aarhus.8240.Risskov.947251000016006 FHIR Endpoint"
@@ -3063,12 +3062,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-162
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002506901"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002506901"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeMarieVillumMarker.2100.KøbenhavnØ.714351000016006 FHIR Endpoint"
@@ -3082,12 +3081,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-163
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002628429"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002628429"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeCathrineChristophersen.1655.KøbenhavnV.1351131000016007 FHIR Endpoint"
@@ -3101,12 +3100,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-164
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002006555"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002006555"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - ÅrhusgadeLægehus.2100.KøbenhavnØ.1018801000016006 FHIR Endpoint"
@@ -3120,12 +3119,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-165
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002637384"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002637384"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - PPR(PædagogiskPsykologiskRådgivning).8260.VibyJ.1437191000016005 FHIR Endpoint"
@@ -3139,12 +3138,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-166
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000136612"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000136612"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenAnneBlom.8000.AarhusC.1320731000016003 FHIR Endpoint"
@@ -3158,12 +3157,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-167
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002281051"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002281051"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AprilMoe.2920.Charlottenlund.644901000016008 FHIR Endpoint"
@@ -3177,12 +3176,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-168
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002630989"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002630989"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægeSuneJans.1908.FrederiksbergC.1375811000016008 FHIR Endpoint"
@@ -3196,12 +3195,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-169
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002512575"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002512575"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Copenhagensundhedshus.2770.Kastrup.1087891000016004 FHIR Endpoint"
@@ -3215,12 +3214,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-170
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002408229"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002408229"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeTorbenNicolaiBuch.1952.FrederiksbergC.931771000016000 FHIR Endpoint"
@@ -3234,12 +3233,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-171
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002505805"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002505805"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - almentpraktiserendelæge2400DoktorMartin.2400.KøbenhavnNV.1489441000016007 FHIR Endpoint"
@@ -3253,12 +3252,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-172
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002761249"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002761249"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeMariaEiholmFrederiksen.2300.KøbenhavnS.1497061000016009 FHIR Endpoint"
@@ -3272,12 +3271,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-173
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002628436"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002628436"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeM.DMilling.1620.København.1351371000016007 FHIR Endpoint"
@@ -3291,12 +3290,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-174
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002405075"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002405075"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeMortenChristiansen.2500.Valby.811171000016002 FHIR Endpoint"
@@ -3310,12 +3309,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-175
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001372200"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001372200"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneSøndreFasanvej.2500.Valby.1523051000016001 FHIR Endpoint"
@@ -3329,12 +3328,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-176
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001390198"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001390198"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CenterforGenoptræning-Vanløse,KøbenhavnsKommune.2720.Vanløse.388411000016007 FHIR Endpoint"
@@ -3348,12 +3347,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-177
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002415074"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002415074"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - PraktiserendeLæge.2200.KøbenhavnN.998071000016002 FHIR Endpoint"
@@ -3367,12 +3366,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-178
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002406034"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002406034"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - ElmegadesLægeklinik.2200.KøbenhavnN.910501000016003 FHIR Endpoint"
@@ -3386,12 +3385,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-179
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002631856"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002631856"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LightCOMHUB.1353.København.1382941000016001 FHIR Endpoint"
@@ -3405,12 +3404,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-180
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000125630"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000125630"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægenvedAmagerbro.2300.KøbenhavnS.1302371000016007 FHIR Endpoint"
@@ -3424,12 +3423,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-181
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000134212"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000134212"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneRådhuspladsen.8000.AarhusC.1361821000016009 FHIR Endpoint"
@@ -3443,12 +3442,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-182
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002623219"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002623219"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægenAmagerbrogade.2300.KøbenhavnS.1297461000016002 FHIR Endpoint"
@@ -3462,12 +3461,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-183
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002758171"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002758171"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LocalDoctors.dk.2920.Charlottenlund.1470061000016000 FHIR Endpoint"
@@ -3481,12 +3480,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-184
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002409417"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002409417"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægehusetAmager.2300.KøbenhavnS.944991000016002 FHIR Endpoint"
@@ -3500,12 +3499,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-185
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002764615"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002764615"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - MiaFangel.2100.KøbenhavnØ.1540051000016006 FHIR Endpoint"
@@ -3519,12 +3518,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-186
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000143030"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000143030"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneVestreStrandalle.8240.Risskov.1372861000016004 FHIR Endpoint"
@@ -3538,12 +3537,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-187
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002505942"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002505942"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenSkottegården3.2770.Kastrup.713011000016007 FHIR Endpoint"
@@ -3557,12 +3556,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-188
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001350895"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001350895"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneiHørning.8362.Hørning.994021000016005 FHIR Endpoint"
@@ -3576,12 +3575,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-189
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002277283"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002277283"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CenterforDiabetesogHjertesygdomme,KøbenhavnsKommune.2200.KøbenhavnN.633271000016006 FHIR Endpoint"
@@ -3595,12 +3594,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-190
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000147717"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000147717"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeMarieGeday.8000.AarhusC.745061000016000 FHIR Endpoint"
@@ -3614,12 +3613,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-191
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002632723"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002632723"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneDamsøvænget.2720.Vanløse.1477761000016002 FHIR Endpoint"
@@ -3633,12 +3632,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-192
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002634901"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002634901"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægenNøjsomhedsvej.2100.KøbenhavnØ.1479531000016008 FHIR Endpoint"
@@ -3652,12 +3651,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-193
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002506826"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002506826"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægepraksisMortenBirk-Petersen.2100.KøbenhavnØ.747851000016004 FHIR Endpoint"
@@ -3671,12 +3670,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-194
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002408274"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002408274"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - UNCityClinic.2100.KøbenhavnØ.1387211000016009 FHIR Endpoint"
@@ -3690,12 +3689,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-195
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002516856"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002516856"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeCamillaRostgaardBerthelsen.8000.AarhusC.1152941000016004 FHIR Endpoint"
@@ -3709,12 +3708,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-196
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000160921"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000160921"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FolkesundhedAarhus.8000.AarhusC.193071000016008 FHIR Endpoint"
@@ -3728,12 +3727,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-197
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000131488"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000131488"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneØsterbrogade48,1.2100.KøbenhavnØ.994681000016003 FHIR Endpoint"
@@ -3747,12 +3746,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-198
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002762895"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002762895"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - DinFamilielæge-almentpraktiserendelægeApS.2300.KøbenhavnS.1517261000016007 FHIR Endpoint"
@@ -3766,12 +3765,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-199
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002506819"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002506819"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - PraktiserendeLægerKarin&StigBilleHansen.2100.KøbenhavnØ.751961000016000 FHIR Endpoint"
@@ -3785,12 +3784,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-200
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002506932"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002506932"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeHelenaDalsgaardGrove.8000.AarhusC.711571000016006 FHIR Endpoint"
@@ -3804,12 +3803,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-201
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002411465"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002411465"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBagSøndermarken.2500.Valby.964081000016008 FHIR Endpoint"
@@ -3823,12 +3822,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-202
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002624759"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002624759"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - HosLægerne.2300.KøbenhavnS.1317081000016007 FHIR Endpoint"
@@ -3842,12 +3841,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-203
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002516764"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002516764"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneMøller&Lassen.2000.Frederiksberg.1151481000016008 FHIR Endpoint"
@@ -3861,12 +3860,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-204
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002512285"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002512285"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - KanalbyensLægeklinik.2450.KøbenhavnSV.1082721000016009 FHIR Endpoint"
@@ -3880,12 +3879,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-205
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002621482"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002621482"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeKarenKjærLarsen.8000.AarhusC.1277261000016009 FHIR Endpoint"
@@ -3899,12 +3898,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-206
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002634918"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002634918"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - HusumAlmenPraksis.2700.Brønshøj.1411931000016005 FHIR Endpoint"
@@ -3918,12 +3917,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-207
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002411472"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002411472"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Waterfrontdoctors.2900.Hellerup.964131000016008 FHIR Endpoint"
@@ -3937,12 +3936,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-208
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507816"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507816"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenMøllevangskolen.8210.AarhusV.1027271000016007 FHIR Endpoint"
@@ -3956,12 +3955,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-209
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002281518"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002281518"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LÆ-blanketter,suppl.kommunikation,København.1577.KøbenhavnV.646971000016005 FHIR Endpoint"
@@ -3975,12 +3974,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-210
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002630682"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002630682"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBellogRask.8000.AarhusC.1371721000016006 FHIR Endpoint"
@@ -3994,12 +3993,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-211
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000154241"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000154241"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Havnestadenslægehus.2300.KøbenhavnS.992011000016007 FHIR Endpoint"
@@ -4013,12 +4012,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-212
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002622205"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002622205"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeLineStaehelin.8000.AarhusC.1287781000016004 FHIR Endpoint"
@@ -4032,12 +4031,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-213
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000158720"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000158720"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeTrineJeppesen.2300.KøbenhavnS.1153871000016005 FHIR Endpoint"
@@ -4051,12 +4050,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-214
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507809"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507809"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenAarhusSyd.8270.Højbjerg.1027261000016002 FHIR Endpoint"
@@ -4070,12 +4069,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-215
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002761546"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002761546"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FuglebakkensFamilielæge.2400.KøbenhavnNV.1501221000016007 FHIR Endpoint"
@@ -4089,12 +4088,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-216
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000123766"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000123766"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CenterforGenoptræning-Østerbro,KøbenhavnsKommune.2100.KøbenhavnØ.2551000016006 FHIR Endpoint"
@@ -4108,12 +4107,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-217
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002630699"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002630699"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneAmagerbrogade17.2300.KøbenhavnS.1371641000016007 FHIR Endpoint"
@@ -4127,12 +4126,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-218
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002518607"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002518607"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmentpraktiserendelægeTippeGlowanja.2820.Gentofte.1179961000016005 FHIR Endpoint"
@@ -4146,12 +4145,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-219
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002517754"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002517754"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeRikkeFeldbækPeitersen.2700.Brønshøj.1166441000016000 FHIR Endpoint"
@@ -4165,12 +4164,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-220
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002013003"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002013003"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - SkovskadestuenSmukfest.8660.Skanderborg.542841000016004 FHIR Endpoint"
@@ -4184,12 +4183,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-221
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002627293"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002627293"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneStubmøllevejv/MarieLykkeEshøjogDitteVendelbo.2450.KøbenhavnSV.1343741000016001 FHIR Endpoint"
@@ -4203,12 +4202,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-222
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000130122"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000130122"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - ÅbyhøjLægehus.8230.Åbyhøj.41501000016009 FHIR Endpoint"
@@ -4222,12 +4221,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-223
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002634826"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002634826"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenFalkonervænget.1952.Frederiksberg.1411511000016006 FHIR Endpoint"
@@ -4241,12 +4240,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-224
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002761898"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002761898"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneiField's.2300.KøbenhavnS.1506631000016002 FHIR Endpoint"
@@ -4260,12 +4259,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-225
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002504204"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002504204"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBernstorffsvej.2900.Hellerup.1008241000016006 FHIR Endpoint"
@@ -4279,12 +4278,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-226
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002412868"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002412868"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenFrederiksbergHospital.2000.Frederiksberg.979861000016004 FHIR Endpoint"
@@ -4298,12 +4297,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-227
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507830"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507830"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenTovshøj.8220.Brabrand.1027301000016005 FHIR Endpoint"
@@ -4317,12 +4316,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-228
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002397547"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002397547"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Kastrupsundhedshus.2770.Kastrup.1087851000016005 FHIR Endpoint"
@@ -4336,12 +4335,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-229
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002015656"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002015656"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Familielægernepå3salI/S.1620.KøbenhavnV.1067041000016001 FHIR Endpoint"
@@ -4355,12 +4354,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-230
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002620485"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002620485"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - DoctorAirHead.2300.KøbenhavnS.1264231000016001 FHIR Endpoint"
@@ -4374,12 +4373,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-231
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002514593"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002514593"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeAnnaMetteNathan.2000.Frederiksberg.1111331000016005 FHIR Endpoint"
@@ -4393,12 +4392,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-232
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002409271"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002409271"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - PrivatkonsultationenHavstedbæk.1165.KøbenhavnK.736821000016005 FHIR Endpoint"
@@ -4412,12 +4411,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-233
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002506857"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002506857"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeMartinRyt-Hansen.2100.KøbenhavnØ.709821000016006 FHIR Endpoint"
@@ -4431,12 +4430,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-234
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507823"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507823"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenSøndervangskolen.8260.VibyJ.1027291000016006 FHIR Endpoint"
@@ -4450,12 +4449,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-235
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002410574"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002410574"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeEvaSkovHansen.2300.KøbenhavnS.831291000016001 FHIR Endpoint"
@@ -4469,12 +4468,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-236
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002000287"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002000287"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CharlottenlundLægehus.2920.Charlottenlund.1250881000016001 FHIR Endpoint"
@@ -4488,12 +4487,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-237
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002412752"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002412752"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FrederikHengstenberg.2000.Frederiksberg.982361000016006 FHIR Endpoint"
@@ -4507,12 +4506,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-238
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002401305"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002401305"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenØstergade1,LægeNielsBjørn.8000.AarhusC.883021000016003 FHIR Endpoint"
@@ -4526,12 +4525,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-239
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002623622"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002623622"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægerneÅbyhøj.8230.Åbyhøj.1304301000016009 FHIR Endpoint"
@@ -4545,12 +4544,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-240
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000145836"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000145836"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeJosephineHaslund.2820.Gentofte.1382021000016005 FHIR Endpoint"
@@ -4564,12 +4563,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-241
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000135714"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000135714"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Dein&Hentze.2000.Frederiksberg.814891000016008 FHIR Endpoint"
@@ -4583,12 +4582,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-242
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002410581"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002410581"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Amagerbrogade17.2300.KøbenhavnS.844461000016005 FHIR Endpoint"
@@ -4602,12 +4601,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-243
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002504228"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002504228"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CenterforMentalSundhed,KøbenhavnsKommune.2200.KøbenhavnN.1008411000016009 FHIR Endpoint"
@@ -4621,12 +4620,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-244
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002410468"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002410468"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmentPraktiserendeLægeBetinaSjøbergWolff.8260.VibyJ.954931000016001 FHIR Endpoint"
@@ -4640,12 +4639,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-245
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507854"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507854"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AarhusTandregulering.8260.VibyJ.1052151000016006 FHIR Endpoint"
@@ -4659,12 +4658,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-246
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000152025"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000152025"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægerneMejdahl.2920.Charlottenlund.1164631000016001 FHIR Endpoint"
@@ -4678,12 +4677,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-247
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002515224"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002515224"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmentpraktiserendelægeAnneMetteFabricius-Lauritzen.2920.Charlottenlund.1134531000016009 FHIR Endpoint"
@@ -4697,12 +4696,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-248
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000153114"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000153114"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægernevedSøerne.1356.KøbenhavnK.1123321000016001 FHIR Endpoint"
@@ -4716,12 +4715,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-249
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002516313"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002516313"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægehusetRyomgård.8550.Ryomgård.1141881000016008 FHIR Endpoint"
@@ -4735,12 +4734,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-250
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002516436"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002516436"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeJulieGalsgaard.2000.Frederiksberg.1140811000016006 FHIR Endpoint"
@@ -4754,12 +4753,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-251
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002636912"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002636912"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - IBOS-BLS.2900.Hellerup.1117091000016000 FHIR Endpoint"
@@ -4773,12 +4772,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-252
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002630019"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002630019"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBystævnet.8520.Lystrup.1369491000016008 FHIR Endpoint"
@@ -4792,12 +4791,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-253
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002408045"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002408045"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Højbjerglægepraksis.8270.Højbjerg.930291000016000 FHIR Endpoint"
@@ -4811,12 +4810,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-254
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002631467"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002631467"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - NørrebroparkensLægehus.2200.KøbenhavnN.1380341000016001 FHIR Endpoint"
@@ -4830,12 +4829,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-255
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002507847"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002507847"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenVejlby.8240.Risskov.1027311000016007 FHIR Endpoint"
@@ -4849,12 +4848,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-256
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002398742"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002398742"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægehusetAgnes.2650.Hvidovre.1492451000016002 FHIR Endpoint"
@@ -4868,12 +4867,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-257
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002618383"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002618383"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenAros.8000.AarhusC.1332981000016003 FHIR Endpoint"
@@ -4887,12 +4886,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-258
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790000145614"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790000145614"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeAnnetteKristjansen.2770.Kastrup.727031000016001 FHIR Endpoint"
@@ -4906,12 +4905,12 @@ InstanceOf: EerEndpointMessagingEdelivery
 * address = "https://example.org/fhir"
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-259
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 // Usage: #inline
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.messaging.edelivery.fhir"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790002504211"
+//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790002504211"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - CenterforLungesygdomme,KøbenhavnsKommune.2100.KøbenhavnØ.1008361000016000 FHIR Endpoint"
@@ -4923,3 +4922,4 @@ InstanceOf: EerEndpointMessagingEdelivery
 * payloadMimeType[+] = #application/fhir+xml
 * payloadMimeType[+] = #application/fhir+json
 * address = "https://example.org/fhir"
+*/

@@ -1,6 +1,6 @@
 /*
 Instance: EerEndpoint-Messaging-AAR-eDeliveryFhir.5790000123117
-InstanceOf: EerEndpointMessagingEdeliveryFhir
+InstanceOf: EerEndpointMessagingFhir
 Description: "EerEndpoint-Messaging-AAR-eDeliveryFhir.5790000123117"
 * id = "EerEndpoint-Messaging-AAR-eDeliveryFhir.5790000123117"
 * identifier.value = "5790000123117"

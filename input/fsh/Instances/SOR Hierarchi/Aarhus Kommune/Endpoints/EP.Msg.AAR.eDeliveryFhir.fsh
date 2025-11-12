@@ -1,7 +1,7 @@
 /*
 Instance: EerEndpoint-Messaging-AAR-eDeliveryFhir.5790002508226
-InstanceOf: EerEndpointMessagingEdeliveryFhir
-Description: "AAR EerEndpointMessagingEdeliveryFhir."
+InstanceOf: EerEndpointMessagingFhir
+Description: "AAR EerEndpointMessagingFhir."
 * id = "EerEndpoint-Messaging-AAR-eDeliveryFhir.01"
 * identifier.value = "5790002508226"
 //* identifier.system = "http://www.gs1.org/gln" //$EerAuditEventAgentWhoIdentifierTypes

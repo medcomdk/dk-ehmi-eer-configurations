@@ -9,4 +9,4 @@ Description: "An example of an SOR OU Organization."
 * type[SOR-Hierarchy].coding.code = $EerSorOrganizationTypeCS#OE
 * type[SOR-Hierarchy].coding.system = $EerSorOrganizationTypeCS
 * partOf = Reference(Organization/EER.SOR-HI.01)
-* endpoint[+] = Reference(Endpoint/EerEndpoint-Messaging-eDeliveryFhir.01)
+//* endpoint[+] = Reference(Endpoint/EerEndpoint-Messaging-eDeliveryFhir.01)

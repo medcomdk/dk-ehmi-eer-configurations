@@ -23,9 +23,12 @@ dependencies:
   dk.ehmi.terminology: 
     version: 1.0.1-draft
     uri: http://medcomehmi.dk/ig/terminology/ImplementationGuide/dk.ehmi.terminology
+#  dk.ehmi.eer: current
   dk.ehmi.eer: 
-    version: 1.0.0-draft 
+    version: current
     uri: https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/ImplementationGuide/dk.ehmi.eer
+#    version: 2.0.0-draft 
+#    uri: https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/ImplementationGuide/dk.ehmi.eer
 #    uri: http://medcomehmi.dk/ig/eer/ImplementationGuide/dk.ehmi.eer
 
 menu:

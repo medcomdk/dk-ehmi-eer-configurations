@@ -40,15 +40,15 @@ mechanism).
 * extension contains eer-dk-msh-system-extension named msh-system 0..* MS 
 * extension contains eer-dk-network-supply-system-extension named networkSupplySystem 0..* MS 
 
-Profile:      EerEndpointMessagingEdelivery
+Profile:      EerEndpointMessaging
 Parent:       EerEndpointMessaging
 Id:           eer.dk.messaging.edelivery
 Title:        "EER Endpoint Messaging - eDelivery"
 Description:  "EER Endpoint Messaging - eDelivery"
 * connectionType = $EerEndpointConnectionTypeCS#EerMessagingEdelivery (exactly)
 
-Profile:      EerEndpointMessagingEdeliveryFhir
-Parent:       EerEndpointMessagingEdelivery
+Profile:      EerEndpointMessagingFhir
+Parent:       EerEndpointMessaging
 Id:           eer.dk.messaging.edelivery.fhir
 Title:        "EER Endpoint Messaging eDelivery - FHIR"
 Description:  "EER Endpoint Messaging eDelivery - FHIR"

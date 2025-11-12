@@ -1,10 +1,10 @@
 // MultiMed
 Instance: EerDevice-MultiMedAP-test-LPS
-InstanceOf: EerDeviceConfig
+InstanceOf: EerDevice
 Description: "EerDevice-MultiMed AP"
 * id = "MultiMedAP-test-LPS" 
 * identifier.value = "MultiMedAP-test-LPS"
-* definition = Reference(EerDeviceDefinition4AP)
+//* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
 * deviceName.name = "MultiMedAP"
@@ -16,7 +16,7 @@ InstanceOf: EerDeviceConfig
 Description: "EerDevice-MultiMedMSH"
 * id = "MultiMedMSH-test-LPS" 
 * identifier.value = "MultiMedMSH-test-LPS"
-* definition = Reference(EerDeviceDefinition4MSH)
+//* definition = Reference(EerDeviceDefinition4MSH)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
 * deviceName.name = "MultiMedMSH"
@@ -29,7 +29,7 @@ InstanceOf: EerDeviceConfig
 Description: "EerDevice-KvalitetsItAP"
 * id = "KvalitetsItAP-test-aarhus"
 * identifier.value = "EerDevice-KvalitetsItAP-test-aarhus"
-* definition = Reference(EerDeviceDefinition4AP)
+//* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
 * deviceName.name = "KvalitetsItAP"
@@ -41,7 +41,7 @@ InstanceOf: EerDeviceConfig
 Description: "EerDevice-KvalitetsItAP"
 * id = "KvalitetsItAP-test-kobenhavn"
 * identifier.value = "EerDevice-KvalitetsItAP-test-kobenhavn"
-* definition = Reference(EerDeviceDefinition4AP)
+//* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
 * deviceName.name = "KvalitetsItAP"
@@ -54,7 +54,7 @@ InstanceOf: EerDeviceConfig
 Description: "EerDevice-EGClineaEUA"
 * id = "EGClineaEUA-test-aarhus"
 * identifier.value = "EerDevice-EGClineaEUA-test-aarhus"
-* definition = Reference(EerDeviceDefinition4EUA)
+//* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
 * deviceName.name = "EGClineaEUA"
@@ -66,7 +66,7 @@ InstanceOf: EerDeviceConfig
 Description: "EerDevice-EGClineaEUA"
 * id = "EGClineaEUA-test-kobenhavn"
 * identifier.value = "EerDevice-EGClineaEUA-test-kobenhavn"
-* definition = Reference(EerDeviceDefinition4EUA)
+//* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
 * deviceName.name = "EGClineaEUA"
@@ -79,7 +79,7 @@ InstanceOf: EerDeviceConfig
 Description: "EerDevice-SystematicMSH for Aarhus"
 * id = "SystematicMSH-test-aarhus" 
 * identifier.value = "SystematicMSH-test-aarhus"
-* definition = Reference(EerDeviceDefinition4MSH)
+//* definition = Reference(EerDeviceDefinition4MSH)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
 * deviceName.name = "SystematicMSH"
@@ -91,7 +91,7 @@ InstanceOf: EerDeviceConfig
 Description: "EerDevice-SystematicMSH for Copenhagen"
 * id = "SystematicMSH-test-kobenhavn" 
 * identifier.value = "SystematicMSH-test-kobenhavn"
-* definition = Reference(EerDeviceDefinition4MSH)
+//* definition = Reference(EerDeviceDefinition4MSH)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
 * deviceName.name = "SystematicMSH"
@@ -103,7 +103,7 @@ InstanceOf: EerDeviceConfig
 Description: "EerDevice-SystematicCuraEUA for Aarhus"
 * id = "SystematicCuraEUA-test-aarhus" 
 * identifier.value = "SystematicCuraEUA-test-aarhus"
-* definition = Reference(EerDeviceDefinition4EUA)
+//* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
 * deviceName.name = "SystematicCura"
@@ -115,10 +115,34 @@ InstanceOf: EerDeviceConfig
 Description: "EerDevice-SystematicCuraEUA for Copenhagen"
 * id = "SystematicCuraEUA-test-kobenhavn" 
 * identifier.value = "SystematicCuraEUA-test-kobenhavn"
-* definition = Reference(EerDeviceDefinition4EUA)
+//* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
 * deviceName.name = "SystematicCura"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
+// SDS
+Instance: EerDevice-NSPAP-test-DDS
+InstanceOf: EerDeviceConfig
+Description: "EerDevice-NSPAP-test-DDS"
+* id = "NSPAP-test-DDS" 
+* identifier.value = "NSPAP-test-DDS"
+//* definition = Reference(EerDeviceDefinition4AP)
+* type = $EerDeviceTypeCS#AP "eDelivery Access Point"
+* status = #active
+* deviceName.name = "NSP AP"
+* deviceName.type = #manufacturer-name
+* manufacturer = "KvalitetsIT"
+
+Instance: EerDevice-NSPMSH-test-DDS
+InstanceOf: EerDeviceConfig
+Description: "EerDevice-NSPMSH-test-DDS"
+* id = "NSPMSH-test-DDS" 
+* identifier.value = "NSPMSH-test-DDS"
+//* definition = Reference(EerDeviceDefinition4AP)
+* type = $EerDeviceTypeCS#MSH "Message Service Handler"
+* status = #active
+* deviceName.name = "NSP MSH"
+* deviceName.type = #manufacturer-name
+* manufacturer = "KvalitetsIT"

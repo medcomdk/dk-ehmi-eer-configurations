@@ -1,3 +1,4 @@
+/*
 Instance: ExampleEerMessagingOrganization
 InstanceOf: EerMessagingOrganization
 Title: "Example EER Messaging Organization"
@@ -17,9 +18,8 @@ Description: "An example instance of the EER Messaging Organization with a requi
 * address[0].postalCode = "12345"
 * endpoint[0].reference = "Endpoint/example-endpoint"
 
-/*
 Instance: ExampleEndpoint
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 Title: "Example EER Messaging Endpoint"
 Description: "An example endpoint for the EER Messaging Organization."
 * id = "example-endpoint"

@@ -37,22 +37,22 @@ Description: "EER Messaging Organization - LaegerneStjernepladsen.8200.AarhusN.6
 * endpoint[+] = Reference(Endpoint/LaegerneStjernepladsen.8200.AarhusN.5790002401428)
 
 Instance: LaegerneStjernepladsen.8200.AarhusN.5790002401428
-InstanceOf: EerEndpointMessagingEdelivery
+InstanceOf: EerEndpointMessaging
 Title: "EER Messaging Endpoint - LaegerneStjernepladsen.8200.AarhusN.5790002401428"
 Description: "EER Messaging Endpoint - LaegerneStjernepladsen.8200.AarhusN.5790002401428"
 * id = "LaegerneStjernepladsen.8200.AarhusN.5790002401428"
-* identifier.value = "5790002401428"
+* identifier[GLN-ID].value = "5790002401428"
 * status = #active
 * period.start = "2025-01-01"
 * connectionType.code = #EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LaegerneStjernepladsen.8200.AarhusN.5790002401428 FHIR Endpoint"
 * managingOrganization.reference = "Organization/LaegerneStjernepladsen.8200.AarhusN.698131000016001"
-* extension[networkSupplySystem].valueReference = Reference(MultiMedAP-test-LPS)
+* extension[ap-system].valueReference = Reference(MultiMedAP-test-LPS)
 * address = "https://example.org/fhir"
 * payloadMimeType[+] = #text/xml
 * payloadMimeType[+] = #application/fhir+xml
 * payloadMimeType[+] = #application/fhir+json
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:homecareobservation:1.0
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:acknowledgement:2.0	
-* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:ehmi:messaging:envelope:xml:sbdh:1.0
+//* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:ehmi:messaging:envelope:xml:sbdh:1.0
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:ehmi:messaging:envelope:xml:sbdhacknowledgement:1.0

@@ -5,7 +5,7 @@ Description: "An EHMI profile of the Device resource."
 * ^abstract = true
 * udiCarrier 0..0 
 * identifier 1..1 MS
-* definition 1..1 MS
+* definition 0..1 
 * status 1..1 MS
 * manufacturer 1..1 MS
 * lotNumber 0..0
