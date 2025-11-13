@@ -2,7 +2,7 @@ Alias: $ehmi-delivery-status-agent-who-identifier-types = http://medcomehmi.dk/i
 Alias: $eer-endpoint-connection-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-endpoint-connection-type
 Alias: $ehmi-message-definition-uri = http://medcomehmi.dk/ig/terminology/CodeSystem/ehmi-message-definition-uri
 
-
+/*
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-1
 InstanceOf: EerEndpointMessaging
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
@@ -4922,3 +4922,4 @@ InstanceOf: EerEndpointMessaging
 * payloadMimeType[+] = #application/fhir+xml
 * payloadMimeType[+] = #application/fhir+json
 * address = "https://example.org/fhir"
+*/
