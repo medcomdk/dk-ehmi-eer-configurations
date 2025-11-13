@@ -6,14 +6,8 @@
     The following device instances are part of the EHMI Production Pilot 2026:
   </p>
   <div>
-  <table style="border: 1px black;">
-    {% include table-devices.xhtml %}
-  </table>
+    <table border="1">
+      {% include table-devices.xhtml %}
+    </table>
   </div>
-  <!-- div>
-    {% include list-devices.xhtml %}
-  </div-->
 </div>
-<!--
-
--->
