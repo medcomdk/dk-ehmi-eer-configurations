@@ -1,3 +1,4 @@
+/*
 Alias: $ehmi-delivery-status-agent-who-identifier-types = http://medcomehmi.dk/ig/terminology/CodeSystem/ehmi-delivery-status-agent-who-identifier-types
 Alias: $eer-endpoint-connection-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-endpoint-connection-type
 Alias: $eer-sor-organization-identier-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-sor-organization-identier-type
@@ -102,3 +103,4 @@ InstanceOf: Organization
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * endpoint.identifier.system = "https://www.gs1.org/gln"
 * endpoint.identifier.value = "5790001995669"
+*/
