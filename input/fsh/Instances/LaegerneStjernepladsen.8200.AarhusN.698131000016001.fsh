@@ -47,6 +47,7 @@ Description: "EER Messaging Endpoint - LaegerneStjernepladsen.8200.AarhusN.57900
 * connectionType.code = #EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LaegerneStjernepladsen.8200.AarhusN.5790002401428 FHIR Endpoint"
 * managingOrganization.reference = "Organization/LaegerneStjernepladsen.8200.AarhusN.698131000016001"
+* extension[msh-system].valueReference = Reference(MultiMedMSH-test-LPS)
 * extension[ap-system].valueReference = Reference(MultiMedAP-test-LPS)
 * address = "https://example.org/fhir"
 * payloadMimeType[+] = #text/xml

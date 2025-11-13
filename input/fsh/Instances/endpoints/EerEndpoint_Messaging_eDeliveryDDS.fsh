@@ -103,6 +103,8 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging--eDelivery-DDS-PROD for
 * period.start = "2026-01-01"
 //* period.end = "2024-01-01"
 * address = "http://www.dsd-dds.dk/dds-prod"
+* extension[msh-system].valueReference = Reference(NSPMSH-prod-DDS)
+* extension[ap-system].valueReference = Reference(NSPAP-prod-DDS)
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * payloadMimeType[+] = #text/xml
 * payloadMimeType[+] = #application/fhir+xml
@@ -123,6 +125,8 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS
 * period.start = "2026-01-01"
 //* period.end = "2024-01-01"
 * address = "http://www.dsd-dds.dk/dds-test1"
+* extension[msh-system].valueReference = Reference(NSPMSH-test-DDS)
+* extension[ap-system].valueReference = Reference(NSPAP-test-DDS)
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * payloadMimeType[+] = #text/xml
 * payloadMimeType[+] = #application/fhir+xml
@@ -143,6 +147,8 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS
 * period.start = "2026-01-01"
 //* period.end = "2024-01-01"
 * address = "http://www.dsd-dds.dk/dds-test2"
+* extension[msh-system].valueReference = Reference(NSPMSH-test-DDS)
+* extension[ap-system].valueReference = Reference(NSPAP-test-DDS)
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * payloadMimeType[+] = #text/xml
 * payloadMimeType[+] = #application/fhir+xml
