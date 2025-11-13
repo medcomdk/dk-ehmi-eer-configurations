@@ -5,6 +5,7 @@ Alias: $eer-sor-unit-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-s
 /*
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19,6 +20,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-2
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -33,6 +35,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-3
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -47,6 +50,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-4
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -61,6 +65,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-5
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -76,6 +81,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-6
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -90,6 +96,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-7
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -104,6 +111,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-8
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -118,6 +126,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-9
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -132,6 +141,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-10
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -146,6 +156,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-11
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -160,6 +171,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-12
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -174,6 +186,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-13
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -188,6 +201,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-14
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -203,6 +217,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-15
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -217,6 +232,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-16
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -231,6 +247,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-17
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -246,6 +263,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-18
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -260,6 +278,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-19
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -274,6 +293,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-20
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -288,6 +308,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-21
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -302,6 +323,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-22
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -316,6 +338,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-23
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -331,6 +354,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-24
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -345,6 +369,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-25
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -359,6 +384,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-26
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -373,6 +399,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-27
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -387,6 +414,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-28
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -401,6 +429,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-29
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -415,6 +444,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-30
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -429,6 +459,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-31
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -443,6 +474,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-32
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -457,6 +489,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-33
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -471,6 +504,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-34
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -485,6 +519,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-35
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -499,6 +534,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-36
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -513,6 +549,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-37
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -527,6 +564,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-38
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -541,6 +579,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-39
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -555,6 +594,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-40
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -569,6 +609,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-41
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -584,6 +625,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-42
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -598,6 +640,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-43
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -612,6 +655,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-44
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -626,6 +670,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-45
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -640,6 +685,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-46
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -654,6 +700,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-47
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -669,6 +716,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-48
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -683,6 +731,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-49
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -697,6 +746,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-50
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -711,6 +761,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-51
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -725,6 +776,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-52
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -739,6 +791,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-53
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -753,6 +806,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-54
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -767,6 +821,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-55
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -781,6 +836,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-56
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -795,6 +851,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-57
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -809,6 +866,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-58
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -823,6 +881,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-59
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -837,6 +896,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-60
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -851,6 +911,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-61
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -865,6 +926,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-62
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -879,6 +941,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-63
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -894,6 +957,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-64
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -908,6 +972,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-65
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -922,6 +987,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-66
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -936,6 +1002,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-67
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -950,6 +1017,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-68
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -964,6 +1032,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-69
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -978,6 +1047,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-70
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -993,6 +1063,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-71
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1007,6 +1078,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-72
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1021,6 +1093,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-73
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1035,6 +1108,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-74
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1049,6 +1123,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-75
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1063,6 +1138,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-76
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1078,6 +1154,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-77
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1092,6 +1169,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-78
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1106,6 +1184,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-79
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1120,6 +1199,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-80
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1135,6 +1215,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-81
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1149,6 +1230,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-82
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1163,6 +1245,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-83
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1177,6 +1260,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-84
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1191,6 +1275,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-85
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1205,6 +1290,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-86
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1219,6 +1305,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-87
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1234,6 +1321,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-88
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1248,6 +1336,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-89
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1262,6 +1351,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-90
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1276,6 +1366,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-91
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1290,6 +1381,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-92
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1304,6 +1396,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-93
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1318,6 +1411,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-94
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1332,6 +1426,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-95
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1346,6 +1441,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-96
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1361,6 +1457,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-97
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1375,6 +1472,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-98
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1389,6 +1487,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-99
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1403,6 +1502,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-100
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1417,6 +1517,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-101
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1431,6 +1532,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-102
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1445,6 +1547,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-103
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1459,6 +1562,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-104
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1473,6 +1577,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-105
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1487,6 +1592,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-106
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1501,6 +1607,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-107
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1515,6 +1622,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-108
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1530,6 +1638,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-109
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1544,6 +1653,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-110
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1558,6 +1668,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-111
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1572,6 +1683,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-112
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1586,6 +1698,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-113
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1600,6 +1713,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-114
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1615,6 +1729,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-115
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1629,6 +1744,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-116
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1643,6 +1759,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-117
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1658,6 +1775,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-118
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1672,6 +1790,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-119
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1686,6 +1805,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-120
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1700,6 +1820,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-121
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1714,6 +1835,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-122
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1728,6 +1850,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-123
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1742,6 +1865,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-124
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1756,6 +1880,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-125
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1770,6 +1895,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-126
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1784,6 +1910,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-127
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1798,6 +1925,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-128
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1812,6 +1940,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-129
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1826,6 +1955,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-130
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1840,6 +1970,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-131
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1854,6 +1985,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-132
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1868,6 +2000,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-133
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1882,6 +2015,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-134
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1896,6 +2030,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-135
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1910,6 +2045,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-136
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1924,6 +2060,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-137
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1938,6 +2075,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-138
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1952,6 +2090,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-139
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1966,6 +2105,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-140
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1980,6 +2120,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-141
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -1994,6 +2135,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-142
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2008,6 +2150,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-143
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2022,6 +2165,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-144
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2036,6 +2180,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-145
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2051,6 +2196,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-146
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2065,6 +2211,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-147
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2080,6 +2227,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-148
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2094,6 +2242,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-149
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2108,6 +2257,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-150
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2122,6 +2272,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-151
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2136,6 +2287,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-152
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2150,6 +2302,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-153
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2164,6 +2317,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-154
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2178,6 +2332,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-155
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2192,6 +2347,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-156
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2206,6 +2362,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-157
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2220,6 +2377,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-158
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2234,6 +2392,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-159
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2248,6 +2407,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-160
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2263,6 +2423,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-161
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2277,6 +2438,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-162
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2292,6 +2454,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-163
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2306,6 +2469,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-164
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2320,6 +2484,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-165
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2334,6 +2499,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-166
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2348,6 +2514,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-167
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2362,6 +2529,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-168
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2376,6 +2544,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-169
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2391,6 +2560,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-170
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2405,6 +2575,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-171
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2417,6 +2588,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-172
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2431,6 +2603,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-173
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2445,6 +2618,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-174
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2459,6 +2633,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-175
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2473,6 +2648,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-176
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2487,6 +2663,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-177
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2502,6 +2679,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-178
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2517,6 +2695,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-179
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2531,6 +2710,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-180
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2545,6 +2725,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-181
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2559,6 +2740,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-182
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2573,6 +2755,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-183
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2587,6 +2770,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-184
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2601,6 +2785,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-185
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2615,6 +2800,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-186
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2629,6 +2815,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-187
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2643,6 +2830,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-188
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2657,6 +2845,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-189
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2671,6 +2860,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-190
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2685,6 +2875,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-191
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2699,6 +2890,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-192
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2713,6 +2905,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-193
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2727,6 +2920,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-194
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2742,6 +2936,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-195
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2756,6 +2951,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-196
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2770,6 +2966,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-197
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2784,6 +2981,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-198
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2798,6 +2996,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-199
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2812,6 +3011,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-200
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2826,6 +3026,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-201
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2840,6 +3041,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-202
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2854,6 +3056,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-203
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2868,6 +3071,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-204
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2882,6 +3086,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-205
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2896,6 +3101,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-206
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2910,6 +3116,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-207
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2925,6 +3132,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-208
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2939,6 +3147,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-209
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2953,6 +3162,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-210
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2967,6 +3177,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-211
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2981,6 +3192,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-212
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -2995,6 +3207,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-213
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3009,6 +3222,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-214
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3024,6 +3238,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-215
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3038,6 +3253,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-216
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3052,6 +3268,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-217
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3066,6 +3283,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-218
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3080,6 +3298,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-219
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3094,6 +3313,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-220
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3108,6 +3328,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-221
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3122,6 +3343,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-222
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3136,6 +3358,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-223
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3150,6 +3373,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-224
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3164,6 +3388,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-225
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3178,6 +3403,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-226
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3193,6 +3419,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-227
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3207,6 +3434,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-228
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3221,6 +3449,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-229
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3235,6 +3464,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-230
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3249,6 +3479,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-231
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3263,6 +3494,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-232
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3278,6 +3510,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-233
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3292,6 +3525,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-234
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3307,6 +3541,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-235
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3321,6 +3556,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-236
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3335,6 +3571,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-237
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3349,6 +3586,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-238
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3363,6 +3601,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-239
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3377,6 +3616,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-240
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3391,6 +3631,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-241
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3405,6 +3646,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-242
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3419,6 +3661,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-243
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3433,6 +3676,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-244
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3447,6 +3691,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-245
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3462,6 +3707,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-246
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3476,6 +3722,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-247
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3490,6 +3737,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-248
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3504,6 +3752,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-249
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3518,6 +3767,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-250
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3532,6 +3782,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-251
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3546,6 +3797,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-252
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3561,6 +3813,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-253
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3575,6 +3828,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-254
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3589,6 +3843,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-255
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3603,6 +3858,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-256
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3617,6 +3873,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-257
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3631,6 +3888,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-258
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3645,6 +3903,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-259
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3659,6 +3918,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-260
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3673,6 +3933,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-261
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3688,6 +3949,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-262
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3702,6 +3964,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-263
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3717,6 +3980,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-264
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3731,6 +3995,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-265
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3745,6 +4010,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-266
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3759,6 +4025,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-267
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3773,6 +4040,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-268
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3787,6 +4055,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-269
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3801,6 +4070,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-270
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3815,6 +4085,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-271
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3829,6 +4100,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-272
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3843,6 +4115,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-273
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3858,6 +4131,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-274
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3872,6 +4146,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-275
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3886,6 +4161,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-276
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3900,6 +4176,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-277
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3915,6 +4192,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-278
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3929,6 +4207,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-279
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3943,6 +4222,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-280
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3956,6 +4236,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-281
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3970,6 +4251,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-282
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3983,6 +4265,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-283
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -3996,6 +4279,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-284
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4010,6 +4294,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-285
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4024,6 +4309,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-286
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4038,6 +4324,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-287
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4052,6 +4339,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-288
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4066,6 +4354,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-289
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4080,6 +4369,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-290
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4094,6 +4384,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-291
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4107,6 +4398,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-292
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4120,6 +4412,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-293
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4133,6 +4426,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-294
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4147,6 +4441,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-295
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4161,6 +4456,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-296
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4174,6 +4470,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-297
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4188,6 +4485,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-298
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4202,6 +4500,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-299
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4216,6 +4515,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-300
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4230,6 +4530,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-301
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4244,6 +4545,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-302
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4258,6 +4560,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-303
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4272,6 +4575,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-304
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4285,6 +4589,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-305
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4298,6 +4603,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-306
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4312,6 +4618,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-307
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4326,6 +4633,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-308
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4340,6 +4648,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-309
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4354,6 +4663,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-310
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4367,6 +4677,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-311
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4381,6 +4692,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-312
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4394,6 +4706,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-313
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4407,6 +4720,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-314
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4420,6 +4734,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-315
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4434,6 +4749,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-316
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4448,6 +4764,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-317
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4462,6 +4779,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-318
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4476,6 +4794,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-319
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4490,6 +4809,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-320
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4504,6 +4824,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-321
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4518,6 +4839,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-322
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4532,6 +4854,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-323
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4546,6 +4869,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-324
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4560,6 +4884,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-325
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4574,6 +4899,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-326
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4588,6 +4914,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-327
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4602,6 +4929,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-328
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4616,6 +4944,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-329
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4630,6 +4959,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-330
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4644,6 +4974,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-331
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4658,6 +4989,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-332
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4672,6 +5004,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-333
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4686,6 +5019,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-334
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4700,6 +5034,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-335
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4714,6 +5049,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-336
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4728,6 +5064,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-337
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4742,6 +5079,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-338
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4756,6 +5094,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-339
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4770,6 +5109,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-340
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4784,6 +5124,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-341
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4798,6 +5139,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-342
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4812,6 +5154,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-343
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4826,6 +5169,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-344
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4840,6 +5184,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-345
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4854,6 +5199,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-346
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4868,6 +5214,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-347
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4882,6 +5229,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-348
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4896,6 +5244,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-349
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4910,6 +5259,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-350
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4924,6 +5274,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-351
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4938,6 +5289,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-352
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4952,6 +5304,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-353
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4966,6 +5319,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-354
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4980,6 +5334,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-355
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -4994,6 +5349,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-356
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5007,6 +5363,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-357
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5020,6 +5377,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-358
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5033,6 +5391,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-359
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5047,6 +5406,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-360
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5061,6 +5421,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-361
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5075,6 +5436,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-362
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5089,6 +5451,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-363
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5103,6 +5466,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-364
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5117,6 +5481,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-365
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5131,6 +5496,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-366
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5145,6 +5511,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-367
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5159,6 +5526,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-368
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5173,6 +5541,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-369
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5187,6 +5556,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-370
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5201,6 +5571,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-371
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5215,6 +5586,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-372
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5229,6 +5601,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-373
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5243,6 +5616,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-374
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5257,6 +5631,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-375
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5271,6 +5646,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-376
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5285,6 +5661,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-377
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5299,6 +5676,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-378
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5313,6 +5691,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-379
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5327,6 +5706,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-380
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5341,6 +5721,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-381
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5355,6 +5736,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-382
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5369,6 +5751,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-383
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5383,6 +5766,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-384
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5397,6 +5781,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-385
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5411,6 +5796,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-386
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5425,6 +5811,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-387
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5439,6 +5826,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-388
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5453,6 +5841,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-389
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5467,6 +5856,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-390
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5481,6 +5871,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-391
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5495,6 +5886,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-392
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5509,6 +5901,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-393
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5523,6 +5916,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-394
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5537,6 +5931,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-395
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5550,6 +5945,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-396
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5564,6 +5960,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-397
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5578,6 +5975,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-398
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5592,6 +5990,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-399
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5606,6 +6005,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-400
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5620,6 +6020,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-401
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5634,6 +6035,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-402
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5648,6 +6050,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-403
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5662,6 +6065,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-404
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5676,6 +6080,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-405
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5690,6 +6095,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-406
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5704,6 +6110,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-407
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5718,6 +6125,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-408
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5732,6 +6140,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-409
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5746,6 +6155,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-410
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5759,6 +6169,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-411
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5772,6 +6183,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-412
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5785,6 +6197,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-413
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5798,6 +6211,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-414
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5811,6 +6225,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-415
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5824,6 +6239,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-416
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5837,6 +6253,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-417
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5850,6 +6267,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-418
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5863,6 +6281,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-419
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5876,6 +6295,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-420
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5889,6 +6309,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-421
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5902,6 +6323,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-422
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5915,6 +6337,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-423
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5928,6 +6351,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-424
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5941,6 +6365,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-425
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5954,6 +6379,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-426
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5967,6 +6393,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-427
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5980,6 +6407,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-428
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -5993,6 +6421,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-429
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6007,6 +6436,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-430
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6021,6 +6451,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-431
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6035,6 +6466,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-432
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6048,6 +6480,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-433
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6061,6 +6494,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-434
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6074,6 +6508,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-435
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6087,6 +6522,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-436
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6101,6 +6537,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-437
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6115,6 +6552,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-438
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6129,6 +6567,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-439
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6143,6 +6582,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-440
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6157,6 +6597,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-441
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6171,6 +6612,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-442
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6185,6 +6627,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-443
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6199,6 +6642,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-444
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6213,6 +6657,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-445
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6227,6 +6672,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-446
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6241,6 +6687,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-447
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6255,6 +6702,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-448
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6269,6 +6717,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-449
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6283,6 +6732,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-450
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6297,6 +6747,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-451
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6311,6 +6762,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-452
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6325,6 +6777,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-453
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6339,6 +6792,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-454
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6353,6 +6807,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-455
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6367,6 +6822,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-456
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6381,6 +6837,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-457
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6395,6 +6852,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-458
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6409,6 +6867,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-459
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6423,6 +6882,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-460
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6437,6 +6897,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-461
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6451,6 +6912,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-462
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6465,6 +6927,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-463
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6479,6 +6942,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-464
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6493,6 +6957,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-465
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6507,6 +6972,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-466
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6521,6 +6987,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-467
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6535,6 +7002,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-468
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6548,6 +7016,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-469
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6561,6 +7030,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-470
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6575,6 +7045,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-471
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6589,6 +7060,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-472
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6602,6 +7074,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-473
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6615,6 +7088,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-474
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6628,6 +7102,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-475
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6641,6 +7116,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-476
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6654,6 +7130,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-477
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6667,6 +7144,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-478
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6680,6 +7158,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-479
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6693,6 +7172,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-480
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6706,6 +7186,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-481
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6719,6 +7200,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-482
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6733,6 +7215,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-483
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6746,6 +7229,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-484
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6759,6 +7243,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-485
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6773,6 +7258,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-486
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6787,6 +7273,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-487
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6801,6 +7288,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-488
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6815,6 +7303,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-489
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6829,6 +7318,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-490
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6843,6 +7333,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-491
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6857,6 +7348,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-492
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6871,6 +7363,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-493
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6885,6 +7378,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-494
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6898,6 +7392,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-495
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6911,6 +7406,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-496
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6925,6 +7421,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-497
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6938,6 +7435,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-498
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6951,6 +7449,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-499
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6964,6 +7463,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-500
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6977,6 +7477,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-501
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -6990,6 +7491,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-502
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7003,6 +7505,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-503
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7016,6 +7519,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-504
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7029,6 +7533,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-505
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7042,6 +7547,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-506
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7055,6 +7561,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-507
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7068,6 +7575,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-508
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7081,6 +7589,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-509
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7094,6 +7603,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-510
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7107,6 +7617,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-511
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7120,6 +7631,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-512
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7133,6 +7645,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-513
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7146,6 +7659,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-514
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7159,6 +7673,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-515
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7172,6 +7687,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-516
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7185,6 +7701,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-517
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7198,6 +7715,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-518
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7211,6 +7729,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-519
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7224,6 +7743,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-520
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7237,6 +7757,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-521
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7250,6 +7771,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-522
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7263,6 +7785,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-523
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7276,6 +7799,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-524
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7289,6 +7813,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-525
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7302,6 +7827,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-526
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7315,6 +7841,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-527
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7328,6 +7855,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-528
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7341,6 +7869,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-529
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7354,6 +7883,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-530
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7367,6 +7897,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-531
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7380,6 +7911,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-532
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7393,6 +7925,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-533
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7406,6 +7939,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-534
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7419,6 +7953,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-535
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7432,6 +7967,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-536
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7445,6 +7981,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-537
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7458,6 +7995,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-538
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7471,6 +8009,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-539
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7484,6 +8023,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-540
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7498,6 +8038,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-541
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7511,6 +8052,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-542
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7525,6 +8067,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-543
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7538,6 +8081,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-544
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7551,6 +8095,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-545
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7564,6 +8109,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-546
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7577,6 +8123,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-547
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7590,6 +8137,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-548
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7603,6 +8151,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-549
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7616,6 +8165,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-550
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7629,6 +8179,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-551
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7642,6 +8193,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-552
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7655,6 +8207,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-553
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7668,6 +8221,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-554
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7681,6 +8235,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-555
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7694,6 +8249,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-556
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7707,6 +8263,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-557
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7720,6 +8277,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-558
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7733,6 +8291,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-559
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7746,6 +8305,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-560
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7759,6 +8319,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-561
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7772,6 +8333,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-562
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7785,6 +8347,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-563
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7798,6 +8361,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-564
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7812,6 +8376,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-565
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7826,6 +8391,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-566
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7840,6 +8406,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-567
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7853,6 +8420,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-568
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7867,6 +8435,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-569
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7881,6 +8450,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-570
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7895,6 +8465,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-571
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7909,6 +8480,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-572
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7922,6 +8494,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-573
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7935,6 +8508,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-574
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7949,6 +8523,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-575
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7963,6 +8538,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-576
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7977,6 +8553,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-577
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -7991,6 +8568,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-578
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8005,6 +8583,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-579
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8019,6 +8598,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-580
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8033,6 +8613,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-581
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8047,6 +8628,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-582
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8061,6 +8643,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-583
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8075,6 +8658,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-584
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8089,6 +8673,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-585
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8103,6 +8688,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-586
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8117,6 +8703,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-587
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8131,6 +8718,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-588
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8144,6 +8732,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-589
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8157,6 +8746,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-590
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8171,6 +8761,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-591
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8184,6 +8775,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-592
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8198,6 +8790,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-593
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8212,6 +8805,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-594
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8225,6 +8819,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-595
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8238,6 +8833,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-596
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8251,6 +8847,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-597
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8265,6 +8862,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-598
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8278,6 +8876,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-599
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8291,6 +8890,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-600
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8305,6 +8905,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-601
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8318,6 +8919,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-602
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8331,6 +8933,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-603
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8344,6 +8947,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-604
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8357,6 +8961,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-605
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8370,6 +8975,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-606
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8384,6 +8990,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-607
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8397,6 +9004,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-608
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8410,6 +9018,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-609
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8423,6 +9032,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-610
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8437,6 +9047,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-611
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8451,6 +9062,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-612
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8465,6 +9077,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-613
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8479,6 +9092,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-614
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8492,6 +9106,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-615
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8505,6 +9120,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-616
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8518,6 +9134,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-617
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8531,6 +9148,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-618
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8544,6 +9162,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-619
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8558,6 +9177,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-620
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8572,6 +9192,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-621
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8586,6 +9207,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-622
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8600,6 +9222,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-623
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8614,6 +9237,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-624
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8628,6 +9252,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-625
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8641,6 +9266,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-626
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8654,6 +9280,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-627
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8667,6 +9294,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-628
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8680,6 +9308,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-629
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8693,6 +9322,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-630
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8706,6 +9336,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-631
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8719,6 +9350,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-632
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8732,6 +9364,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-633
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8745,6 +9378,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-634
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8758,6 +9392,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-635
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8771,6 +9406,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-636
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8784,6 +9420,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-637
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8797,6 +9434,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-638
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8810,6 +9448,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-639
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8823,6 +9462,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-640
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8836,6 +9476,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-641
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8849,6 +9490,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-642
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8862,6 +9504,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-643
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8875,6 +9518,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-644
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8888,6 +9532,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-645
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8901,6 +9546,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-646
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8914,6 +9560,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-647
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8927,6 +9574,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-648
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8941,6 +9589,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-649
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8955,6 +9604,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-650
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8969,6 +9619,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-651
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8983,6 +9634,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-652
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -8997,6 +9649,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-653
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9011,6 +9664,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-654
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9025,6 +9679,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-655
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9039,6 +9694,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-656
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9053,6 +9709,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-657
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9067,6 +9724,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-658
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9081,6 +9739,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-659
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9095,6 +9754,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-660
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9109,6 +9769,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-661
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9123,6 +9784,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-662
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9137,6 +9799,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-663
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9151,6 +9814,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-664
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9165,6 +9829,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-665
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9179,6 +9844,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-666
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9193,6 +9859,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-667
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9207,6 +9874,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-668
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9221,6 +9889,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-669
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9235,6 +9904,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-670
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9249,6 +9919,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-671
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9263,6 +9934,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-672
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9277,6 +9949,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-673
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9290,6 +9963,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-674
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9303,6 +9977,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-675
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9317,6 +9992,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-676
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9331,6 +10007,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-677
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9345,6 +10022,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-678
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9359,6 +10037,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-679
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9373,6 +10052,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-680
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9387,6 +10067,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-681
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9401,6 +10082,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-682
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9415,6 +10097,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-683
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9429,6 +10112,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-684
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9443,6 +10127,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-685
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9457,6 +10142,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-686
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9471,6 +10157,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-687
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9485,6 +10172,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-688
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9499,6 +10187,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-689
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9513,6 +10202,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-690
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9527,6 +10217,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-691
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9541,6 +10232,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-692
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9555,6 +10247,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-693
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9569,6 +10262,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-694
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9583,6 +10277,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-695
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9596,6 +10291,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-696
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9610,6 +10306,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-697
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9624,6 +10321,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-698
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9638,6 +10336,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-699
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9652,6 +10351,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-700
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9666,6 +10366,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-701
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9680,6 +10381,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-702
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9694,6 +10396,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-703
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9708,6 +10411,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-704
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9722,6 +10426,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-705
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9736,6 +10441,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-706
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9750,6 +10456,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-707
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9764,6 +10471,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-708
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9778,6 +10486,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-709
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9792,6 +10501,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-710
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9806,6 +10516,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-711
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9820,6 +10531,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-712
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9834,6 +10546,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-713
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9848,6 +10561,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-714
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9862,6 +10576,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-715
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9876,6 +10591,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-716
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9890,6 +10606,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-717
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9904,6 +10621,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-718
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9917,6 +10635,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-719
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9931,6 +10650,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-720
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9945,6 +10665,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-721
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9959,6 +10680,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-722
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9973,6 +10695,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-723
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -9987,6 +10710,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-724
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10001,6 +10725,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-725
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10015,6 +10740,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-726
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10029,6 +10755,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-727
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10043,6 +10770,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-728
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10057,6 +10785,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-729
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10071,6 +10800,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-730
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10085,6 +10815,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-731
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10099,6 +10830,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-732
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10113,6 +10845,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-733
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10127,6 +10860,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-734
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10140,6 +10874,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-735
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10153,6 +10888,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-736
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10166,6 +10902,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-737
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10179,6 +10916,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-738
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10192,6 +10930,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-739
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10205,6 +10944,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-740
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10218,6 +10958,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-741
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10231,6 +10972,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-742
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10244,6 +10986,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-743
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10258,6 +11001,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-744
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10271,6 +11015,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-745
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10284,6 +11029,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-746
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10297,6 +11043,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-747
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10310,6 +11057,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-748
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10323,6 +11071,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-749
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10337,6 +11086,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-750
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10351,6 +11101,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-751
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10365,6 +11116,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-752
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10379,6 +11131,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-753
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10393,6 +11146,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-754
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10407,6 +11161,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-755
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10421,6 +11176,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-756
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10435,6 +11191,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-757
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10449,6 +11206,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-758
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10463,6 +11221,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-759
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10477,6 +11236,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-760
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10491,6 +11251,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-761
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10505,6 +11266,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-762
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10519,6 +11281,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-763
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10533,6 +11296,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-764
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10547,6 +11311,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-765
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10561,6 +11326,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-766
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10575,6 +11341,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-767
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10589,6 +11356,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-768
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10603,6 +11371,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-769
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10617,6 +11386,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-770
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10631,6 +11401,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-771
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10645,6 +11416,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-772
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10659,6 +11431,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-773
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10673,6 +11446,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-774
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10687,6 +11461,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-775
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10701,6 +11476,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-776
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10715,6 +11491,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-777
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10729,6 +11506,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-778
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10743,6 +11521,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-779
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10757,6 +11536,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-780
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10771,6 +11551,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-781
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10785,6 +11566,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-782
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10799,6 +11581,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-783
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10813,6 +11596,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-784
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10827,6 +11611,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-785
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10841,6 +11626,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-786
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10855,6 +11641,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-787
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10869,6 +11656,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-788
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10883,6 +11671,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-789
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10897,6 +11686,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-790
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10911,6 +11701,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-791
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10925,6 +11716,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-792
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10939,6 +11731,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-793
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10952,6 +11745,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-794
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10966,6 +11760,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-795
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10980,6 +11775,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-796
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -10994,6 +11790,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-797
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11008,6 +11805,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-798
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11022,6 +11820,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-799
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11036,6 +11835,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-800
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11050,6 +11850,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-801
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11064,6 +11865,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-802
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11078,6 +11880,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-803
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11092,6 +11895,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-804
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11106,6 +11910,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-805
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11120,6 +11925,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-806
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11134,6 +11940,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-807
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11148,6 +11955,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-808
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11162,6 +11970,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-809
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11176,6 +11985,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-810
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11190,6 +12000,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-811
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11204,6 +12015,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-812
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11218,6 +12030,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-813
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11232,6 +12045,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-814
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11246,6 +12060,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-815
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11260,6 +12075,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-816
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11274,6 +12090,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-817
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11287,6 +12104,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-818
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11300,6 +12118,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-819
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11313,6 +12132,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-820
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11327,6 +12147,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-821
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11341,6 +12162,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-822
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11355,6 +12177,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-823
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11369,6 +12192,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-824
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11383,6 +12207,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-825
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11397,6 +12222,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-826
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11411,6 +12237,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-827
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11425,6 +12252,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-828
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11439,6 +12267,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-829
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11453,6 +12282,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-830
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11467,6 +12297,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-831
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11481,6 +12312,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-832
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11494,6 +12326,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-833
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11507,6 +12340,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-834
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11520,6 +12354,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-835
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11533,6 +12368,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-836
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11546,6 +12382,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-837
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11559,6 +12396,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-838
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11572,6 +12410,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-839
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11585,6 +12424,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-840
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11598,6 +12438,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-841
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11611,6 +12452,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-842
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11624,6 +12466,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-843
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11637,6 +12480,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-844
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11650,6 +12494,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-845
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11663,6 +12508,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-846
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11677,6 +12523,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-847
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11690,6 +12537,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-848
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11703,6 +12551,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-849
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11716,6 +12565,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-850
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11729,6 +12579,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-851
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11742,6 +12593,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-852
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11755,6 +12607,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-853
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11768,6 +12621,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-854
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11781,6 +12635,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-855
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11794,6 +12649,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-856
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11807,6 +12663,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-857
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11820,6 +12677,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-858
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11833,6 +12691,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-859
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11846,6 +12705,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-860
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11859,6 +12719,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-861
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11872,6 +12733,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-862
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11885,6 +12747,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-863
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11898,6 +12761,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-864
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11911,6 +12775,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-865
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11924,6 +12789,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-866
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11937,6 +12803,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-867
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11950,6 +12817,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-868
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11964,6 +12832,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-869
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11978,6 +12847,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-870
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -11992,6 +12862,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-871
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12006,6 +12877,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-872
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12020,6 +12892,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-873
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12034,6 +12907,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-874
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12048,6 +12922,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-875
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12062,6 +12937,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-876
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12076,6 +12952,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-877
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12090,6 +12967,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-878
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12104,6 +12982,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-879
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12118,6 +12997,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-880
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12132,6 +13012,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-881
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12146,6 +13027,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-882
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12160,6 +13042,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-883
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12174,6 +13057,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-884
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12188,6 +13072,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-885
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12202,6 +13087,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-886
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12216,6 +13102,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-887
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12230,6 +13117,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-888
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12244,6 +13132,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-889
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12258,6 +13147,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-890
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12272,6 +13162,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-891
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12286,6 +13177,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-892
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12300,6 +13192,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-893
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12314,6 +13207,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-894
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12328,6 +13222,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-895
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12341,6 +13236,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-896
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12354,6 +13250,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-897
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12367,6 +13264,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-898
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12380,6 +13278,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-899
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12393,6 +13292,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-900
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12406,6 +13306,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-901
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12419,6 +13320,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-902
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12432,6 +13334,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-903
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12446,6 +13349,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-904
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12459,6 +13363,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-905
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12472,6 +13377,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-906
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12485,6 +13391,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-907
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12498,6 +13405,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-908
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12511,6 +13419,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-909
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12524,6 +13433,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-910
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12537,6 +13447,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-911
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12550,6 +13461,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-912
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12563,6 +13475,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-913
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12576,6 +13489,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-914
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12589,6 +13503,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-915
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12602,6 +13517,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-916
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12615,6 +13531,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-917
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12628,6 +13545,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-918
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12641,6 +13559,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-919
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12654,6 +13573,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-920
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12667,6 +13587,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-921
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12681,6 +13602,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-922
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12695,6 +13617,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-923
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12709,6 +13632,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-924
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12723,6 +13647,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-925
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12737,6 +13662,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-926
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12751,6 +13677,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-927
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12765,6 +13692,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-928
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12779,6 +13707,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-929
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12793,6 +13722,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-930
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12807,6 +13737,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-931
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12821,6 +13752,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-932
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12835,6 +13767,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-933
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12848,6 +13781,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-934
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12861,6 +13795,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-935
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12875,6 +13810,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-936
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12889,6 +13825,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-937
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12903,6 +13840,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-938
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12917,6 +13855,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-939
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12931,6 +13870,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-940
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12945,6 +13885,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-941
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12959,6 +13900,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-942
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12973,6 +13915,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-943
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -12987,6 +13930,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-944
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13001,6 +13945,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-945
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13015,6 +13960,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-946
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13029,6 +13975,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-947
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13043,6 +13990,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-948
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13057,6 +14005,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-949
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13071,6 +14020,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-950
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13085,6 +14035,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-951
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13099,6 +14050,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-952
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13113,6 +14065,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-953
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13127,6 +14080,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-954
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13141,6 +14095,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-955
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13155,6 +14110,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-956
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13169,6 +14125,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-957
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13183,6 +14140,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-958
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13197,6 +14155,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-959
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13211,6 +14170,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-960
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13225,6 +14185,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-961
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13239,6 +14200,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-962
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13253,6 +14215,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-963
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13267,6 +14230,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-964
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13281,6 +14245,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-965
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13295,6 +14260,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-966
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13308,6 +14274,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-967
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13321,6 +14288,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-968
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13334,6 +14302,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-969
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13347,6 +14316,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-970
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13360,6 +14330,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-971
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13373,6 +14344,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-972
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13387,6 +14359,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-973
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13401,6 +14374,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-974
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13415,6 +14389,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-975
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13429,6 +14404,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-976
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13443,6 +14419,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-977
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13457,6 +14434,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-978
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13471,6 +14449,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-979
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13485,6 +14464,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-980
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13499,6 +14479,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-981
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13513,6 +14494,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-982
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13527,6 +14509,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-983
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13541,6 +14524,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-984
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13555,6 +14539,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-985
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13569,6 +14554,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-986
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13583,6 +14569,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-987
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13597,6 +14584,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-988
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13611,6 +14599,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-989
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13624,6 +14613,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-990
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13638,6 +14628,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-991
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13652,6 +14643,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-992
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13666,6 +14658,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-993
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13680,6 +14673,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-994
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13694,6 +14688,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-995
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13708,6 +14703,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-996
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13722,6 +14718,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-997
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13736,6 +14733,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-998
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13750,6 +14748,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-999
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13764,6 +14763,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1000
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13778,6 +14778,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1001
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13791,6 +14792,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1002
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13805,6 +14807,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1003
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13819,6 +14822,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1004
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13833,6 +14837,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1005
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13847,6 +14852,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1006
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13861,6 +14867,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1007
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13875,6 +14882,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1008
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13889,6 +14897,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1009
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13902,6 +14911,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1010
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13916,6 +14926,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1011
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13930,6 +14941,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1012
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13944,6 +14956,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1013
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13958,6 +14971,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1014
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13972,6 +14986,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1015
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -13986,6 +15001,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1016
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14000,6 +15016,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1017
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14014,6 +15031,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1018
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14028,6 +15046,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1019
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14042,6 +15061,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1020
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14055,6 +15075,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1021
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14069,6 +15090,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1022
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14083,6 +15105,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1023
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14097,6 +15120,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1024
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14111,6 +15135,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1025
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14124,6 +15149,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1026
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14138,6 +15164,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1027
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14152,6 +15179,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1028
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14166,6 +15194,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1029
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14180,6 +15209,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1030
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14194,6 +15224,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1031
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14208,6 +15239,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1032
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14222,6 +15254,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1033
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14235,6 +15268,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1034
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14248,6 +15282,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1035
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14261,6 +15296,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1036
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14275,6 +15311,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1037
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14289,6 +15326,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1038
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14303,6 +15341,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1039
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14317,6 +15356,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1040
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14330,6 +15370,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1041
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14344,6 +15385,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1042
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14358,6 +15400,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1043
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14372,6 +15415,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1044
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14386,6 +15430,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1045
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14400,6 +15445,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1046
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14414,6 +15460,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1047
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14428,6 +15475,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1048
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14442,6 +15490,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1049
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14456,6 +15505,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1050
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14470,6 +15520,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1051
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14484,6 +15535,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1052
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14498,6 +15550,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1053
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14512,6 +15565,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1054
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14526,6 +15580,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1055
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14540,6 +15595,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1056
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14554,6 +15610,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1057
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14568,6 +15625,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1058
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14582,6 +15640,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1059
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14596,6 +15655,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1060
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14610,6 +15670,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1061
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14624,6 +15685,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1062
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14638,6 +15700,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1063
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14651,6 +15714,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1064
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14664,6 +15728,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1065
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14678,6 +15743,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1066
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14692,6 +15758,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1067
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14706,6 +15773,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1068
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14720,6 +15788,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1069
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14734,6 +15803,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1070
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14748,6 +15818,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1071
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14762,6 +15833,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1072
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14776,6 +15848,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1073
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14790,6 +15863,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1074
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14803,6 +15877,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1075
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14817,6 +15892,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1076
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14831,6 +15907,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1077
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14845,6 +15922,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1078
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14859,6 +15937,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1079
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14873,6 +15952,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1080
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14887,6 +15967,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1081
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14901,6 +15982,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1082
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14915,6 +15997,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1083
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14929,6 +16012,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1084
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14943,6 +16027,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1085
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14957,6 +16042,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1086
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14971,6 +16057,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1087
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14984,6 +16071,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1088
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -14997,6 +16085,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1089
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15011,6 +16100,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1090
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15025,6 +16115,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1091
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15038,6 +16129,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1092
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15052,6 +16144,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1093
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15066,6 +16159,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1094
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15080,6 +16174,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1095
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15094,6 +16189,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1096
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15108,6 +16204,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1097
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15122,6 +16219,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1098
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15136,6 +16234,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1099
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15150,6 +16249,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1100
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15164,6 +16264,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1101
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15178,6 +16279,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1102
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15192,6 +16294,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1103
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15206,6 +16309,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1104
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15220,6 +16324,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1105
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15233,6 +16338,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1106
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15247,6 +16353,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1107
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15261,6 +16368,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1108
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15275,6 +16383,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1109
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15289,6 +16398,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1110
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15303,6 +16413,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1111
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15317,6 +16428,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1112
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15331,6 +16443,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1113
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15345,6 +16458,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1114
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15359,6 +16473,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1115
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15373,6 +16488,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1116
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15387,6 +16503,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1117
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15401,6 +16518,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1118
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15415,6 +16533,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1119
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15429,6 +16548,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1120
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15443,6 +16563,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1121
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15457,6 +16578,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1122
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15471,6 +16593,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1123
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15485,6 +16608,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1124
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15499,6 +16623,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1125
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15513,6 +16638,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1126
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15527,6 +16653,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1127
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15540,6 +16667,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1128
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15554,6 +16682,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1129
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15568,6 +16697,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1130
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15582,6 +16712,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1131
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15596,6 +16727,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1132
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15610,6 +16742,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1133
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15624,6 +16757,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1134
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15638,6 +16772,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1135
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15652,6 +16787,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1136
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15666,6 +16802,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1137
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15680,6 +16817,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1138
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15694,6 +16832,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1139
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15708,6 +16847,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1140
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15722,6 +16862,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1141
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15736,6 +16877,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1142
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15750,6 +16892,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1143
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15763,6 +16906,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1144
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15777,6 +16921,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1145
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15791,6 +16936,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1146
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15805,6 +16951,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1147
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15819,6 +16966,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1148
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15833,6 +16981,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1149
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15847,6 +16996,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1150
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15861,6 +17011,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1151
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15875,6 +17026,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1152
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15889,6 +17041,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1153
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15903,6 +17056,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1154
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15917,6 +17071,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1155
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15931,6 +17086,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1156
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15945,6 +17101,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1157
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15959,6 +17116,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1158
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15973,6 +17131,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1159
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -15987,6 +17146,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1160
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16001,6 +17161,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1161
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16014,6 +17175,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1162
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16027,6 +17189,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1163
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16041,6 +17204,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1164
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16055,6 +17219,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1165
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16068,6 +17233,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1166
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16082,6 +17248,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1167
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16096,6 +17263,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1168
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16110,6 +17278,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1169
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16124,6 +17293,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1170
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16138,6 +17308,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1171
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16152,6 +17323,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1172
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16166,6 +17338,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1173
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16180,6 +17353,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1174
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16194,6 +17368,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1175
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16208,6 +17383,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1176
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16222,6 +17398,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1177
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16235,6 +17412,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1178
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16248,6 +17426,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1179
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16261,6 +17440,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1180
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16274,6 +17454,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1181
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16287,6 +17468,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1182
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16300,6 +17482,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1183
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16313,6 +17496,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1184
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16326,6 +17510,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1185
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16340,6 +17525,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1186
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16354,6 +17540,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1187
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16368,6 +17555,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1188
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16382,6 +17570,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1189
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16396,6 +17585,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1190
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16410,6 +17600,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1191
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16424,6 +17615,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1192
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16438,6 +17630,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1193
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16452,6 +17645,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1194
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16466,6 +17660,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1195
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16480,6 +17675,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1196
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16494,6 +17690,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1197
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16508,6 +17705,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1198
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16522,6 +17720,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1199
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16536,6 +17735,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1200
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16550,6 +17750,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1201
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16564,6 +17765,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1202
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16578,6 +17780,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1203
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16592,6 +17795,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1204
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16605,6 +17809,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1205
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16618,6 +17823,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1206
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16632,6 +17838,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1207
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16646,6 +17853,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1208
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16659,6 +17867,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1209
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16673,6 +17882,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1210
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16687,6 +17897,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1211
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16701,6 +17912,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1212
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16715,6 +17927,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1213
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16729,6 +17942,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1214
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16743,6 +17957,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1215
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16756,6 +17971,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1216
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16769,6 +17985,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1217
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16782,6 +17999,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1218
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16795,6 +18013,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1219
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16808,6 +18027,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1220
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16821,6 +18041,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1221
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16835,6 +18056,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1222
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16849,6 +18071,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1223
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16862,6 +18085,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1224
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16876,6 +18100,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1225
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16890,6 +18115,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1226
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16904,6 +18130,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1227
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16918,6 +18145,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1228
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16932,6 +18160,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1229
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16946,6 +18175,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1230
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16960,6 +18190,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1231
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16974,6 +18205,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1232
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -16987,6 +18219,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1233
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17001,6 +18234,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1234
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17015,6 +18249,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1235
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17029,6 +18264,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1236
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17043,6 +18279,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1237
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17057,6 +18294,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1238
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17071,6 +18309,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1239
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17085,6 +18324,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1240
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17099,6 +18339,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1241
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17113,6 +18354,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1242
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17127,6 +18369,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1243
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17141,6 +18384,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1244
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17155,6 +18399,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1245
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17169,6 +18414,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1246
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17183,6 +18429,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1247
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17196,6 +18443,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1248
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17210,6 +18458,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1249
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17224,6 +18473,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1250
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17238,6 +18488,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1251
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17252,6 +18503,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1252
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17266,6 +18518,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1253
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17280,6 +18533,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1254
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17293,6 +18547,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1255
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17307,6 +18562,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1256
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17321,6 +18577,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1257
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17335,6 +18592,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1258
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17349,6 +18607,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1259
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17363,6 +18622,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1260
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17377,6 +18637,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1261
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17390,6 +18651,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1262
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17404,6 +18666,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1263
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17418,6 +18681,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1264
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17432,6 +18696,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1265
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17446,6 +18711,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1266
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17460,6 +18726,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1267
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17473,6 +18740,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1268
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17487,6 +18755,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1269
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17501,6 +18770,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1270
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17515,6 +18785,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1271
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17529,6 +18800,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1272
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17543,6 +18815,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1273
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17557,6 +18830,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1274
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17571,6 +18845,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1275
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17585,6 +18860,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1276
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17599,6 +18875,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1277
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17613,6 +18890,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1278
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17627,6 +18905,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1279
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17640,6 +18919,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1280
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17654,6 +18934,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1281
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17668,6 +18949,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1282
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17682,6 +18964,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1283
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17696,6 +18979,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1284
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17710,6 +18994,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1285
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17724,6 +19009,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1286
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17738,6 +19024,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1287
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17752,6 +19039,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1288
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17765,6 +19053,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1289
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17779,6 +19068,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1290
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17793,6 +19083,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1291
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17807,6 +19098,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1292
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17821,6 +19113,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1293
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17835,6 +19128,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1294
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17849,6 +19143,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1295
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17863,6 +19158,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1296
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17877,6 +19173,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1297
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17891,6 +19188,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1298
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17905,6 +19203,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1299
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17919,6 +19218,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1300
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17933,6 +19233,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1301
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17947,6 +19248,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1302
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17961,6 +19263,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1303
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17975,6 +19278,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1304
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -17989,6 +19293,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1305
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18002,6 +19307,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1306
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18016,6 +19322,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1307
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18030,6 +19337,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1308
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18044,6 +19352,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1309
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18057,6 +19366,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1310
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18071,6 +19381,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1311
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18085,6 +19396,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1312
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18099,6 +19411,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1313
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18112,6 +19425,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1314
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18126,6 +19440,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1315
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18140,6 +19455,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1316
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18154,6 +19470,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1317
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18168,6 +19485,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1318
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18182,6 +19500,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1319
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18196,6 +19515,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1320
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18210,6 +19530,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1321
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18223,6 +19544,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1322
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18237,6 +19559,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1323
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18251,6 +19574,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1324
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18265,6 +19589,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1325
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18279,6 +19604,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1326
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18293,6 +19619,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1327
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18307,6 +19634,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1328
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18320,6 +19648,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1329
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18334,6 +19663,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1330
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18348,6 +19678,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1331
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18362,6 +19693,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1332
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18376,6 +19708,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1333
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18390,6 +19723,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1334
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18404,6 +19738,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1335
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18418,6 +19753,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1336
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18432,6 +19768,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1337
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18446,6 +19783,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1338
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18460,6 +19798,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1339
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18474,6 +19813,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1340
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18487,6 +19827,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1341
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18500,6 +19841,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1342
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18513,6 +19855,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1343
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18527,6 +19870,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1344
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18541,6 +19885,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1345
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18555,6 +19900,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1346
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18569,6 +19915,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1347
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18583,6 +19930,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1348
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18596,6 +19944,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1349
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18609,6 +19958,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1350
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18622,6 +19972,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1351
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18635,6 +19986,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1352
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18649,6 +20001,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1353
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18663,6 +20016,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1354
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18677,6 +20031,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1355
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18691,6 +20046,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1356
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18705,6 +20061,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1357
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18719,6 +20076,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1358
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18732,6 +20090,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1359
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18745,6 +20104,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1360
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18758,6 +20118,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1361
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18771,6 +20132,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1362
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18784,6 +20146,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1363
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18797,6 +20160,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1364
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18810,6 +20174,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1365
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18823,6 +20188,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1366
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18836,6 +20202,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1367
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18849,6 +20216,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1368
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18862,6 +20230,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1369
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18875,6 +20244,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1370
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18888,6 +20258,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1371
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18901,6 +20272,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1372
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18915,6 +20287,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1373
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18929,6 +20302,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1374
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18943,6 +20317,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1375
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18956,6 +20331,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1376
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18969,6 +20345,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1377
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18982,6 +20359,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1378
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -18995,6 +20373,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1379
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19008,6 +20387,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1380
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19021,6 +20401,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1381
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19034,6 +20415,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1382
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19047,6 +20429,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1383
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19060,6 +20443,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1384
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19074,6 +20458,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1385
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19088,6 +20473,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1386
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19102,6 +20488,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1387
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19116,6 +20503,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1388
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19130,6 +20518,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1389
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19144,6 +20533,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1390
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19157,6 +20547,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1391
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19170,6 +20561,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1392
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19183,6 +20575,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1393
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19196,6 +20589,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1394
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19210,6 +20604,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1395
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19224,6 +20619,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1396
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19238,6 +20634,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1397
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19252,6 +20649,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1398
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19266,6 +20664,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1399
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19280,6 +20679,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1400
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19294,6 +20694,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1401
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19307,6 +20708,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1402
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19321,6 +20723,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1403
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19335,6 +20738,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1404
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19349,6 +20753,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1405
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19363,6 +20768,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1406
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19377,6 +20783,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1407
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19390,6 +20797,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1408
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19404,6 +20812,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1409
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19418,6 +20827,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1410
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19431,6 +20841,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1411
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19445,6 +20856,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1412
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19459,6 +20871,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1413
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19473,6 +20886,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1414
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19487,6 +20901,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1415
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19501,6 +20916,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1416
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19515,6 +20931,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1417
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19528,6 +20945,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1418
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19541,6 +20959,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1419
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19554,6 +20973,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1420
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19567,6 +20987,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1421
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19581,6 +21002,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1422
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19594,6 +21016,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1423
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19608,6 +21031,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1424
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19622,6 +21046,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1425
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19636,6 +21061,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1426
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19650,6 +21076,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1427
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19663,6 +21090,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1428
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19677,6 +21105,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1429
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19691,6 +21120,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1430
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19705,6 +21135,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1431
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19719,6 +21150,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1432
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19732,6 +21164,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1433
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19746,6 +21179,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1434
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19760,6 +21194,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1435
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19774,6 +21209,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1436
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19788,6 +21224,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1437
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19802,6 +21239,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1438
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19815,6 +21253,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1439
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19829,6 +21268,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1440
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19843,6 +21283,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1441
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19857,6 +21298,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1442
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19871,6 +21313,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1443
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19885,6 +21328,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1444
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19899,6 +21343,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1445
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19913,6 +21358,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1446
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19927,6 +21373,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1447
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19941,6 +21388,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1448
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19955,6 +21403,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1449
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19969,6 +21418,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1450
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19983,6 +21433,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1451
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -19997,6 +21448,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1452
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20010,6 +21462,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1453
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20023,6 +21476,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1454
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20036,6 +21490,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1455
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20049,6 +21504,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1456
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20062,6 +21518,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1457
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20076,6 +21533,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1458
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20090,6 +21548,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1459
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20104,6 +21563,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1460
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20118,6 +21578,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1461
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20132,6 +21593,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1462
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20146,6 +21608,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1463
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20160,6 +21623,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1464
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20174,6 +21638,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1465
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20188,6 +21653,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1466
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20202,6 +21668,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1467
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20216,6 +21683,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1468
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20230,6 +21698,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1469
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20244,6 +21713,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1470
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20258,6 +21728,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1471
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20272,6 +21743,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1472
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20286,6 +21758,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1473
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20300,6 +21773,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1474
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20314,6 +21788,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1475
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20328,6 +21803,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1476
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20342,6 +21818,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1477
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20356,6 +21833,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1478
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20370,6 +21848,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1479
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20384,6 +21863,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1480
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20398,6 +21878,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1481
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20412,6 +21893,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1482
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20426,6 +21908,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1483
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20440,6 +21923,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1484
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20454,6 +21938,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1485
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20468,6 +21953,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1486
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20482,6 +21968,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1487
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20496,6 +21983,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1488
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20510,6 +21998,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1489
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20524,6 +22013,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1490
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20538,6 +22028,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1491
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20552,6 +22043,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1492
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20565,6 +22057,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1493
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20578,6 +22071,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1494
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20591,6 +22085,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1495
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20604,6 +22099,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1496
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20617,6 +22113,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1497
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20630,6 +22127,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1498
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20643,6 +22141,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1499
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20657,6 +22156,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1500
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20671,6 +22171,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1501
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20685,6 +22186,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1502
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20699,6 +22201,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1503
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20713,6 +22216,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1504
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20727,6 +22231,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1505
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20741,6 +22246,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1506
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20755,6 +22261,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1507
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20769,6 +22276,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1508
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20783,6 +22291,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1509
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20797,6 +22306,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1510
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20810,6 +22320,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1511
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20823,6 +22334,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1512
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20836,6 +22348,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1513
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20849,6 +22362,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1514
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20862,6 +22376,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1515
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20875,6 +22390,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1516
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20888,6 +22404,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1517
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20901,6 +22418,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1518
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20914,6 +22432,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1519
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20927,6 +22446,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1520
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20940,6 +22460,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1521
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20953,6 +22474,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1522
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20966,6 +22488,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1523
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20979,6 +22502,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1524
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -20992,6 +22516,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1525
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21006,6 +22531,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1526
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21020,6 +22546,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1527
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21034,6 +22561,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1528
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21048,6 +22576,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1529
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21062,6 +22591,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1530
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21076,6 +22606,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1531
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21090,6 +22621,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1532
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21103,6 +22635,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1533
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21117,6 +22650,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1534
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21131,6 +22665,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1535
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21145,6 +22680,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1536
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21159,6 +22695,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1537
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21173,6 +22710,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1538
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21187,6 +22725,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1539
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21201,6 +22740,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1540
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21215,6 +22755,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1541
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21229,6 +22770,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1542
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21243,6 +22785,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1543
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21257,6 +22800,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1544
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21271,6 +22815,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1545
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21284,6 +22829,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1546
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21297,6 +22843,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1547
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21310,6 +22857,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1548
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21323,6 +22871,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1549
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21336,6 +22885,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1550
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21349,6 +22899,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1551
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21362,6 +22913,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1552
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21375,6 +22927,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1553
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21388,6 +22941,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1554
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21401,6 +22955,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1555
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21414,6 +22969,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1556
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21427,6 +22983,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1557
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21440,6 +22997,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1558
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21453,6 +23011,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1559
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21466,6 +23025,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1560
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21479,6 +23039,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1561
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21493,6 +23054,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1562
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21507,6 +23069,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1563
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21521,6 +23084,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1564
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21535,6 +23099,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1565
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21549,6 +23114,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1566
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21562,6 +23128,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1567
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21576,6 +23143,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1568
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21590,6 +23158,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1569
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21604,6 +23173,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1570
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21618,6 +23188,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1571
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21632,6 +23203,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1572
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21646,6 +23218,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1573
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21660,6 +23233,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1574
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21674,6 +23248,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1575
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21688,6 +23263,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1576
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21702,6 +23278,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1577
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21716,6 +23293,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1578
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21730,6 +23308,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1579
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21744,6 +23323,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1580
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21758,6 +23338,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1581
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21772,6 +23353,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1582
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21785,6 +23367,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1583
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21799,6 +23382,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1584
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21813,6 +23397,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1585
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21827,6 +23412,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1586
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21841,6 +23427,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1587
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21855,6 +23442,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1588
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21869,6 +23457,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1589
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21883,6 +23472,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1590
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21897,6 +23487,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1591
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21911,6 +23502,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1592
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21925,6 +23517,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1593
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21939,6 +23532,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1594
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21953,6 +23547,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1595
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21967,6 +23562,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1596
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21981,6 +23577,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1597
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -21995,6 +23592,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1598
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22009,6 +23607,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1599
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22023,6 +23622,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1600
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22037,6 +23637,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1601
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22051,6 +23652,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1602
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22065,6 +23667,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1603
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22079,6 +23682,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1604
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22093,6 +23697,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1605
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22107,6 +23712,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1606
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22121,6 +23727,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1607
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22135,6 +23742,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1608
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22148,6 +23756,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1609
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22162,6 +23771,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1610
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22176,6 +23786,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1611
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22189,6 +23800,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1612
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22202,6 +23814,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1613
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22216,6 +23829,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1614
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22230,6 +23844,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1615
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22243,6 +23858,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1616
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22256,6 +23872,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1617
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22269,6 +23886,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1618
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22282,6 +23900,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1619
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22295,6 +23914,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1620
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22309,6 +23929,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1621
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22322,6 +23943,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1622
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22335,6 +23957,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1623
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22348,6 +23971,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1624
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22362,6 +23986,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1625
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22375,6 +24000,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1626
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22388,6 +24014,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1627
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22401,6 +24028,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1628
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22415,6 +24043,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1629
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22429,6 +24058,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1630
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22442,6 +24072,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1631
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22456,6 +24087,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1632
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22469,6 +24101,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1633
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22483,6 +24116,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1634
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22497,6 +24131,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1635
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22511,6 +24146,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1636
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22525,6 +24161,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1637
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22539,6 +24176,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1638
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22553,6 +24191,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1639
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22566,6 +24205,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1640
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22579,6 +24219,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1641
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22592,6 +24233,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1642
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22605,6 +24247,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1643
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22618,6 +24261,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1644
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22631,6 +24275,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1645
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22644,6 +24289,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1646
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22657,6 +24303,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1647
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22670,6 +24317,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1648
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22683,6 +24331,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1649
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22696,6 +24345,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1650
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22709,6 +24359,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1651
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22722,6 +24373,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1652
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22735,6 +24387,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1653
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22748,6 +24401,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1654
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22761,6 +24415,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1655
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22774,6 +24429,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1656
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22787,6 +24443,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1657
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22800,6 +24457,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1658
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22813,6 +24471,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1659
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22826,6 +24485,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1660
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22839,6 +24499,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1661
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22852,6 +24513,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1662
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22865,6 +24527,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1663
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22878,6 +24541,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1664
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22891,6 +24555,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1665
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22904,6 +24569,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1666
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22917,6 +24583,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1667
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22930,6 +24597,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1668
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22943,6 +24611,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1669
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22956,6 +24625,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1670
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22969,6 +24639,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1671
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22982,6 +24653,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1672
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -22995,6 +24667,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1673
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23008,6 +24681,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1674
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23021,6 +24695,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1675
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23034,6 +24709,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1676
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23047,6 +24723,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1677
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23060,6 +24737,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1678
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23073,6 +24751,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1679
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23086,6 +24765,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1680
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23099,6 +24779,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1681
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23112,6 +24793,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1682
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23125,6 +24807,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1683
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23138,6 +24821,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1684
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23152,6 +24836,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1685
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23165,6 +24850,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1686
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23179,6 +24865,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1687
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23193,6 +24880,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1688
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23207,6 +24895,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1689
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23220,6 +24909,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1690
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23234,6 +24924,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1691
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23247,6 +24938,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1692
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23261,6 +24953,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1693
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23274,6 +24967,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1694
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23287,6 +24981,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1695
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23301,6 +24996,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1696
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23314,6 +25010,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1697
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23327,6 +25024,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1698
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23340,6 +25038,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1699
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23353,6 +25052,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1700
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23366,6 +25066,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1701
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23379,6 +25080,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1702
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23392,6 +25094,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1703
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23405,6 +25108,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1704
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23418,6 +25122,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1705
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23431,6 +25136,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1706
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23444,6 +25150,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1707
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23457,6 +25164,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1708
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23470,6 +25178,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1709
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23483,6 +25192,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1710
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23496,6 +25206,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1711
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23509,6 +25220,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1712
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23522,6 +25234,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1713
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23535,6 +25248,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1714
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23548,6 +25262,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1715
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23561,6 +25276,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1716
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23574,6 +25290,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1717
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23587,6 +25304,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1718
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23600,6 +25318,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1719
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23613,6 +25332,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1720
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23626,6 +25346,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1721
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23639,6 +25360,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1722
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23652,6 +25374,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1723
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23665,6 +25388,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1724
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23678,6 +25402,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1725
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23691,6 +25416,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1726
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23704,6 +25430,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1727
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23717,6 +25444,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1728
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23730,6 +25458,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1729
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23743,6 +25472,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1730
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23756,6 +25486,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1731
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23769,6 +25500,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1732
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23782,6 +25514,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1733
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23795,6 +25528,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1734
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23808,6 +25542,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1735
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23821,6 +25556,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1736
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23834,6 +25570,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1737
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23847,6 +25584,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1738
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23860,6 +25598,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1739
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23873,6 +25612,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1740
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23886,6 +25626,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1741
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23899,6 +25640,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1742
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23912,6 +25654,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1743
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23925,6 +25668,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1744
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23938,6 +25682,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1745
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23951,6 +25696,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1746
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23964,6 +25710,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1747
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23977,6 +25724,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1748
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -23990,6 +25738,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1749
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24003,6 +25752,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1750
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24016,6 +25766,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1751
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24029,6 +25780,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1752
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24042,6 +25794,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1753
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24055,6 +25808,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1754
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24068,6 +25822,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1755
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24081,6 +25836,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1756
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24094,6 +25850,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1757
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24107,6 +25864,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1758
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24120,6 +25878,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1759
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24133,6 +25892,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1760
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24146,6 +25906,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1761
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24159,6 +25920,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1762
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24172,6 +25934,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1763
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24185,6 +25948,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1764
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24198,6 +25962,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1765
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24211,6 +25976,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1766
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24224,6 +25990,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1767
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24237,6 +26004,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1768
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24250,6 +26018,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1769
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24263,6 +26032,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1770
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24276,6 +26046,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1771
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24289,6 +26060,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1772
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24302,6 +26074,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1773
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24315,6 +26088,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1774
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24328,6 +26102,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1775
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24341,6 +26116,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1776
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24354,6 +26130,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1777
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24367,6 +26144,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1778
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24380,6 +26158,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1779
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24393,6 +26172,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1780
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24406,6 +26186,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1781
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24419,6 +26200,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1782
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24432,6 +26214,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1783
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24445,6 +26228,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1784
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24458,6 +26242,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1785
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24471,6 +26256,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1786
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24484,6 +26270,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1787
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24497,6 +26284,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1788
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24510,6 +26298,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1789
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24523,6 +26312,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1790
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24536,6 +26326,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1791
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24549,6 +26340,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1792
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24562,6 +26354,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1793
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24575,6 +26368,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1794
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24588,6 +26382,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1795
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24601,6 +26396,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1796
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24614,6 +26410,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1797
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24627,6 +26424,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1798
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24640,6 +26438,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1799
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24653,6 +26452,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1800
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24666,6 +26466,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1801
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24679,6 +26480,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1802
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24692,6 +26494,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1803
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24705,6 +26508,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1804
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24718,6 +26522,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1805
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24731,6 +26536,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1806
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24745,6 +26551,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1807
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24759,6 +26566,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1808
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24773,6 +26581,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1809
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24787,6 +26596,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1810
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24801,6 +26611,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1811
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24814,6 +26625,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1812
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24827,6 +26639,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1813
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24840,6 +26653,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1814
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24853,6 +26667,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1815
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24867,6 +26682,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1816
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24881,6 +26697,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1817
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24894,6 +26711,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1818
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24907,6 +26725,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1819
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24921,6 +26740,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1820
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24934,6 +26754,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1821
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24947,6 +26768,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1822
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24961,6 +26783,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1823
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24974,6 +26797,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1824
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -24988,6 +26812,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1825
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25002,6 +26827,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1826
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25016,6 +26842,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1827
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25030,6 +26857,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1828
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25044,6 +26872,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1829
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25058,6 +26887,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1830
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25071,6 +26901,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1831
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25085,6 +26916,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1832
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25099,6 +26931,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1833
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25113,6 +26946,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1834
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25127,6 +26961,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1835
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25140,6 +26975,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1836
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25154,6 +26990,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1837
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25168,6 +27005,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1838
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25182,6 +27020,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1839
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25195,6 +27034,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1840
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25208,6 +27048,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1841
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25222,6 +27063,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1842
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25236,6 +27078,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1843
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25249,6 +27092,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1844
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25263,6 +27107,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1845
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25277,6 +27122,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1846
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25291,6 +27137,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1847
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25305,6 +27152,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1848
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25319,6 +27167,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1849
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25332,6 +27181,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1850
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25345,6 +27195,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1851
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25359,6 +27210,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1852
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25373,6 +27225,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1853
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25386,6 +27239,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1854
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25400,6 +27254,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1855
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25414,6 +27269,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1856
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25427,6 +27283,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1857
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25440,6 +27297,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1858
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25454,6 +27312,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1859
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25467,6 +27326,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1860
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25480,6 +27340,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1861
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25494,6 +27355,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1862
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25508,6 +27370,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1863
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25521,6 +27384,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1864
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25535,6 +27399,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1865
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25548,6 +27413,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1866
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25561,6 +27427,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1867
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25575,6 +27442,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1868
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25589,6 +27457,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1869
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25603,6 +27472,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1870
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25617,6 +27487,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1871
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25630,6 +27501,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1872
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25643,6 +27515,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1873
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25656,6 +27529,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1874
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25670,6 +27544,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1875
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25684,6 +27559,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1876
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25698,6 +27574,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1877
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25711,6 +27588,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1878
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25725,6 +27603,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1879
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25739,6 +27618,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1880
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25753,6 +27633,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1881
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25767,6 +27648,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1882
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25780,6 +27662,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1883
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25794,6 +27677,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1884
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25808,6 +27692,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1885
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25822,6 +27707,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1886
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25836,6 +27722,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1887
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25850,6 +27737,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1888
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25864,6 +27752,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1889
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25878,6 +27767,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1890
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25892,6 +27782,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1891
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25906,6 +27797,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1892
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25920,6 +27812,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1893
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25934,6 +27827,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1894
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25948,6 +27842,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1895
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25962,6 +27857,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1896
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25976,6 +27872,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1897
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -25990,6 +27887,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1898
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26003,6 +27901,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1899
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26017,6 +27916,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1900
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26031,6 +27931,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1901
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26045,6 +27946,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1902
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26058,6 +27960,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1903
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26072,6 +27975,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1904
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26085,6 +27989,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1905
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26099,6 +28004,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1906
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26112,6 +28018,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1907
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26125,6 +28032,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1908
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26138,6 +28046,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1909
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26151,6 +28060,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1910
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26164,6 +28074,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1911
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26178,6 +28089,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1912
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26192,6 +28104,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1913
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26206,6 +28119,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1914
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26220,6 +28134,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1915
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26234,6 +28149,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1916
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26247,6 +28163,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1917
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26260,6 +28177,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1918
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26274,6 +28192,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1919
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26287,6 +28206,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1920
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26300,6 +28220,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1921
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26313,6 +28234,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1922
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26326,6 +28248,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1923
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26340,6 +28263,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1924
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26354,6 +28278,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1925
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26368,6 +28293,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1926
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26382,6 +28308,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1927
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26396,6 +28323,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1928
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26409,6 +28337,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1929
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26422,6 +28351,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1930
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26436,6 +28366,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1931
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26450,6 +28381,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1932
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26464,6 +28396,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1933
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26478,6 +28411,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1934
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26492,6 +28426,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1935
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26506,6 +28441,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1936
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26519,6 +28455,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1937
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26532,6 +28469,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1938
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26546,6 +28484,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1939
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26560,6 +28499,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1940
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26573,6 +28513,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1941
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26586,6 +28527,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1942
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26599,6 +28541,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1943
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26613,6 +28556,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1944
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26626,6 +28570,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1945
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26639,6 +28584,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1946
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26652,6 +28598,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1947
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26665,6 +28612,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1948
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26678,6 +28626,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1949
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26691,6 +28640,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1950
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26704,6 +28654,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1951
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26717,6 +28668,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1952
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26730,6 +28682,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1953
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26743,6 +28696,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1954
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26756,6 +28710,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1955
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26769,6 +28724,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1956
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26782,6 +28738,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1957
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26795,6 +28752,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1958
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26808,6 +28766,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1959
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26821,6 +28780,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1960
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26834,6 +28794,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1961
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26847,6 +28808,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1962
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26860,6 +28822,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1963
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26873,6 +28836,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1964
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26886,6 +28850,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1965
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26899,6 +28864,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1966
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26912,6 +28878,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1967
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26925,6 +28892,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1968
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26938,6 +28906,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1969
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26951,6 +28920,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1970
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26964,6 +28934,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1971
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26977,6 +28948,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1972
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -26990,6 +28962,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1973
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27003,6 +28976,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1974
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27016,6 +28990,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1975
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27029,6 +29004,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1976
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27042,6 +29018,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1977
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27055,6 +29032,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1978
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27068,6 +29046,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1979
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27082,6 +29061,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1980
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27095,6 +29075,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1981
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27108,6 +29089,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1982
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27121,6 +29103,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1983
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27135,6 +29118,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1984
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27149,6 +29133,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1985
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27163,6 +29148,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1986
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27177,6 +29163,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1987
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27191,6 +29178,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1988
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27205,6 +29193,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1989
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27219,6 +29208,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1990
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27233,6 +29223,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1991
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27246,6 +29237,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1992
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27259,6 +29251,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1993
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27272,6 +29265,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1994
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27285,6 +29279,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1995
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27298,6 +29293,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1996
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27311,6 +29307,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1997
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27325,6 +29322,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1998
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official
@@ -27339,6 +29337,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-Org-1999
 InstanceOf: EerMessagingOrganization
+Description: "EerMessagingOrganization instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[SOR-ID].use = #official

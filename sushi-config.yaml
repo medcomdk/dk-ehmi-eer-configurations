@@ -26,7 +26,7 @@ dependencies:
 #  dk.ehmi.eer: current
   dk.ehmi.eer: 
     version: current
-    uri: https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/
+    uri: https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/ImplementationGuide/
 #    version: 2.0.0-draft 
 #    uri: https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/ImplementationGuide/dk.ehmi.eer
 #    uri: http://medcomehmi.dk/ig/eer/ImplementationGuide/dk.ehmi.eer

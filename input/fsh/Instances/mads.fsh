@@ -6,6 +6,7 @@ Alias: $eer-sor-organization-type = http://medcomehmi.dk/ig/terminology/CodeSyst
 
 Instance: 352264ea-9bee-4957-8c8f-c5aff61e1d44
 InstanceOf: EerEndpointMessaging
+Description: "Endpoint instance"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -33,6 +34,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: 69b3d28b-7eb6-4e91-bf8b-b03df44243f8
 InstanceOf: Organization
+Description: "Organization instance"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -49,6 +51,7 @@ InstanceOf: Organization
 
 Instance: c8dac996-4210-45fc-bc6c-be64ae3f82ec
 InstanceOf: Organization
+Description: "Organization instance"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -69,6 +72,7 @@ InstanceOf: Organization
 
 Instance: d627cb60-c3e3-4ae0-bca9-88c668ea627e
 InstanceOf: Organization
+Description: "Organization instance"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -89,6 +93,7 @@ InstanceOf: Organization
 
 Instance: d741b66b-41cc-4f05-b0b2-ab631ddf6369
 InstanceOf: Organization
+Description: "Organization instance"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
