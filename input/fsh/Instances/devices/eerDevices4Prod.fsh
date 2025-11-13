@@ -1,6 +1,6 @@
 // MultiMed
 Instance: EerDevice-MultiMedAP-prod-LPS
-InstanceOf: EerDeviceConfig
+InstanceOf: EerDevice
 Description: "EerDevice-MultiMed AP"
 * id = "MultiMedAP-prod-LPS" 
 * identifier.value = "MultiMedAP-prod-LPS"
