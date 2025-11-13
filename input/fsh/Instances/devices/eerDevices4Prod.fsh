@@ -146,3 +146,15 @@ Description: "EerDevice-NSPMSH-prod-DDS"
 * deviceName.name = "NSP MSH"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
+
+Instance: EerDevice-NSPEUA-prod-DDS
+InstanceOf: EerDevice
+Description: "EerDevice-NSPEUA-prod-DDS"
+* id = "NSPEUA-prod-DDS" 
+* identifier.value = "NSPEUA-prod-DDS"
+//* definition = Reference(EerDeviceDefinition4AP)
+* type = $EerDeviceTypeCS#EUA "End User Application"
+* status = #active
+* deviceName.name = "NSP DDS EUA"
+* deviceName.type = #manufacturer-name
+* manufacturer = "KvalitetsIT"

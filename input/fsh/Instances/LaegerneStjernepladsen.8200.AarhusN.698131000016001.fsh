@@ -8,6 +8,8 @@ Description: "An example instance of the EER Messaging Organization with a requi
 * identifier[SOR-ID].value = "543210987654321"
 * type[SOR-Hierarchy].coding.code = $EerSorOrganizationTypeCS#IO
 * type[SOR-Hierarchy].coding.system = $EerSorOrganizationTypeCS
+* extension[eua-system][+].valueReference = Reference(EGClineaEUA-test-aarhus)
+* extension[eua-system][+].valueReference = Reference(EGClineaEUA-prod-aarhus)
 * endpoint[+] = Reference(Endpoint/LaegerneStjernepladsen.8200.AarhusN.5790002401428)
 
 Instance: LaegerneStjernepladsen.8200.AarhusN.698141000016008
@@ -21,6 +23,8 @@ Description: "EER Messaging Organization - LaegerneStjernepladsen.8200.AarhusN.6
 * partOf = Reference(Organization/LaegerneStjernepladsen.8200.AarhusN.698131000016001)
 * type[SOR-Hierarchy].coding.code = $EerSorOrganizationTypeCS#HI
 * type[SOR-Hierarchy].coding.system = $EerSorOrganizationTypeCS
+* extension[eua-system][+].valueReference = Reference(EGClineaEUA-test-aarhus)
+* extension[eua-system][+].valueReference = Reference(EGClineaEUA-prod-aarhus)
 * endpoint[+] = Reference(Endpoint/LaegerneStjernepladsen.8200.AarhusN.5790002401428)
 
 Instance: LaegerneStjernepladsen.8200.AarhusN.698161000016009
@@ -34,6 +38,8 @@ Description: "EER Messaging Organization - LaegerneStjernepladsen.8200.AarhusN.6
 * partOf = Reference(Organization/LaegerneStjernepladsen.8200.AarhusN.698141000016008)
 * type[SOR-Hierarchy].coding.code = $EerSorOrganizationTypeCS#OU
 * type[SOR-Hierarchy].coding.system = $EerSorOrganizationTypeCS
+* extension[eua-system][+].valueReference = Reference(EGClineaEUA-test-aarhus)
+* extension[eua-system][+].valueReference = Reference(EGClineaEUA-prod-aarhus)
 * endpoint[+] = Reference(Endpoint/LaegerneStjernepladsen.8200.AarhusN.5790002401428)
 
 Instance: LaegerneStjernepladsen.8200.AarhusN.5790002401428
@@ -47,8 +53,10 @@ Description: "EER Messaging Endpoint - LaegerneStjernepladsen.8200.AarhusN.57900
 * connectionType.code = #EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LaegerneStjernepladsen.8200.AarhusN.5790002401428 FHIR Endpoint"
 * managingOrganization.reference = "Organization/LaegerneStjernepladsen.8200.AarhusN.698131000016001"
-* extension[msh-system].valueReference = Reference(MultiMedMSH-test-LPS)
-* extension[ap-system].valueReference = Reference(MultiMedAP-test-LPS)
+* extension[msh-system][+].valueReference = Reference(MultiMedMSH-test-LPS)
+* extension[msh-system][+].valueReference = Reference(MultiMedMSH-prod-LPS)
+* extension[ap-system][+].valueReference = Reference(MultiMedAP-test-LPS)
+* extension[ap-system][+].valueReference = Reference(MultiMedAP-prod-LPS)
 * address = "https://example.org/fhir"
 * payloadMimeType[+] = #text/xml
 * payloadMimeType[+] = #application/fhir+xml

@@ -26,8 +26,10 @@ InstanceOf: EerEndpointMessaging
 * payloadMimeType[+] = #application/fhir+xml
 * payloadMimeType[+] = #application/fhir+json
 * address = "https://example.org/fhir"
-* extension[msh-system].valueReference = Reference(MultiMedMSH-test-LPS)
-* extension[ap-system].valueReference = Reference(MultiMedAP-test-LPS)
+* extension[msh-system][+].valueReference = Reference(MultiMedMSH-test-LPS)
+* extension[msh-system][+].valueReference = Reference(MultiMedMSH-prod-LPS)
+* extension[ap-system][+].valueReference = Reference(MultiMedAP-test-LPS)
+* extension[ap-system][+].valueReference = Reference(MultiMedAP-prod-LPS)
 
 Instance: 69b3d28b-7eb6-4e91-bf8b-b03df44243f8
 InstanceOf: Organization

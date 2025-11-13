@@ -1,6 +1,7 @@
 // IE niveau
 Instance: DigitalSundhedDanmark-Organization-MedCom
 InstanceOf: EerMessagingOrganization
+Description: "DigitalSundhedDanmark - IE for the SOR eDelivery tree at SDS (In the MedCom SOR-tree)"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "325421000016001"
@@ -19,6 +20,7 @@ InstanceOf: EerMessagingOrganization
 //SI niveau
 Instance: DigitalSundhedDanmark-Organization-eDelivery
 InstanceOf: EerMessagingOrganization
+Description: "DigitalSundhedDanmark - SI for the SOR eDelivery tree at SDS (In the MedCom SOR-tree)"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1134981000016000"
@@ -37,6 +39,7 @@ InstanceOf: EerMessagingOrganization
 //OE niveau
 Instance: DigitalSundhedDanmark-Organization-eDelivery-DDS-PROD
 InstanceOf: EerMessagingOrganization
+Description: "DigitalSundhedDanmark - OE for the SOR eDelivery tree at SDS for the PROD Endpoint"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1135011000016005"
@@ -55,6 +58,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST1
 InstanceOf: EerMessagingOrganization
+Description: "DigitalSundhedDanmark - OE for the SOR eDelivery tree at SDS for the TEST1 Endpoint"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1135051000016009"
@@ -73,6 +77,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST2
 InstanceOf: EerMessagingOrganization
+Description: "DigitalSundhedDanmark - OE for the SOR eDelivery tree at SDS for the TEST2 Endpoint"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1134991000016003"
