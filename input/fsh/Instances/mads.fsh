@@ -9,7 +9,7 @@ InstanceOf: EerEndpointMessaging
 Description: "Endpoint instance"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier[GLN-ID].system = "https://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001995669"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -27,9 +27,7 @@ Description: "Endpoint instance"
 * payloadMimeType[+] = #application/fhir+xml
 * payloadMimeType[+] = #application/fhir+json
 * address = "https://example.org/fhir"
-* extension[msh-system][+].valueReference = Reference(MultiMedMSH-test-LPS)
 * extension[msh-system][+].valueReference = Reference(MultiMedMSH-prod-LPS)
-* extension[ap-system][+].valueReference = Reference(MultiMedAP-test-LPS)
 * extension[ap-system][+].valueReference = Reference(MultiMedAP-prod-LPS)
 
 Instance: 69b3d28b-7eb6-4e91-bf8b-b03df44243f8
@@ -46,7 +44,7 @@ Description: "Organization instance"
 * name = "Trøjborg Lægehus I/S (468851000016000)"
 * endpoint = Reference(352264ea-9bee-4957-8c8f-c5aff61e1d44)
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790001995669"
 
 Instance: c8dac996-4210-45fc-bc6c-be64ae3f82ec
@@ -67,7 +65,7 @@ Description: "Organization instance"
 * partOf.identifier.value = "468861000016002"
 * endpoint = Reference(352264ea-9bee-4957-8c8f-c5aff61e1d44)
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790001995669"
 
 Instance: d627cb60-c3e3-4ae0-bca9-88c668ea627e
@@ -88,7 +86,7 @@ Description: "Organization instance"
 * partOf.identifier.value = "468851000016000"
 * endpoint = Reference(352264ea-9bee-4957-8c8f-c5aff61e1d44)
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790001995669"
 
 Instance: d741b66b-41cc-4f05-b0b2-ab631ddf6369
@@ -109,5 +107,5 @@ Description: "Organization instance"
 * partOf.identifier.value = "468861000016002"
 * endpoint = Reference(352264ea-9bee-4957-8c8f-c5aff61e1d44)
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790001995669"
