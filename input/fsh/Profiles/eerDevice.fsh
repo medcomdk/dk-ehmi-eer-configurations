@@ -1,3 +1,4 @@
+/*
 Profile: EerDeviceConfig
 Parent: Device
 Title: "EER Device - General for configuration"
@@ -23,7 +24,7 @@ Description: "An EHMI profile of the Device resource."
 * url 0..0
 * safety 0..0
 * parent 0..0
-/*
+
 Profile: EerDeviceAP
 Parent: EerDevice
 Title: "EER Device - AP"
