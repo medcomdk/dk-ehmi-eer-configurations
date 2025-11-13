@@ -33,7 +33,7 @@ dependencies:
 
 menu:
   Home: index.html
-  Profiles: profiles.html
+#  Profiles: profiles.html
   Instances:
     Devices: instances-devices.html
     Endpoints: instances-endpoints.html

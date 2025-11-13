@@ -7,9 +7,9 @@ Alias: $eer-sor-organization-type = http://medcomehmi.dk/ig/terminology/CodeSyst
 Instance: 352264ea-9bee-4957-8c8f-c5aff61e1d44
 InstanceOf: EerEndpointMessaging
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "https://www.gs1.org/gln"
-* identifier.value = "5790001995669"
+* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[GLN-ID].system = "https://www.gs1.org/gln"
+* identifier[GLN-ID].value = "5790001995669"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TrøjborgLægehusI/S.8200.AarhusN.468851000016000 FHIR Endpoint"
