@@ -38,9 +38,9 @@ menu:
     Devices: instances-devices.html
     Endpoints: instances-endpoints.html
     Organizations: instances-organizations.html
-  Artifacts: artifacts.html
   More:
     Table of Contents: toc.html
+    Artifacts: artifacts.html
     Downloads: downloads.html
     Dependencies: dependencies.html
 #    mCSD User-stories: EHMI-CSD-User-Stories.html
