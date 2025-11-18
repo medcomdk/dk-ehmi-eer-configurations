@@ -8,7 +8,7 @@ InstanceOf: EerMessagingOrganization
 * identifier[SOR-ID].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
 * identifier[SOR-ID].system = "urn:oid:1.2.208.176.1.1"
 * identifier[SOR-ID].value = "325421000016001"
-* identifier[CVR-ID].system = "http://cvr.dk"
+//* identifier[CVR-ID].system = "http://cvr.dk"
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/325421000016001)
 * type = $eer-sor-organization-type#IE
@@ -26,7 +26,7 @@ InstanceOf: EerMessagingOrganization
 * identifier[SOR-ID].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
 * identifier[SOR-ID].system = "urn:oid:1.2.208.176.1.1"
 * identifier[SOR-ID].value = "1134981000016000"
-* identifier[CVR-ID].system = "http://cvr.dk"
+//* identifier[CVR-ID].system = "http://cvr.dk"
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/325421000016001)
 * type = $eer-sor-organization-type#SI
@@ -44,12 +44,12 @@ InstanceOf: EerMessagingOrganization
 * identifier[SOR-ID].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
 * identifier[SOR-ID].system = "urn:oid:1.2.208.176.1.1"
 * identifier[SOR-ID].value = "1135011000016005"
-* identifier[CVR-ID].system = "http://cvr.dk"
+//* identifier[CVR-ID].system = "http://cvr.dk"
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
 * name = "DigitalSundhedDanmark-Organization-eDelivery-DDS-PROD (1135011000016005)"
-* endpoint = Reference(Endpoint/5790002515804)
+* endpoint = Reference(Endpoint/Endpoint/5790002515804)
 * telecom.system = #url 
 * telecom.value = "https://sorbrowser.sundhedsdatastyrelsen.dk/?FreetextSearch=%221135011000016005%22"
 
@@ -62,12 +62,12 @@ InstanceOf: EerMessagingOrganization
 * identifier[SOR-ID].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
 * identifier[SOR-ID].system = "urn:oid:1.2.208.176.1.1"
 * identifier[SOR-ID].value = "1135051000016009"
-* identifier[CVR-ID].system = "http://cvr.dk"
+//* identifier[CVR-ID].system = "http://cvr.dk"
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
 * name = "DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST1 (1135051000016009)"
-* endpoint = Reference(Endpoint/5790002515811)
+* endpoint = Reference(Endpoint/Endpoint/5790002515811)
 * telecom.system = #url 
 * telecom.value = "https://sorbrowser.sundhedsdatastyrelsen.dk/?FreetextSearch=%221135051000016009%22"
 
@@ -80,12 +80,12 @@ InstanceOf: EerMessagingOrganization
 * identifier[SOR-ID].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
 * identifier[SOR-ID].system = "urn:oid:1.2.208.176.1.1"
 * identifier[SOR-ID].value = "1134991000016003"
-* identifier[CVR-ID].system = "http://cvr.dk"
+//* identifier[CVR-ID].system = "http://cvr.dk"
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
 * name = "DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST2 (1134991000016003)"
-* endpoint = Reference(Endpoint/5790002515798)
+* endpoint = Reference(Endpoint/Endpoint/5790002515798)
 * telecom.system = #url 
 * telecom.value = "https://sorbrowser.sundhedsdatastyrelsen.dk/?FreetextSearch=%221134991000016003%22"
 
@@ -95,7 +95,7 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging--eDelivery-DDS-PROD for
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 //* meta.tag.
 * id = "5790002515804"
-* identifier[GLN-ID].system = "https://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "//https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515804"
 * status = #active
 * managingOrganization = Reference(Organization/1134981000016000)
@@ -115,7 +115,7 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 //* meta.tag.
 * id = "5790002515811"
-* identifier[GLN-ID].system = "https://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "//https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515811"
 * status = #active
 * managingOrganization = Reference(Organization/1134981000016000)
@@ -135,7 +135,7 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 //* meta.tag.
 * id = "5790002515798"
-* identifier[GLN-ID].system = "https://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "//https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515798"
 * status = #active
 * managingOrganization = Reference(Organization/1134981000016000)

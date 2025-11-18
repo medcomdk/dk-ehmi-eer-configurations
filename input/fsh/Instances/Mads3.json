@@ -16,7 +16,7 @@
             "code" : "GLN"
           } ]
         },
-        "system" : "https://www.gs1.org/gln",
+        "system" : "//https://www.gs1.org/gln",
         "value" : "5790001995669"
       } ],
       "status" : "active",
@@ -60,7 +60,7 @@
     },
     "request" : {
       "method" : "PUT",
-      "url" : "Endpoint?identifier=https://www.gs1.org/gln|5790001995669"
+      "url" : "Endpoint?identifier=//https://www.gs1.org/gln|5790001995669"
     }
   }, {
     "fullUrl" : "Organization/69b3d28b-7eb6-4e91-bf8b-b03df44243f8",
@@ -101,7 +101,7 @@
               "code" : "GLN"
             } ]
           },
-          "system" : "https://www.gs1.org/gln",
+          "system" : "//https://www.gs1.org/gln",
           "value" : "5790001995669"
         }
       } ]
@@ -157,7 +157,7 @@
               "code" : "GLN"
             } ]
           },
-          "system" : "https://www.gs1.org/gln",
+          "system" : "//https://www.gs1.org/gln",
           "value" : "5790001995669"
         }
       } ]
@@ -213,7 +213,7 @@
               "code" : "GLN"
             } ]
           },
-          "system" : "https://www.gs1.org/gln",
+          "system" : "//https://www.gs1.org/gln",
           "value" : "5790001995669"
         }
       } ]
@@ -269,7 +269,7 @@
               "code" : "GLN"
             } ]
           },
-          "system" : "https://www.gs1.org/gln",
+          "system" : "//https://www.gs1.org/gln",
           "value" : "5790001995669"
         }
       } ]
