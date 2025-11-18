@@ -2,7 +2,7 @@ id: dk.ehmi.eer-config
 canonical: http://medcomehmi.dk/ig/eer-config
 name: EHMI Endpoint Register (EER) IG Configurations
 title: "DK EHMI Endpoint Register (EER) - Configurations"
-description: The EHMI Endpoint Register (EER) IG - Configurations for merge with incoming SOR data
+description: The EHMI Endpoint Register (EER) IG - Configurations for merge with incoming  from SOR 
 status: draft # draft | active | retired | unknown
 version: 1.0.0-draft
 fhirVersion: 4.0.1
