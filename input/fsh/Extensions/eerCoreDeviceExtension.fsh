@@ -1,3 +1,4 @@
+/*
 Extension: EerEUASystemExtension
 Id: eer-dk-eua-system-extension
 Title: "EER System Extension - EUA"
@@ -20,3 +21,4 @@ Title: "EER System Extension - AP"
 Description: "Reference to a Device that is used to specify one or more systems which an Endpoint uses"
 * value[x] 0.. 
 * value[x] only Reference(EerDevice) 
+*/
