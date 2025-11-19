@@ -95,7 +95,7 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging--eDelivery-DDS-PROD for
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 //* meta.tag.
 * id = "5790002515804"
-//* identifier[GLN-ID].system = "//https://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515804"
 * status = #active
 * managingOrganization = Reference(Organization/1134981000016000)
@@ -115,7 +115,7 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 //* meta.tag.
 * id = "5790002515811"
-//* identifier[GLN-ID].system = "//https://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515811"
 * status = #active
 * managingOrganization = Reference(Organization/1134981000016000)
@@ -135,7 +135,7 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 //* meta.tag.
 * id = "5790002515798"
-//* identifier[GLN-ID].system = "//https://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515798"
 * status = #active
 * managingOrganization = Reference(Organization/1134981000016000)
