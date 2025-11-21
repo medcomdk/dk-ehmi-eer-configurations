@@ -1,0 +1,61 @@
+{
+  "resourceType": "Bundle",
+  "type": "collection",
+  "entry": [ {
+    "resource": {
+      "resourceType": "Device",
+      "id": "7dad14a6-c5c2-4608-a61f-73aa868bdbba",
+      "meta": {
+        "profile": [ "http://medcomehmi.dk/ig/eer/StructureDefinition/EerDevice" ]
+      },
+      "text": {
+        "status": "generated",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p class=\"res-header-id\"><b>Generated Narrative: Device MultiMedMSH-prod-LPS</b></p><a name=\"MultiMedMSH-prod-LPS\"> </a><a name=\"hcMultiMedMSH-prod-LPS\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\"/><p style=\"margin-bottom: 0px\">Profile: <a href=\"https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/StructureDefinition-EerDevice.html\">EER Device</a></p></div><p><b>identifier</b>: MultiMedMSH-prod-LPS</p><p><b>status</b>: Active</p><p><b>manufacturer</b>: MultiMed</p><h3>DeviceNames</h3><table class=\"grid\"><tr><td style=\"display: none\">-</td><td><b>Name</b></td><td><b>Type</b></td></tr><tr><td style=\"display: none\">*</td><td>MultiMedMSH</td><td>Manufacturer name</td></tr></table><p><b>type</b>: <span title=\"Codes:{http://medcomehmi.dk/ig/terminology/CodeSystem/eer-device-type MSH}\">Message Service Handler</span></p></div>"
+      },
+      "identifier": [ {
+        "value": "MultiMedMSH-prod-LPS"
+      } ],
+      "status": "active",
+      "manufacturer": "MultiMed",
+      "deviceName": [ {
+        "name": "MultiMedMSH",
+        "type": "manufacturer-name"
+      } ],
+      "type": {
+        "coding": [ {
+          "system": "http://medcomehmi.dk/ig/terminology/CodeSystem/eer-device-type",
+          "code": "MSH",
+          "display": "Message Service Handler"
+        } ]
+      }
+    }
+  }, {
+    "resource": {
+      "resourceType": "Device",
+      "id": "41f1e2cb-559b-487a-b960-053a5fcd163b",
+      "meta": {
+        "profile": [ "http://medcomehmi.dk/ig/eer/StructureDefinition/EerDevice" ]
+      },
+      "text": {
+        "status": "generated",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p class=\"res-header-id\"><b>Generated Narrative: Device MultiMedAP-prod-LPS</b></p><a name=\"MultiMedAP-prod-LPS\"> </a><a name=\"hcMultiMedAP-prod-LPS\"> </a><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\"/><p style=\"margin-bottom: 0px\">Profile: <a href=\"https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/StructureDefinition-EerDevice.html\">EER Device</a></p></div><p><b>identifier</b>: MultiMedAP-prod-LPS</p><p><b>status</b>: Active</p><p><b>manufacturer</b>: MultiMed</p><h3>DeviceNames</h3><table class=\"grid\"><tr><td style=\"display: none\">-</td><td><b>Name</b></td><td><b>Type</b></td></tr><tr><td style=\"display: none\">*</td><td>MultiMedAP</td><td>Manufacturer name</td></tr></table><p><b>type</b>: <span title=\"Codes:{http://medcomehmi.dk/ig/terminology/CodeSystem/eer-device-type AP}\">eDelivery Access Point</span></p></div>"
+      },
+      "identifier": [ {
+        "value": "MultiMedAP-prod-LPS"
+      } ],
+      "status": "active",
+      "manufacturer": "MultiMed",
+      "deviceName": [ {
+        "name": "MultiMedAP",
+        "type": "manufacturer-name"
+      } ],
+      "type": {
+        "coding": [ {
+          "system": "http://medcomehmi.dk/ig/terminology/CodeSystem/eer-device-type",
+          "code": "AP",
+          "display": "eDelivery Access Point"
+        } ]
+      }
+    }
+  } ]
+}
