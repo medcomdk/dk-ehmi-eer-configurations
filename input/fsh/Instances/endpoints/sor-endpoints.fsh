@@ -1,3 +1,4 @@
+/*
 Alias: $ehmi-delivery-status-agent-who-identifier-types = http://medcomehmi.dk/ig/terminology/CodeSystem/ehmi-delivery-status-agent-who-identifier-types
 Alias: $eer-endpoint-connection-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-endpoint-connection-type
 Alias: $ehmi-message-definition-uri = http://medcomehmi.dk/ig/terminology/CodeSystem/ehmi-message-definition-uri
@@ -23,7 +24,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-2
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -42,7 +43,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-3
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -61,7 +62,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-4
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -80,7 +81,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-5
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -99,7 +100,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-6
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -118,7 +119,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-7
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -137,7 +138,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-8
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -156,7 +157,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-9
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -175,7 +176,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-10
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -194,7 +195,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-11
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -213,7 +214,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-12
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -232,7 +233,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-13
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -251,7 +252,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-14
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -270,7 +271,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-15
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -289,7 +290,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-16
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -308,7 +309,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-17
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -327,7 +328,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-18
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -346,7 +347,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-19
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -365,7 +366,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-20
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -384,7 +385,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-21
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -403,7 +404,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-22
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -422,7 +423,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-23
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -441,7 +442,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-24
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -460,7 +461,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-25
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -479,7 +480,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-26
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -498,7 +499,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-27
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -517,7 +518,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-28
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -536,7 +537,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-29
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -555,7 +556,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-30
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -574,7 +575,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-31
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -593,7 +594,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-32
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -612,7 +613,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-33
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -631,7 +632,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-34
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -650,7 +651,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-35
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -669,7 +670,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-36
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -688,7 +689,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-37
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -707,7 +708,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-38
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -726,7 +727,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-39
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -745,7 +746,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-40
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -764,7 +765,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-41
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -783,7 +784,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-42
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -802,7 +803,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-43
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -821,7 +822,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-44
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -840,7 +841,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-45
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -859,7 +860,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-46
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -878,7 +879,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-47
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -897,7 +898,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-48
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -916,7 +917,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-49
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -935,7 +936,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-50
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -954,7 +955,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-51
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -973,7 +974,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-52
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -992,7 +993,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-53
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1011,7 +1012,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-54
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1030,7 +1031,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-55
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1049,7 +1050,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-56
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1068,7 +1069,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-57
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1087,7 +1088,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-58
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1106,7 +1107,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-59
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1125,7 +1126,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-60
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1144,7 +1145,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-61
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1163,7 +1164,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-62
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1182,7 +1183,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-63
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1201,7 +1202,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-64
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1220,7 +1221,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-65
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1239,7 +1240,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-66
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1258,7 +1259,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-67
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1277,7 +1278,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-68
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1296,7 +1297,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-69
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1315,7 +1316,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-70
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1334,7 +1335,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-71
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1353,7 +1354,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-72
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1372,7 +1373,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-73
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1391,7 +1392,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-74
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1410,7 +1411,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-75
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1429,7 +1430,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-76
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1448,7 +1449,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-77
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1467,7 +1468,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-78
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1486,7 +1487,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-79
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1505,7 +1506,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-80
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1524,7 +1525,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-81
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1543,7 +1544,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-82
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1562,7 +1563,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-83
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1581,7 +1582,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-84
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1600,7 +1601,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-85
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1619,7 +1620,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-86
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1638,7 +1639,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-87
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1657,7 +1658,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-88
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1676,7 +1677,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-89
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1695,7 +1696,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-90
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1714,7 +1715,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-91
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1733,7 +1734,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-92
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1752,7 +1753,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-93
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1771,7 +1772,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-94
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1790,7 +1791,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-95
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1809,7 +1810,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-96
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1828,7 +1829,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-97
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1847,7 +1848,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-98
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1866,7 +1867,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-99
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1885,7 +1886,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-100
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1904,7 +1905,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-101
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1923,7 +1924,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-102
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1942,7 +1943,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-103
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1961,7 +1962,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-104
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1980,7 +1981,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-105
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -1999,7 +2000,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-106
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2018,7 +2019,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-107
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2037,7 +2038,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-108
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2056,7 +2057,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-109
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2075,7 +2076,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-110
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2094,7 +2095,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-111
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2113,7 +2114,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-112
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2132,7 +2133,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-113
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2151,7 +2152,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-114
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2170,7 +2171,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-115
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2189,7 +2190,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-116
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2208,7 +2209,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-117
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2227,7 +2228,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-118
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2246,7 +2247,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-119
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2265,7 +2266,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-120
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2284,7 +2285,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-121
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2303,7 +2304,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-122
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2322,7 +2323,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-123
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2341,7 +2342,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-124
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2360,7 +2361,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-125
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2379,7 +2380,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-126
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2398,7 +2399,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-127
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2417,7 +2418,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-128
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2436,7 +2437,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-129
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2455,7 +2456,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-130
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2474,7 +2475,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-131
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2493,7 +2494,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-132
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2512,7 +2513,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-133
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2531,7 +2532,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-134
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2550,7 +2551,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-135
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2569,7 +2570,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-136
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2588,7 +2589,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-137
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2607,7 +2608,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-138
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2626,7 +2627,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-139
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2645,7 +2646,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-140
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2664,7 +2665,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-141
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2683,7 +2684,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-142
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2702,7 +2703,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-143
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2721,7 +2722,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-144
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2740,7 +2741,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-145
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2759,7 +2760,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-146
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2778,7 +2779,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-147
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2797,7 +2798,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-148
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2816,7 +2817,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-149
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2835,7 +2836,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-150
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2854,7 +2855,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-151
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2873,7 +2874,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-152
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2892,7 +2893,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-153
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2911,7 +2912,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-154
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2930,7 +2931,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-155
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2949,7 +2950,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-156
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2968,7 +2969,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-157
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -2987,7 +2988,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-158
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3006,7 +3007,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-159
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3025,7 +3026,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-160
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3044,7 +3045,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-161
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3063,7 +3064,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-162
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3082,7 +3083,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-163
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3101,7 +3102,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-164
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3120,7 +3121,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-165
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3139,7 +3140,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-166
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3158,7 +3159,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-167
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3177,7 +3178,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-168
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3196,7 +3197,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-169
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3215,7 +3216,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-170
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3234,7 +3235,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-171
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3253,7 +3254,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-172
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3272,7 +3273,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-173
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3291,7 +3292,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-174
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3310,7 +3311,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-175
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3329,7 +3330,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-176
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3348,7 +3349,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-177
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3367,7 +3368,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-178
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3386,7 +3387,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-179
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3405,7 +3406,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-180
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3424,7 +3425,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-181
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3443,7 +3444,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-182
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3462,7 +3463,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-183
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3481,7 +3482,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-184
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3500,7 +3501,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-185
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3519,7 +3520,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-186
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3538,7 +3539,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-187
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3557,7 +3558,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-188
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3576,7 +3577,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-189
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3595,7 +3596,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-190
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3614,7 +3615,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-191
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3633,7 +3634,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-192
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3652,7 +3653,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-193
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3671,7 +3672,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-194
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3690,7 +3691,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-195
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3709,7 +3710,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-196
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3728,7 +3729,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-197
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3747,7 +3748,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-198
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3766,7 +3767,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-199
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3785,7 +3786,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-200
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3804,7 +3805,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-201
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3823,7 +3824,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-202
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3842,7 +3843,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-203
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3861,7 +3862,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-204
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3880,7 +3881,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-205
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3899,7 +3900,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-206
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3918,7 +3919,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-207
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3937,7 +3938,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-208
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3956,7 +3957,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-209
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3975,7 +3976,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-210
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -3994,7 +3995,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-211
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4013,7 +4014,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-212
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4032,7 +4033,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-213
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4051,7 +4052,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-214
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4070,7 +4071,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-215
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4089,7 +4090,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-216
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4108,7 +4109,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-217
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4127,7 +4128,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-218
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4146,7 +4147,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-219
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4165,7 +4166,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-220
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4184,7 +4185,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-221
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4203,7 +4204,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-222
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4222,7 +4223,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-223
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4241,7 +4242,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-224
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4260,7 +4261,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-225
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4279,7 +4280,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-226
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4298,7 +4299,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-227
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4317,7 +4318,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-228
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4336,7 +4337,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-229
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4355,7 +4356,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-230
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4374,7 +4375,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-231
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4393,7 +4394,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-232
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4412,7 +4413,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-233
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4431,7 +4432,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-234
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4450,7 +4451,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-235
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4469,7 +4470,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-236
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4488,7 +4489,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-237
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4507,7 +4508,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-238
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4526,7 +4527,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-239
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4545,7 +4546,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-240
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4564,7 +4565,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-241
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4583,7 +4584,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-242
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4602,7 +4603,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-243
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4621,7 +4622,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-244
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4640,7 +4641,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-245
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4659,7 +4660,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-246
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4678,7 +4679,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-247
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4697,7 +4698,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-248
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4716,7 +4717,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-249
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4735,7 +4736,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-250
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4754,7 +4755,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-251
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4773,7 +4774,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-252
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4792,7 +4793,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-253
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4811,7 +4812,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-254
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4830,7 +4831,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-255
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4849,7 +4850,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-256
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4868,7 +4869,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-257
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4887,7 +4888,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-258
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4906,7 +4907,7 @@ InstanceOf: EerEndpointMessaging
 
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-259
 InstanceOf: EerEndpointMessaging
-// //Usage: #inline
+//Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
@@ -4922,3 +4923,4 @@ InstanceOf: EerEndpointMessaging
 * payloadMimeType[+] = #application/fhir+xml
 * payloadMimeType[+] = #application/fhir+json
 * address = "https://example.org/fhir"
+*/

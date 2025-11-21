@@ -1,3 +1,4 @@
+/*
 Alias: $eer-sor-organization-identier-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-sor-organization-identier-type
 Alias: $eer-sor-organization-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-sor-organization-type
 Alias: $eer-sor-unit-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-sor-unit-type
@@ -27348,3 +27349,4 @@ InstanceOf: EerMessagingOrganization
 * identifier[CVR-ID].value = "64942212"
 * type = $eer-sor-organization-type#OE
 * name = "Jacobs Skole (1544321000016006)"
+*/
