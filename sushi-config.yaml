@@ -35,10 +35,10 @@ menu:
   Home: index.html
 #  Profiles: profiles.html
   Artifacts: 
-    Artifacts: artifacts.html
     Devices: instances-devices.html
     Endpoints: instances-endpoints.html
     Organizations: instances-organizations.html
+    Artifacts: artifacts.html
   More:
     Table of Contents: toc.html
     Downloads: downloads.html
