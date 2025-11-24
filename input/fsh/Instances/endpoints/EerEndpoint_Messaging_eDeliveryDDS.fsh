@@ -10,11 +10,11 @@ InstanceOf: EerMessagingOrganization
 * identifier[SOR-ID].value = "325421000016001"
 //* identifier[CVR-ID].system = "http://cvr.dk"
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
-* partOf = Reference(Organization/325421000016001)
+//* partOf = Reference(Organization/325421000016001)
 * type = $eer-sor-organization-type#IE
-* name = "DigitalSundhedDanmark-Organization-MedCom (325421000016001)" 
+* name = "DigitalSundhedDanmark-Organization-MedCom (325421000016001) (IE)" 
 * telecom.system = #url 
-* telecom.value = "https://sorbrowser.sundhedsdatastyrelsen.dk/?FreetextSearch=%22325421000016001%22"
+* telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=325421000016001"
 
 //SI niveau
 Instance: DigitalSundhedDanmark-Organization-eDelivery
@@ -30,9 +30,9 @@ InstanceOf: EerMessagingOrganization
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/325421000016001)
 * type = $eer-sor-organization-type#SI
-* name = "DigitalSundhedDanmark-Organization-eDelivery (1134981000016000)"
+* name = "DigitalSundhedDanmark-Organization-eDelivery (1134981000016000) (SI)"
 * telecom.system = #url 
-* telecom.value = "https://sorbrowser.sundhedsdatastyrelsen.dk/?FreetextSearch=%221134981000016000%22"
+* telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1134981000016000"
 
 //OE niveau
 Instance: DigitalSundhedDanmark-Organization-eDelivery-DDS-PROD
@@ -48,10 +48,10 @@ InstanceOf: EerMessagingOrganization
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
-* name = "DigitalSundhedDanmark-Organization-eDelivery-DDS-PROD (1135011000016005)"
+* name = "DigitalSundhedDanmark-Organization-eDelivery-DDS-PROD (1135011000016005) (OE)"
 * endpoint = Reference(Endpoint/Endpoint/5790002515804)
 * telecom.system = #url 
-* telecom.value = "https://sorbrowser.sundhedsdatastyrelsen.dk/?FreetextSearch=%221135011000016005%22"
+* telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1135011000016005"
 
 Instance: DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST1
 InstanceOf: EerMessagingOrganization
@@ -66,10 +66,10 @@ InstanceOf: EerMessagingOrganization
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
-* name = "DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST1 (1135051000016009)"
+* name = "DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST1 (1135051000016009) (OE)"
 * endpoint = Reference(Endpoint/Endpoint/5790002515811)
 * telecom.system = #url 
-* telecom.value = "https://sorbrowser.sundhedsdatastyrelsen.dk/?FreetextSearch=%221135051000016009%22"
+* telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1135051000016009"
 
 Instance: DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST2
 InstanceOf: EerMessagingOrganization
@@ -84,10 +84,10 @@ InstanceOf: EerMessagingOrganization
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
-* name = "DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST2 (1134991000016003)"
+* name = "DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST2 (1134991000016003) (OE)"
 * endpoint = Reference(Endpoint/Endpoint/5790002515798)
 * telecom.system = #url 
-* telecom.value = "https://sorbrowser.sundhedsdatastyrelsen.dk/?FreetextSearch=%221134991000016003%22"
+* telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1134991000016003"
 
 Instance: DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-DDS-PROD
 InstanceOf: EerEndpointMessaging
