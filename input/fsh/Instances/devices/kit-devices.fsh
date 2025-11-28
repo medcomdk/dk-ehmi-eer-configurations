@@ -1,8 +1,8 @@
 Alias: $eer-device-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-device-type
 
-Instance: 36f0849d-e813-42c0-9ab1-506378374e98
+Instance: 05d468f2-7fea-4cf6-92e2-0153ec829a78
 InstanceOf: Device
-//Usage: #inline
+Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/EerDevice"
 * identifier.value = "MultiMedMSH-prod-LPS"
 * status = #active
@@ -11,9 +11,9 @@ InstanceOf: Device
 * deviceName.type = #manufacturer-name
 * type = $eer-device-type#MSH "Message Service Handler"
 
-Instance: c227b7e1-31e5-4dc6-bd42-f5254d4d70f8
+Instance: 6cb7bbbe-0432-492d-abb0-6f202e028969
 InstanceOf: Device
-//Usage: #inline
+Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/EerDevice"
 * identifier.value = "MultiMedAP-prod-LPS"
 * status = #active
