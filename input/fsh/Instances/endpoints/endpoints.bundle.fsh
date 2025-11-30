@@ -1,8 +1,6 @@
-Alias: $eer-sor-organization-identier-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-sor-organization-identier-type
-Alias: $eer-sor-organization-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-sor-organization-type
 Alias: $ehmi-delivery-status-agent-who-identifier-types = http://medcomehmi.dk/ig/terminology/CodeSystem/ehmi-delivery-status-agent-who-identifier-types
-Alias: $eer-sor-unit-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-sor-unit-type
 Alias: $eer-endpoint-connection-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-endpoint-connection-type
+Alias: $eer-sor-organization-identier-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-sor-organization-identier-type
 Alias: $ehmi-message-definition-uri = http://medcomehmi.dk/ig/terminology/CodeSystem/ehmi-message-definition-uri
 
 Instance: f3511717-137e-473b-bb58-6b179705c352
