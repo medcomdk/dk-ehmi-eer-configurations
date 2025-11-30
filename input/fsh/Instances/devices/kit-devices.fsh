@@ -2,6 +2,7 @@ Alias: $eer-device-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-dev
 
 Instance: 05d468f2-7fea-4cf6-92e2-0153ec829a78
 InstanceOf: Device
+Description: "eerDevice"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/EerDevice"
 * identifier.value = "MultiMedMSH-prod-LPS"
@@ -13,6 +14,7 @@ InstanceOf: Device
 
 Instance: 6cb7bbbe-0432-492d-abb0-6f202e028969
 InstanceOf: Device
+Description: "eerDevice"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/EerDevice"
 * identifier.value = "MultiMedAP-prod-LPS"
