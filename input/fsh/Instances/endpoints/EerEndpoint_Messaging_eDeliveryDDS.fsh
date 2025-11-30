@@ -1,6 +1,7 @@
 // IE niveau
 Instance: DigitalSundhedDanmark-Organization-MedCom
 InstanceOf: EerMessagingOrganization
+Description: "X"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "325421000016001"
@@ -19,6 +20,7 @@ InstanceOf: EerMessagingOrganization
 //SI niveau
 Instance: DigitalSundhedDanmark-Organization-eDelivery
 InstanceOf: EerMessagingOrganization
+Description: "X"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1134981000016000"
@@ -37,6 +39,7 @@ InstanceOf: EerMessagingOrganization
 //OE niveau
 Instance: DigitalSundhedDanmark-Organization-eDelivery-DDS-PROD
 InstanceOf: EerMessagingOrganization
+Description: "X"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1135011000016005"
@@ -55,6 +58,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST1
 InstanceOf: EerMessagingOrganization
+Description: "X"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1135051000016009"
@@ -73,6 +77,7 @@ InstanceOf: EerMessagingOrganization
 
 Instance: DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST2
 InstanceOf: EerMessagingOrganization
+Description: "X"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1134991000016003"
