@@ -5,6 +5,7 @@ Alias: $ehmi-message-definition-uri = http://medcomehmi.dk/ig/terminology/CodeSy
 
 Instance: f3511717-137e-473b-bb58-6b179705c352
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -29,6 +30,7 @@ InstanceOf: Endpoint
 
 Instance: dc5aa2ae-ccc8-4dd3-ba9a-52501b621916
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -53,6 +55,7 @@ InstanceOf: Endpoint
 
 Instance: db03755a-3f38-4550-84af-32d04da276af
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -77,6 +80,7 @@ InstanceOf: Endpoint
 
 Instance: 237bf7d0-c1cb-42f6-9ca1-b8bb6dd25c91
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -101,6 +105,7 @@ InstanceOf: Endpoint
 
 Instance: b3eca34c-e64f-4803-b138-8c5c0c3e9dc3
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -125,6 +130,7 @@ InstanceOf: Endpoint
 
 Instance: 561f2e63-a90a-431e-9c2f-9bf2444b0237
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -149,6 +155,7 @@ InstanceOf: Endpoint
 
 Instance: 6e4f6a45-23bb-415c-81cf-06dc337fe18d
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -173,6 +180,7 @@ InstanceOf: Endpoint
 
 Instance: 295d77b5-c0c7-4da2-a367-fe2e4c12e710
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -197,6 +205,7 @@ InstanceOf: Endpoint
 
 Instance: e5a63bb2-a9af-4208-a982-7da4b0067a81
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -221,6 +230,7 @@ InstanceOf: Endpoint
 
 Instance: 8fbaa1b2-07cd-450c-9072-cb164ac0b301
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -245,6 +255,7 @@ InstanceOf: Endpoint
 
 Instance: 9349460f-ead5-49b2-8386-dffde73b9b1c
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -269,6 +280,7 @@ InstanceOf: Endpoint
 
 Instance: d903d82d-c181-4a87-8d40-d22fac9c1e41
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -293,6 +305,7 @@ InstanceOf: Endpoint
 
 Instance: e97a692b-d88e-4116-b11e-0846e559f4ac
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -317,6 +330,7 @@ InstanceOf: Endpoint
 
 Instance: 615b53ac-93b6-495c-a9f6-bcc46391dfe3
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -341,6 +355,7 @@ InstanceOf: Endpoint
 
 Instance: c38eeacd-8124-4570-a079-4379a8fb6632
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -365,6 +380,7 @@ InstanceOf: Endpoint
 
 Instance: 8d558389-6b4f-48b5-9fb8-39b665094f6e
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -389,6 +405,7 @@ InstanceOf: Endpoint
 
 Instance: c1b9a548-7700-4b81-a225-34bf2d0a342b
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -413,6 +430,7 @@ InstanceOf: Endpoint
 
 Instance: 50db2811-07de-4320-87cc-2cbeffdada46
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -437,6 +455,7 @@ InstanceOf: Endpoint
 
 Instance: e6d32da3-1638-4030-bd98-b0b156a1df29
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -461,6 +480,7 @@ InstanceOf: Endpoint
 
 Instance: 7ff0e5ac-2e14-4fb8-bc1a-26a922214e02
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -485,6 +505,7 @@ InstanceOf: Endpoint
 
 Instance: df2f37df-a2ff-4a99-af21-4dd9734c37f8
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -509,6 +530,7 @@ InstanceOf: Endpoint
 
 Instance: f5de2214-b293-47d1-9f3b-0add8693813c
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
@@ -542,6 +564,7 @@ InstanceOf: Endpoint
 
 Instance: a1b012da-6b76-4448-b63a-3098cc5c152a
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
@@ -574,6 +597,7 @@ InstanceOf: Endpoint
 
 Instance: 28df2d61-378b-44c4-8c14-1f05236f78be
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -598,6 +622,7 @@ InstanceOf: Endpoint
 
 Instance: 5b60dcac-2d14-45c4-8955-48b2a1998610
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -622,6 +647,7 @@ InstanceOf: Endpoint
 
 Instance: 2c4aef0a-325a-4663-9e06-b5c39da67366
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -646,6 +672,7 @@ InstanceOf: Endpoint
 
 Instance: 56dc7e8e-e2d7-4b2e-af64-20e8f08f1d3f
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -670,6 +697,7 @@ InstanceOf: Endpoint
 
 Instance: 5ebda18a-dcb6-4812-b543-f8d739485647
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -694,6 +722,7 @@ InstanceOf: Endpoint
 
 Instance: 887363d4-bd1c-4857-9bb5-6eec5d883211
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -718,6 +747,7 @@ InstanceOf: Endpoint
 
 Instance: 4b91dfb3-fd4f-47b4-ae08-e1ae04027a32
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -742,6 +772,7 @@ InstanceOf: Endpoint
 
 Instance: c182cd23-a3c1-4506-b76d-671bb7d1316e
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -766,6 +797,7 @@ InstanceOf: Endpoint
 
 Instance: 0fe9ead6-5502-4279-b8d3-5bfd898cd8b0
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -790,6 +822,7 @@ InstanceOf: Endpoint
 
 Instance: af2580c6-b62b-41ba-b827-85abe8279ef2
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -814,6 +847,7 @@ InstanceOf: Endpoint
 
 Instance: fe4996cf-87c5-4fad-b00d-6f3cec1839be
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -838,6 +872,7 @@ InstanceOf: Endpoint
 
 Instance: 598239c3-a18e-462f-9e4f-82955f8e69ef
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -862,6 +897,7 @@ InstanceOf: Endpoint
 
 Instance: eb06ddbd-c663-45bf-bca0-a039df8122df
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -886,6 +922,7 @@ InstanceOf: Endpoint
 
 Instance: 745e7e3c-cdeb-4edc-ba31-ac4f2bf1e8d1
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -910,6 +947,7 @@ InstanceOf: Endpoint
 
 Instance: 22cfea35-8a92-445a-af37-6ca63522aea3
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -934,6 +972,7 @@ InstanceOf: Endpoint
 
 Instance: 9dc0f7dd-3178-4de7-a140-b7c0ffe9c547
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -958,6 +997,7 @@ InstanceOf: Endpoint
 
 Instance: 39b4b4cd-121b-4572-86a4-684b32ef6e0c
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -982,6 +1022,7 @@ InstanceOf: Endpoint
 
 Instance: 5817ff0a-d75e-4af2-8e03-d6de7db16830
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1006,6 +1047,7 @@ InstanceOf: Endpoint
 
 Instance: 1031f109-3b58-499f-b150-59a3b1cf8512
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1030,6 +1072,7 @@ InstanceOf: Endpoint
 
 Instance: fe3aa3bf-733e-4968-b535-6797c654020b
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1054,6 +1097,7 @@ InstanceOf: Endpoint
 
 Instance: 10a0c1ee-7ea5-47a2-92d1-053761cfd6cc
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1078,6 +1122,7 @@ InstanceOf: Endpoint
 
 Instance: ee245659-75cc-4a59-99fc-fff8dbba286b
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1102,6 +1147,7 @@ InstanceOf: Endpoint
 
 Instance: 069baabf-c276-42b5-a9ff-b11ed6b05ed3
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1126,6 +1172,7 @@ InstanceOf: Endpoint
 
 Instance: 8d15ca92-a052-451a-85b5-44e6f8e8043a
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1150,6 +1197,7 @@ InstanceOf: Endpoint
 
 Instance: fa052c32-60a8-4362-aded-8c35a6dffbfc
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1174,6 +1222,7 @@ InstanceOf: Endpoint
 
 Instance: e59b127d-b502-40a1-881c-0c992103c4ec
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1198,6 +1247,7 @@ InstanceOf: Endpoint
 
 Instance: a3e14608-78a1-4371-acaa-f12ee62ecdbd
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1222,6 +1272,7 @@ InstanceOf: Endpoint
 
 Instance: d08ea4ef-b9b4-4d16-89c7-2f5ce29c4879
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1246,6 +1297,7 @@ InstanceOf: Endpoint
 
 Instance: a7307301-cb14-44f2-b134-f951044b21fb
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1270,6 +1322,7 @@ InstanceOf: Endpoint
 
 Instance: 967456fb-43fd-48f9-9abc-35b54f4c4c67
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1294,6 +1347,7 @@ InstanceOf: Endpoint
 
 Instance: a73b9fd4-9c87-43e4-b5f9-d035491a59e9
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1318,6 +1372,7 @@ InstanceOf: Endpoint
 
 Instance: 35be1044-2d36-487e-826d-3af5180e51d6
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1342,6 +1397,7 @@ InstanceOf: Endpoint
 
 Instance: 718ef4eb-9715-496e-9465-e85280b60d26
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1366,6 +1422,7 @@ InstanceOf: Endpoint
 
 Instance: 7e237700-a2de-493e-8c61-7b200fca4917
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1390,6 +1447,7 @@ InstanceOf: Endpoint
 
 Instance: 33f8a55b-d6f4-418d-be72-aa3598c0b232
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1414,6 +1472,7 @@ InstanceOf: Endpoint
 
 Instance: 949d40a6-abe3-4fda-9107-097789c6a780
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1438,6 +1497,7 @@ InstanceOf: Endpoint
 
 Instance: 79b89102-e111-4ef7-b23c-f79e3599fdba
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1462,6 +1522,7 @@ InstanceOf: Endpoint
 
 Instance: a989b786-8854-4e3c-aa14-3e2b13c4ab3f
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1486,6 +1547,7 @@ InstanceOf: Endpoint
 
 Instance: b694baa6-3a79-4442-ab4e-38e2d2dbd168
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1510,6 +1572,7 @@ InstanceOf: Endpoint
 
 Instance: f7d2878b-8f53-4641-940a-090843ffc157
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1534,6 +1597,7 @@ InstanceOf: Endpoint
 
 Instance: a0fccf7c-07d9-458f-9fc6-d08dfe4e0678
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1558,6 +1622,7 @@ InstanceOf: Endpoint
 
 Instance: 2ebf6b96-1603-4d62-8111-2c693b5e6c96
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1582,6 +1647,7 @@ InstanceOf: Endpoint
 
 Instance: c81df6f9-8854-478a-a9be-cce743676cfe
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1606,6 +1672,7 @@ InstanceOf: Endpoint
 
 Instance: cb617f33-0e82-4577-9b59-ccf9d7f34ce8
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1630,6 +1697,7 @@ InstanceOf: Endpoint
 
 Instance: 3ab72caf-b0c7-4b13-862c-e7272ff140ec
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1654,6 +1722,7 @@ InstanceOf: Endpoint
 
 Instance: 7ed1b95a-565c-45d8-b06b-aa461d1840e1
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1678,6 +1747,7 @@ InstanceOf: Endpoint
 
 Instance: ac218789-f81c-4e4a-9be5-8c03574e7401
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1702,6 +1772,7 @@ InstanceOf: Endpoint
 
 Instance: c8a752a0-7d5a-4b81-9cd5-3ce22ce31d9b
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1726,6 +1797,7 @@ InstanceOf: Endpoint
 
 Instance: 7f8d98fb-d22a-4588-9014-24e1a85e855f
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1750,6 +1822,7 @@ InstanceOf: Endpoint
 
 Instance: 31fb2d64-3429-4f92-9fc2-406b3dbdf6c7
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1774,6 +1847,7 @@ InstanceOf: Endpoint
 
 Instance: d8831c20-bffb-40f0-aaba-3217721f9fba
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1798,6 +1872,7 @@ InstanceOf: Endpoint
 
 Instance: 36d990e8-4ce2-4840-a656-26e5bf29b140
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1822,6 +1897,7 @@ InstanceOf: Endpoint
 
 Instance: 0f5f2d47-bf46-4f1e-a2e0-4474b77783ae
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1846,6 +1922,7 @@ InstanceOf: Endpoint
 
 Instance: 8b3bd399-2ed5-4508-8cee-e03864da7fa0
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1870,6 +1947,7 @@ InstanceOf: Endpoint
 
 Instance: d985b8c3-dfcd-4014-850f-69f56b8faf6e
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1894,6 +1972,7 @@ InstanceOf: Endpoint
 
 Instance: f71375aa-9d0d-4858-81f8-9f5b1846c42a
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1918,6 +1997,7 @@ InstanceOf: Endpoint
 
 Instance: 3b7b3259-b471-4698-8aad-e2ebc6b1c375
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1942,6 +2022,7 @@ InstanceOf: Endpoint
 
 Instance: 2d56b641-7f5b-4d9c-8e8e-76f1341569cb
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1966,6 +2047,7 @@ InstanceOf: Endpoint
 
 Instance: 3e32511c-20c8-430f-872d-198bc122ad05
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1990,6 +2072,7 @@ InstanceOf: Endpoint
 
 Instance: bb7c66af-ba25-484d-9087-bbc6ad91db56
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2014,6 +2097,7 @@ InstanceOf: Endpoint
 
 Instance: 3b5ba44b-5bad-4f97-a203-c41cc0d02fc2
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2038,6 +2122,7 @@ InstanceOf: Endpoint
 
 Instance: 1fc3c608-56a9-4aaf-b583-6f2c8c0e7abb
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2062,6 +2147,7 @@ InstanceOf: Endpoint
 
 Instance: b767c5ce-cf8e-4cef-aa4f-7d2415084084
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2086,6 +2172,7 @@ InstanceOf: Endpoint
 
 Instance: c8abcb08-6632-40c0-8c2f-712bb3f2cc01
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2110,6 +2197,7 @@ InstanceOf: Endpoint
 
 Instance: 6db11a33-0298-4643-ae66-0ef52e09d595
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2134,6 +2222,7 @@ InstanceOf: Endpoint
 
 Instance: 0924e664-380d-4564-96c5-988d14fbfb04
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2158,6 +2247,7 @@ InstanceOf: Endpoint
 
 Instance: f828dbc8-a597-4747-8817-fdfeaf05f4a1
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2182,6 +2272,7 @@ InstanceOf: Endpoint
 
 Instance: 6ad41d0a-1728-4e25-b0a4-bea00e69d042
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2206,6 +2297,7 @@ InstanceOf: Endpoint
 
 Instance: 0f55dd9c-f898-4708-a259-047606dcd4eb
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2230,6 +2322,7 @@ InstanceOf: Endpoint
 
 Instance: 1e9fdf98-ecee-44d4-b8e0-c232b50b4c0e
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2254,6 +2347,7 @@ InstanceOf: Endpoint
 
 Instance: cfaaede8-8827-4114-a028-f89d1f7d7c7c
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2278,6 +2372,7 @@ InstanceOf: Endpoint
 
 Instance: 33d2eafd-63b6-4604-9ae9-861ee1ec2191
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2302,6 +2397,7 @@ InstanceOf: Endpoint
 
 Instance: c1399aac-4188-40ae-8e35-3bb56225e27a
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2326,6 +2422,7 @@ InstanceOf: Endpoint
 
 Instance: d7b8e1cd-e491-436e-964c-37d421924973
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2350,6 +2447,7 @@ InstanceOf: Endpoint
 
 Instance: 7851f5d8-797b-4f27-ba67-832639729183
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2374,6 +2472,7 @@ InstanceOf: Endpoint
 
 Instance: bed39c52-5be9-4289-9215-c21999bf8f24
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2398,6 +2497,7 @@ InstanceOf: Endpoint
 
 Instance: 74ae3e76-624b-47e2-b6a6-973d76977e7e
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2422,6 +2522,7 @@ InstanceOf: Endpoint
 
 Instance: f50a028f-6f8d-4949-83cd-5b645d9ce679
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2446,6 +2547,7 @@ InstanceOf: Endpoint
 
 Instance: 2d31ee25-ed63-444a-9104-4b41dbc61c01
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2470,6 +2572,7 @@ InstanceOf: Endpoint
 
 Instance: 070a6103-afc6-43cf-8681-da11b2d3ddb4
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2494,6 +2597,7 @@ InstanceOf: Endpoint
 
 Instance: 7e8ba053-805f-415c-af3f-29cc433ef264
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2518,6 +2622,7 @@ InstanceOf: Endpoint
 
 Instance: 3cefe83f-0f65-4a90-acd4-9fb739f42932
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2542,6 +2647,7 @@ InstanceOf: Endpoint
 
 Instance: ddf49977-28de-44f8-a809-f5bd8d8d44da
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2566,6 +2672,7 @@ InstanceOf: Endpoint
 
 Instance: 517df5d7-8b0e-467f-806b-55fefbbb798f
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2590,6 +2697,7 @@ InstanceOf: Endpoint
 
 Instance: fb135cff-da4d-40dc-b4fe-facc24b2891e
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2614,6 +2722,7 @@ InstanceOf: Endpoint
 
 Instance: 5de48c53-69d4-465b-b20a-a7158a1824f3
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2638,6 +2747,7 @@ InstanceOf: Endpoint
 
 Instance: 3cfe3f41-2c4a-47ac-865c-36e78b32ec95
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2662,6 +2772,7 @@ InstanceOf: Endpoint
 
 Instance: c4c4c5ad-d807-4b74-8d04-295bbbd1f1ef
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2686,6 +2797,7 @@ InstanceOf: Endpoint
 
 Instance: 95fe8d4b-b419-4b55-8106-57945c0cc674
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2710,6 +2822,7 @@ InstanceOf: Endpoint
 
 Instance: f8c41620-4c41-4a26-9801-1eb08f989f83
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2734,6 +2847,7 @@ InstanceOf: Endpoint
 
 Instance: 7493b8fb-f54e-4fc2-8709-e526bf5cb4e1
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2758,6 +2872,7 @@ InstanceOf: Endpoint
 
 Instance: c9644846-8c03-4268-9c42-7d813938b8cc
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2782,6 +2897,7 @@ InstanceOf: Endpoint
 
 Instance: 386029b5-8d5d-4b14-b775-e32ac4bd08e4
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2806,6 +2922,7 @@ InstanceOf: Endpoint
 
 Instance: 98639054-aad5-4e9d-a187-e33e89a4b6b5
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2830,6 +2947,7 @@ InstanceOf: Endpoint
 
 Instance: 9eccb9b1-6447-4a46-b974-5beecfb850e5
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2854,6 +2972,7 @@ InstanceOf: Endpoint
 
 Instance: 168b88e6-c3fa-4199-b368-308837bde8ad
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2878,6 +2997,7 @@ InstanceOf: Endpoint
 
 Instance: 1687f3f5-faff-4b4a-9abf-8139366f3bc0
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2902,6 +3022,7 @@ InstanceOf: Endpoint
 
 Instance: 501449a2-d758-4b42-ad14-2e2ad1bc8de2
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2926,6 +3047,7 @@ InstanceOf: Endpoint
 
 Instance: c74fe9dd-c231-4c68-9012-415e6142f3a2
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2950,6 +3072,7 @@ InstanceOf: Endpoint
 
 Instance: 944a86af-f427-49e0-81a6-37d5667a2139
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2974,6 +3097,7 @@ InstanceOf: Endpoint
 
 Instance: c271d2ee-6e3f-49a8-99b8-5c8313e3d62c
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2998,6 +3122,7 @@ InstanceOf: Endpoint
 
 Instance: ba1980ad-117e-412c-9039-22f84ae40935
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3022,6 +3147,7 @@ InstanceOf: Endpoint
 
 Instance: cfb7ccce-4aeb-48b3-9932-0a67ac3dbbc8
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3046,6 +3172,7 @@ InstanceOf: Endpoint
 
 Instance: 3bb4ad5d-42e6-4e26-939b-36c66f6f3b15
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3070,6 +3197,7 @@ InstanceOf: Endpoint
 
 Instance: 58a3afe6-2e92-4e4a-bd07-605452273472
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3094,6 +3222,7 @@ InstanceOf: Endpoint
 
 Instance: e4937b7d-c77b-4c8f-b5db-c12e3e172629
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3118,6 +3247,7 @@ InstanceOf: Endpoint
 
 Instance: 8b864b7e-1afc-4e62-87d7-cc85997bee52
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3142,6 +3272,7 @@ InstanceOf: Endpoint
 
 Instance: b55a01f3-2485-48f6-a5f6-2a0de4d4da76
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3166,6 +3297,7 @@ InstanceOf: Endpoint
 
 Instance: 544eae67-a88d-4223-82d3-b76a6357d690
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3190,6 +3322,7 @@ InstanceOf: Endpoint
 
 Instance: 90afe9d8-8045-439f-b551-4c498c532b87
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3214,6 +3347,7 @@ InstanceOf: Endpoint
 
 Instance: fb12f376-332a-46c1-b9cb-7140f7f9b497
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3238,6 +3372,7 @@ InstanceOf: Endpoint
 
 Instance: 79b61d19-49a5-4038-8e8c-c9fbcdb77206
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3262,6 +3397,7 @@ InstanceOf: Endpoint
 
 Instance: 17c7686b-f8ee-44c7-865a-47c434263fcc
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3286,6 +3422,7 @@ InstanceOf: Endpoint
 
 Instance: e2c3dca1-9a1e-47b3-9f3b-481895cd5043
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3310,6 +3447,7 @@ InstanceOf: Endpoint
 
 Instance: 82b7e325-7be4-4f7d-ab7d-120f9304b838
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3334,6 +3472,7 @@ InstanceOf: Endpoint
 
 Instance: c5d8f123-f9eb-4f4d-9bfb-7235a532ed3e
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3358,6 +3497,7 @@ InstanceOf: Endpoint
 
 Instance: b63bda2f-b6eb-4c03-8d51-38211e11d207
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3382,6 +3522,7 @@ InstanceOf: Endpoint
 
 Instance: 6f91d31c-4beb-4fd8-9fa2-5d6bb7d90ce7
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3406,6 +3547,7 @@ InstanceOf: Endpoint
 
 Instance: af8c1ff7-af3b-4a74-b024-7f8fa17bccb3
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3430,6 +3572,7 @@ InstanceOf: Endpoint
 
 Instance: 023244c5-96e5-4a9b-bc34-99f527727e63
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3454,6 +3597,7 @@ InstanceOf: Endpoint
 
 Instance: 740d4218-fa06-410d-b57a-4550c4338866
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3478,6 +3622,7 @@ InstanceOf: Endpoint
 
 Instance: bd7d83e7-0ec8-4bcb-bcc9-5156cd05a279
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3502,6 +3647,7 @@ InstanceOf: Endpoint
 
 Instance: 4138bd2d-ea2d-46fa-a1ca-cb70e1b64947
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3526,6 +3672,7 @@ InstanceOf: Endpoint
 
 Instance: 80c20181-40d6-4df2-93cf-8927a78ed945
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3550,6 +3697,7 @@ InstanceOf: Endpoint
 
 Instance: 544598d4-2759-4a6e-95a1-6cc27934a7c0
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3574,6 +3722,7 @@ InstanceOf: Endpoint
 
 Instance: 58ff4817-8b9a-4415-af99-1e7e2d321ba9
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3598,6 +3747,7 @@ InstanceOf: Endpoint
 
 Instance: 8d29423f-2657-47f1-821d-010a74333550
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3622,6 +3772,7 @@ InstanceOf: Endpoint
 
 Instance: e431bd4e-884e-4555-b52d-639ab50822a3
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3646,6 +3797,7 @@ InstanceOf: Endpoint
 
 Instance: 9cbfad69-c3f4-461b-a7f7-2b626496a9e3
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3670,6 +3822,7 @@ InstanceOf: Endpoint
 
 Instance: 2b90f45c-9288-4a60-a3b2-4133644a8b70
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3694,6 +3847,7 @@ InstanceOf: Endpoint
 
 Instance: 13ef8493-a7c8-4fed-a12f-bb434213bf7c
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3718,6 +3872,7 @@ InstanceOf: Endpoint
 
 Instance: 23b77fbd-abdb-4793-b82a-f2d5357feffb
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3742,6 +3897,7 @@ InstanceOf: Endpoint
 
 Instance: 4a9753cf-096a-4170-8ba7-3bf3a9eba4a6
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3766,6 +3922,7 @@ InstanceOf: Endpoint
 
 Instance: 7f9f3520-bc57-4cb6-a3c4-baaaffbe8f47
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3790,6 +3947,7 @@ InstanceOf: Endpoint
 
 Instance: a7d70b72-c727-49e5-9dfd-072fab1658c9
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3814,6 +3972,7 @@ InstanceOf: Endpoint
 
 Instance: 33b8756c-a8d6-4aaa-89e1-bda3c8a35b99
 InstanceOf: Endpoint
+Description: "eer.dk.endpoint.messaging"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
