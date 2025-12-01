@@ -123,26 +123,26 @@ Description: "EerDevice-SystematicCuraEUA for Copenhagen"
 * manufacturer = "Systematic"
 
 // SDS
-Instance: EerDevice-NSPAP-prod-DDS
+Instance: EerDevice-EMR-AP-prod-PROD
 InstanceOf: EerDevice
-Description: "EerDevice-NSPAP-prod-DDS"
-* id = "NSPAP-prod-DDS" 
-* identifier.value = "NSPAP-prod-DDS"
+Description: "EerDevice-EMR-AP-prod-PROD"
+* id = "EMR-AP-prod-PROD" 
+* identifier.value = "EMR-AP-prod-PROD"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
-* deviceName.name = "NSP AP"
+* deviceName.name = "EMR-AP-prod-PROD"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
-Instance: EerDevice-NSPMSH-prod-DDS
+Instance: EerDevice-NSP-EMR-MSH-prod-PROD
 InstanceOf: EerDevice
-Description: "EerDevice-NSPMSH-prod-DDS"
-* id = "NSPMSH-prod-DDS" 
-* identifier.value = "NSPMSH-prod-DDS"
+Description: "EerDevice-NSP-EMR-MSH-prod-PROD"
+* id = "NSP-EMR-MSH-prod-PROD" 
+* identifier.value = "NSP-EMR-MSH-prod-PROD"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "NSP MSH"
+* deviceName.name = "NSP-EMR-MSH-prod-PROD"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"

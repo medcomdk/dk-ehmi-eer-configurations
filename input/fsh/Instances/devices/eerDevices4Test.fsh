@@ -123,26 +123,50 @@ Description: "EerDevice-SystematicCuraEUA for Copenhagen"
 * manufacturer = "Systematic"
 
 // SDS
-Instance: EerDevice-NSPAP-test-DDS
+Instance: EerDevice-EMR-AP-test-TEST1
 InstanceOf: EerDevice
-Description: "EerDevice-NSPAP-test-DDS"
-* id = "NSPAP-test-DDS" 
-* identifier.value = "NSPAP-test-DDS"
+Description: "EerDevice-EMR-AP-test-TEST1"
+* id = "EMR-AP-test-TEST1" 
+* identifier.value = "EMR-AP-test-TEST1"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
-* deviceName.name = "NSP AP"
+* deviceName.name = "EMR-AP-test-TEST1"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
-Instance: EerDevice-NSPMSH-test-DDS
+Instance: EerDevice-NSP-EMR-MSH-test-TEST1
 InstanceOf: EerDevice
-Description: "EerDevice-NSPMSH-test-DDS"
-* id = "NSPMSH-test-DDS" 
-* identifier.value = "NSPMSH-test-DDS"
+Description: "EerDevice-NSP-EMR-MSH-test-TEST1"
+* id = "NSP-EMR-MSH-test-TEST1" 
+* identifier.value = "NSP-EMR-MSH-test-TEST1"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "NSP MSH"
+* deviceName.name = "NSP-EMR-MSH-test-TEST1"
+* deviceName.type = #manufacturer-name
+* manufacturer = "KvalitetsIT"
+
+Instance: EerDevice-EMR-AP-test-TEST2
+InstanceOf: EerDevice
+Description: "EerDevice-EMR-AP-test-TEST2"
+* id = "EMR-AP-test-TEST2" 
+* identifier.value = "EMR-AP-test-TEST2"
+//* definition = Reference(EerDeviceDefinition4AP)
+* type = $EerDeviceTypeCS#AP "eDelivery Access Point"
+* status = #active
+* deviceName.name = "EMR-AP-test-TEST2"
+* deviceName.type = #manufacturer-name
+* manufacturer = "KvalitetsIT"
+
+Instance: EerDevice-NSP-EMR-MSH-test-TEST2
+InstanceOf: EerDevice
+Description: "EerDevice-NSP-EMR-MSH-test-TEST2"
+* id = "NSP-EMR-MSH-test-TEST2" 
+* identifier.value = "NSP-EMR-MSH-test-TEST2"
+//* definition = Reference(EerDeviceDefinition4AP)
+* type = $EerDeviceTypeCS#MSH "Message Service Handler"
+* status = #active
+* deviceName.name = "NSP-EMR-MSH-test-TEST2"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
