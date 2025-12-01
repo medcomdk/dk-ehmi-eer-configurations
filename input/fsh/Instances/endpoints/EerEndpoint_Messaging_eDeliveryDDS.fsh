@@ -31,7 +31,7 @@ Description: "SI for message registration in Digital Sundhed Danmark's national 
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/325421000016001)
 * type = $eer-sor-organization-type#SI
-* name = "DigitalSundhedDanmark-Organization-eDelivery (1134981000016000) (SI)"
+* name = "DigitalSundhedDanmark-EMR (1134981000016000) (SI)"
 * telecom.system = #url 
 * telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1134981000016000"
 
