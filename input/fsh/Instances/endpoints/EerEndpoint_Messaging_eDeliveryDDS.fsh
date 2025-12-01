@@ -1,7 +1,7 @@
 // IE niveau
-Instance: DigitalSundhedDanmark-Organization-MedCom
+Instance: DigitalSundhedDanmark-EMR-IE
 InstanceOf: EerMessagingOrganization
-Description: "X"
+Description: "IE for message registration in Digital Sundhed Danmark's national XDS environment"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "325421000016001"
@@ -11,16 +11,15 @@ Description: "X"
 * identifier[SOR-ID].value = "325421000016001"
 //* identifier[CVR-ID].system = "http://cvr.dk"
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
-//* partOf = Reference(Organization/325421000016001)
 * type = $eer-sor-organization-type#IE
-* name = "DigitalSundhedDanmark-Organization-MedCom (325421000016001) (IE)" 
+* name = "DigitalSundhedDanmark-EMR (325421000016001) (IE)" 
 * telecom.system = #url 
 * telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=325421000016001"
 
 //SI niveau
-Instance: DigitalSundhedDanmark-Organization-eDelivery
+Instance: DigitalSundhedDanmark-EMR-SI
 InstanceOf: EerMessagingOrganization
-Description: "X"
+Description: "SI for message registration in Digital Sundhed Danmark's national XDS environment"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1134981000016000"
@@ -37,9 +36,9 @@ Description: "X"
 * telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1134981000016000"
 
 //OE niveau
-Instance: DigitalSundhedDanmark-Organization-eDelivery-DDS-PROD
+Instance: DigitalSundhedDanmark-EMR-PROD
 InstanceOf: EerMessagingOrganization
-Description: "X"
+Description: "OE for message registration in Digital Sundhed Danmark's national PROD XDS environment"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1135011000016005"
@@ -51,14 +50,14 @@ Description: "X"
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
-* name = "DigitalSundhedDanmark-Organization-eDelivery-DDS-PROD (1135011000016005) (OE)"
-* endpoint = Reference(Endpoint/Endpoint/5790002515804)
+* name = "DigitalSundhedDanmark-EMR-PROD (1135011000016005) (OE)"
+* endpoint = Reference(Endpoint/5790002515804)
 * telecom.system = #url 
 * telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1135011000016005"
 
-Instance: DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST1
+Instance: DigitalSundhedDanmark-EMR-TEST1
 InstanceOf: EerMessagingOrganization
-Description: "X"
+Description: "OE for message registration in Digital Sundhed Danmark's national TEST1 XDS environment"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1135051000016009"
@@ -70,14 +69,14 @@ Description: "X"
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
-* name = "DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST1 (1135051000016009) (OE)"
-* endpoint = Reference(Endpoint/Endpoint/5790002515811)
+* name = "DigitalSundhedDanmark-EMR-TEST1 (1135051000016009) (OE)"
+* endpoint = Reference(Endpoint/5790002515811)
 * telecom.system = #url 
 * telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1135051000016009"
 
-Instance: DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST2
+Instance: DigitalSundhedDanmark-EMR-TEST2
 InstanceOf: EerMessagingOrganization
-Description: "X"
+Description: "OE for message registration in Digital Sundhed Danmark's national TEST2 XDS environment"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1134991000016003"
@@ -89,14 +88,14 @@ Description: "X"
 * identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
-* name = "DigitalSundhedDanmark-Organization-eDelivery-eDelivery-DDS-TEST2 (1134991000016003) (OE)"
-* endpoint = Reference(Endpoint/Endpoint/5790002515798)
+* name = "DigitalSundhedDanmark-EMR-TEST2 (1134991000016003) (OE)"
+* endpoint = Reference(Endpoint/5790002515798)
 * telecom.system = #url 
 * telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1134991000016003"
 
-Instance: DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-DDS-PROD
+Instance: DigitalSundhedDanmark-EerEndpoint-EMR-PROD
 InstanceOf: EerEndpointMessaging
-Description: "DigitalSundhedDanmark-EerEndpointMessaging--eDelivery-DDS-PROD for PROD"
+Description: "Endpoint for message registration in Digital Sundhed Danmark's national PROD XDS environment"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 //* meta.tag.
 * id = "5790002515804"
@@ -104,7 +103,7 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging--eDelivery-DDS-PROD for
 * identifier[GLN-ID].value = "5790002515804"
 * status = #active
 * managingOrganization = Reference(Organization/1134981000016000)
-* name = "DigitalSundhedDanmark-EerEndpointMessaging--eDelivery-DDS-PROD"
+* name = "DigitalSundhedDanmark-EerEndpoint-EMR-PROD"
 * period.start = "2026-01-01"
 //* period.end = "2024-01-01"
 * address = "http://www.dsd-dds.dk/dds-prod"
@@ -114,9 +113,9 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging--eDelivery-DDS-PROD for
 * payloadMimeType[+] = #application/fhir+json
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:homecareobservation:1.1
 
-Instance: DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-DDS-TEST1
+Instance: DigitalSundhedDanmark-EerEndpoint-EMR-TEST1
 InstanceOf: EerEndpointMessaging
-Description: "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS-TEST1 for NSP TEST1"
+Description: "Endpoint for message registration in Digital Sundhed Danmark's national TEST1 XDS environment"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 //* meta.tag.
 * id = "5790002515811"
@@ -124,7 +123,7 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS
 * identifier[GLN-ID].value = "5790002515811"
 * status = #active
 * managingOrganization = Reference(Organization/1134981000016000)
-* name = "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS-TEST1"
+* name = "DigitalSundhedDanmark-EerEndpoint-EMR-TEST1"
 * period.start = "2026-01-01"
 //* period.end = "2024-01-01"
 * address = "http://www.dsd-dds.dk/dds-test1"
@@ -134,9 +133,9 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS
 * payloadMimeType[+] = #application/fhir+json
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:homecareobservation:1.1
 
-Instance: DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-DDS-TEST2
+Instance: DigitalSundhedDanmark-EerEndpoint-EMR-TEST2
 InstanceOf: EerEndpointMessaging
-Description: "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS-TEST2 for NSP TEST2"
+Description: "Endpoint for message registration in Digital Sundhed Danmark's national TEST2 XDS environment"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 //* meta.tag.
 * id = "5790002515798"
@@ -144,7 +143,7 @@ Description: "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS
 * identifier[GLN-ID].value = "5790002515798"
 * status = #active
 * managingOrganization = Reference(Organization/1134981000016000)
-* name = "DigitalSundhedDanmark-EerEndpointMessaging-eDelivery-eDelivery-DDS-TEST2"
+* name = "DigitalSundhedDanmark-EerEndpoint-EMR-TEST2"
 * period.start = "2026-01-01"
 //* period.end = "2024-01-01"
 * address = "http://www.dsd-dds.dk/dds-test2"
