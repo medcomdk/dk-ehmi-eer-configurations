@@ -97,7 +97,14 @@ Instance: DigitalSundhedDanmark-EerEndpoint-EMR-PROD
 InstanceOf: EerEndpointMessaging
 Description: "Endpoint for message registration in Digital Sundhed Danmark's national PROD XDS environment"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-//* meta.tag.
+* extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
+* extension[=].valueReference = Reference(Device/NSPMSH-prod-DDS)
+* extension[=].valueReference.type = "Device"
+* extension[=].valueReference.identifier.value = "NSPMSH-prod-DDS"
+* extension[+].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-ap-system-extension"
+* extension[=].valueReference = Reference(Device/NSPAP-prod-DDS)
+* extension[=].valueReference.type = "Device"
+* extension[=].valueReference.identifier.value = "NSPAP-prod-DDS"
 * id = "5790002515804"
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515804"
