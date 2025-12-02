@@ -98,13 +98,13 @@ InstanceOf: EerEndpointMessaging
 Description: "Endpoint for message registration in Digital Sundhed Danmark's national PROD XDS environment"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
-* extension[=].valueReference = Reference(Device/NSPMSH-prod-DDS)
+* extension[=].valueReference = Reference(Device/EMR-MSH-prod-PROD)
 * extension[=].valueReference.type = "Device"
-* extension[=].valueReference.identifier.value = "NSPMSH-prod-DDS"
+* extension[=].valueReference.identifier.value = "EMR-MSH-prod-PROD"
 * extension[+].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-ap-system-extension"
-* extension[=].valueReference = Reference(Device/NSPAP-prod-DDS)
+* extension[=].valueReference = Reference(Device/EMR-AP-prod-PROD)
 * extension[=].valueReference.type = "Device"
-* extension[=].valueReference.identifier.value = "NSPAP-prod-DDS"
+* extension[=].valueReference.identifier.value = "EMR-AP-prod-PROD"
 * id = "5790002515804"
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515804"
@@ -124,7 +124,14 @@ Instance: DigitalSundhedDanmark-EerEndpoint-EMR-TEST1
 InstanceOf: EerEndpointMessaging
 Description: "Endpoint for message registration in Digital Sundhed Danmark's national TEST1 XDS environment"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-//* meta.tag.
+* extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
+* extension[=].valueReference = Reference(Device/EMR-MSH-test-TEST1)
+* extension[=].valueReference.type = "Device"
+* extension[=].valueReference.identifier.value = "EMR-MSH-test-TEST1"
+* extension[+].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-ap-system-extension"
+* extension[=].valueReference = Reference(Device/EMR-AP-test-TEST1)
+* extension[=].valueReference.type = "Device"
+* extension[=].valueReference.identifier.value = "EMR-AP-test-TEST1"
 * id = "5790002515811"
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515811"
@@ -144,7 +151,14 @@ Instance: DigitalSundhedDanmark-EerEndpoint-EMR-TEST2
 InstanceOf: EerEndpointMessaging
 Description: "Endpoint for message registration in Digital Sundhed Danmark's national TEST2 XDS environment"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-//* meta.tag.
+* extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
+* extension[=].valueReference = Reference(Device/EMR-MSH-test-TEST2)
+* extension[=].valueReference.type = "Device"
+* extension[=].valueReference.identifier.value = "EMR-MSH-test-TEST2"
+* extension[+].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-ap-system-extension"
+* extension[=].valueReference = Reference(Device/EMR-AP-test-TEST2)
+* extension[=].valueReference.type = "Device"
+* extension[=].valueReference.identifier.value = "EMR-AP-test-TEST2"
 * id = "5790002515798"
 //* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515798"

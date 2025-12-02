@@ -7,7 +7,7 @@ Description: "EerDevice-MultiMed AP"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
-* deviceName.name = "MultiMedAP"
+* deviceName.name = "MultiMed AP"
 * deviceName.type = #manufacturer-name
 * manufacturer = "MultiMed"
 
@@ -19,7 +19,7 @@ Description: "EerDevice-MultiMedMSH"
 //* definition = Reference(EerDeviceDefinition4MSH)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "MultiMedMSH"
+* deviceName.name = "MultiMed MSH"
 * deviceName.type = #manufacturer-name
 * manufacturer = "MultiMed"
 
@@ -32,7 +32,7 @@ Description: "EerDevice-KvalitetsItAP"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
-* deviceName.name = "KvalitetsItAP"
+* deviceName.name = "KvalitetsIt AP"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIt"
 
@@ -44,7 +44,7 @@ Description: "EerDevice-KvalitetsItAP"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
-* deviceName.name = "KvalitetsItAP"
+* deviceName.name = "KvalitetsIt AP"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIt"
 
@@ -57,7 +57,7 @@ Description: "EerDevice-EGClineaEUA"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
-* deviceName.name = "EGClineaEUA"
+* deviceName.name = "EG Clinea EUA"
 * deviceName.type = #manufacturer-name
 * manufacturer = "EG"
 
@@ -69,7 +69,7 @@ Description: "EerDevice-EGClineaEUA"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
-* deviceName.name = "EGClineaEUA"
+* deviceName.name = "EG Clinea EUA"
 * deviceName.type = #manufacturer-name
 * manufacturer = "EG"
 
@@ -82,7 +82,7 @@ Description: "EerDevice-SystematicMSH for Aarhus"
 //* definition = Reference(EerDeviceDefinition4MSH)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "SystematicMSH"
+* deviceName.name = "Systematic Cura MSH"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
@@ -94,7 +94,7 @@ Description: "EerDevice-SystematicMSH for Copenhagen"
 //* definition = Reference(EerDeviceDefinition4MSH)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "SystematicMSH"
+* deviceName.name = "Systematic Cura MSH"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
@@ -106,7 +106,7 @@ Description: "EerDevice-SystematicCuraEUA for Aarhus"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
-* deviceName.name = "SystematicCura"
+* deviceName.name = "Systematic Cura EUA"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
@@ -118,7 +118,7 @@ Description: "EerDevice-SystematicCuraEUA for Copenhagen"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
-* deviceName.name = "SystematicCura"
+* deviceName.name = "Systematic Cura EUA"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
@@ -131,7 +131,7 @@ Description: "EerDevice-EMR-AP-test-TEST1"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
-* deviceName.name = "EMR-AP-test-TEST1"
+* deviceName.name = "NSP EMR AP TEST1"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
@@ -143,7 +143,7 @@ Description: "EerDevice-NSP-EMR-MSH-test-TEST1"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "NSP-EMR-MSH-test-TEST1"
+* deviceName.name = "NSP EMR MSH TEST1"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
@@ -155,7 +155,7 @@ Description: "EerDevice-EMR-AP-test-TEST2"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
-* deviceName.name = "EMR-AP-test-TEST2"
+* deviceName.name = "NSP EMR AP TEST2"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
@@ -167,6 +167,6 @@ Description: "EerDevice-NSP-EMR-MSH-test-TEST2"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "NSP-EMR-MSH-test-TEST2"
+* deviceName.name = "NSP EMR MSH TEST2"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
