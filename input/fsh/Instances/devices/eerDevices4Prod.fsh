@@ -1,5 +1,5 @@
 // MultiMed
-Instance: EerDevice-MultiMedAP-prod-LPS
+Instance: MultiMedAP-prod-LPS
 InstanceOf: EerDevice
 Description: "EerDevice-MultiMed AP"
 * id = "MultiMedAP-prod-LPS" 
@@ -11,7 +11,7 @@ Description: "EerDevice-MultiMed AP"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Datagruppen MultiMed A/S"
 
-Instance: EerDevice-MultiMedMSH-prod-LPS
+Instance: MultiMedMSH-prod-LPS
 InstanceOf: EerDevice
 Description: "EerDevice-MultiMedMSH"
 * id = "MultiMedMSH-prod-LPS" 
@@ -24,7 +24,7 @@ Description: "EerDevice-MultiMedMSH"
 * manufacturer = "Datagruppen MultiMed A/S"
 
 // KvalitetsIt
-Instance: EerDevice-KvalitetsItAP-prod-aarhus
+Instance: KvalitetsItAP-prod-aarhus
 InstanceOf: EerDevice
 Description: "EerDevice-KvalitetsItAP"
 * id = "KvalitetsItAP-prod-aarhus"
@@ -36,7 +36,7 @@ Description: "EerDevice-KvalitetsItAP"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIt"
 
-Instance: EerDevice-KvalitetsItAP-prod-kobenhavn
+Instance: KvalitetsItAP-prod-kobenhavn
 InstanceOf: EerDevice
 Description: "EerDevice-KvalitetsItAP"
 * id = "KvalitetsItAP-prod-kobenhavn"
@@ -49,7 +49,7 @@ Description: "EerDevice-KvalitetsItAP"
 * manufacturer = "KvalitetsIt"
 
 // EG 
-Instance: EerDevice-EGClineaEUA-prod-aarhus
+Instance: EGClineaEUA-prod-aarhus
 InstanceOf: EerDevice
 Description: "EerDevice-EGClineaEUA"
 * id = "EGClineaEUA-prod-aarhus"
@@ -61,7 +61,7 @@ Description: "EerDevice-EGClineaEUA"
 * deviceName.type = #manufacturer-name
 * manufacturer = "EG"
 
-Instance: EerDevice-EGClineaEUA-prod-kobenhavn
+Instance: EGClineaEUA-prod-kobenhavn
 InstanceOf: EerDevice
 Description: "EerDevice-EGClineaEUA-prod-kobenhavn"
 * id = "EGClineaEUA-prod-kobenhavn"
@@ -74,7 +74,7 @@ Description: "EerDevice-EGClineaEUA-prod-kobenhavn"
 * manufacturer = "EG"
 
 // Systematic
-Instance: EerDevice-SystematicCuraMSH-prod-aarhus
+Instance: SystematicCuraMSH-prod-aarhus
 InstanceOf: EerDevice
 Description: "EerDevice-SystematicCuraMSH for Aarhus"
 * id = "SystematicCuraMSH-prod-aarhus" 
@@ -86,7 +86,7 @@ Description: "EerDevice-SystematicCuraMSH for Aarhus"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
-Instance: EerDevice-SystematicCuraMSH-prod-kobenhavn
+Instance: SystematicCuraMSH-prod-kobenhavn
 InstanceOf: EerDevice
 Description: "EerDevice-SystematicCuraMSH for Copenhagen"
 * id = "SystematicCuraMSH-prod-kobenhavn" 
@@ -98,7 +98,7 @@ Description: "EerDevice-SystematicCuraMSH for Copenhagen"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
-Instance: EerDevice-SystematicCuraEUA-prod-aarhus
+Instance: SystematicCuraEUA-prod-aarhus
 InstanceOf: EerDevice
 Description: "EerDevice-SystematicCuraEUA for Aarhus"
 * id = "SystematicCuraEUA-prod-aarhus" 
@@ -110,7 +110,7 @@ Description: "EerDevice-SystematicCuraEUA for Aarhus"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
-Instance: EerDevice-SystematicCuraEUA-prod-kobenhavn
+Instance: SystematicCuraEUA-prod-kobenhavn
 InstanceOf: EerDevice
 Description: "EerDevice-SystematicCuraEUA for Copenhagen"
 * id = "SystematicCuraEUA-prod-kobenhavn" 
@@ -123,7 +123,7 @@ Description: "EerDevice-SystematicCuraEUA for Copenhagen"
 * manufacturer = "Systematic"
 
 // SDS
-Instance: EerDevice-EMR-AP-prod-PROD
+Instance: EMR-AP-prod-PROD
 InstanceOf: EerDevice
 Description: "EerDevice-EMR-AP-prod-PROD"
 * id = "EMR-AP-prod-PROD" 
@@ -135,7 +135,7 @@ Description: "EerDevice-EMR-AP-prod-PROD"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
-Instance: EerDevice-NSP-EMR-MSH-prod-PROD
+Instance: NSP-EMR-MSH-prod-PROD
 InstanceOf: EerDevice
 Description: "EerDevice-NSP-EMR-MSH-prod-PROD"
 * id = "NSP-EMR-MSH-prod-PROD" 

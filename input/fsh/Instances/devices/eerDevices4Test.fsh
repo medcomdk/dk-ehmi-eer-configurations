@@ -1,5 +1,5 @@
 // MultiMed
-Instance: EerDevice-MultiMedAP-test-LPS
+Instance: MultiMedAP-test-LPS
 InstanceOf: EerDevice
 Description: "EerDevice-MultiMed AP"
 * id = "MultiMedAP-test-LPS" 
@@ -11,7 +11,7 @@ Description: "EerDevice-MultiMed AP"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Datagruppen MultiMed A/S"
 
-Instance: EerDevice-MultiMedMSH-test-LPS
+Instance: MultiMedMSH-test-LPS
 InstanceOf: EerDevice
 Description: "EerDevice-MultiMedMSH"
 * id = "MultiMedMSH-test-LPS" 
@@ -24,7 +24,7 @@ Description: "EerDevice-MultiMedMSH"
 * manufacturer = "Datagruppen MultiMed A/S"
 
 // KvalitetsIt
-Instance: EerDevice-KvalitetsItAP-test-aarhus
+Instance: KvalitetsItAP-test-aarhus
 InstanceOf: EerDevice
 Description: "EerDevice-KvalitetsItAP"
 * id = "KvalitetsItAP-test-aarhus"
@@ -36,7 +36,7 @@ Description: "EerDevice-KvalitetsItAP"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIt"
 
-Instance: EerDevice-KvalitetsItAP-test-kobenhavn
+Instance: KvalitetsItAP-test-kobenhavn
 InstanceOf: EerDevice
 Description: "EerDevice-KvalitetsItAP"
 * id = "KvalitetsItAP-test-kobenhavn"
@@ -49,7 +49,7 @@ Description: "EerDevice-KvalitetsItAP"
 * manufacturer = "KvalitetsIt"
 
 // EG 
-Instance: EerDevice-EGClineaEUA-test-aarhus
+Instance: EGClineaEUA-test-aarhus
 InstanceOf: EerDevice
 Description: "EerDevice-EGClineaEUA"
 * id = "EGClineaEUA-test-aarhus"
@@ -61,7 +61,7 @@ Description: "EerDevice-EGClineaEUA"
 * deviceName.type = #manufacturer-name
 * manufacturer = "EG"
 
-Instance: EerDevice-EGClineaEUA-test-kobenhavn
+Instance: EGClineaEUA-test-kobenhavn
 InstanceOf: EerDevice
 Description: "EerDevice-EGClineaEUA"
 * id = "EGClineaEUA-test-kobenhavn"
@@ -74,7 +74,7 @@ Description: "EerDevice-EGClineaEUA"
 * manufacturer = "EG"
 
 // Systematic
-Instance: EerDevice-SystematicMSH-test-aarhus
+Instance: SystematicMSH-test-aarhus
 InstanceOf: EerDevice
 Description: "EerDevice-SystematicMSH for Aarhus"
 * id = "SystematicMSH-test-aarhus" 
@@ -86,7 +86,7 @@ Description: "EerDevice-SystematicMSH for Aarhus"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
-Instance: EerDevice-SystematicMSH-test-kobenhavn
+Instance: SystematicMSH-test-kobenhavn
 InstanceOf: EerDevice
 Description: "EerDevice-SystematicMSH for Copenhagen"
 * id = "SystematicMSH-test-kobenhavn" 
@@ -98,7 +98,7 @@ Description: "EerDevice-SystematicMSH for Copenhagen"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
-Instance: EerDevice-SystematicCuraEUA-test-aarhus
+Instance: SystematicCuraEUA-test-aarhus
 InstanceOf: EerDevice
 Description: "EerDevice-SystematicCuraEUA for Aarhus"
 * id = "SystematicCuraEUA-test-aarhus" 
@@ -110,7 +110,7 @@ Description: "EerDevice-SystematicCuraEUA for Aarhus"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
-Instance: EerDevice-SystematicCuraEUA-test-kobenhavn
+Instance: SystematicCuraEUA-test-kobenhavn
 InstanceOf: EerDevice
 Description: "EerDevice-SystematicCuraEUA for Copenhagen"
 * id = "SystematicCuraEUA-test-kobenhavn" 
@@ -123,7 +123,7 @@ Description: "EerDevice-SystematicCuraEUA for Copenhagen"
 * manufacturer = "Systematic"
 
 // SDS
-Instance: EerDevice-EMR-AP-test-TEST1
+Instance: EMR-AP-test-TEST1
 InstanceOf: EerDevice
 Description: "EerDevice-EMR-AP-test-TEST1"
 * id = "EMR-AP-test-TEST1" 
@@ -135,7 +135,7 @@ Description: "EerDevice-EMR-AP-test-TEST1"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
-Instance: EerDevice-NSP-EMR-MSH-test-TEST1
+Instance: NSP-EMR-MSH-test-TEST1
 InstanceOf: EerDevice
 Description: "EerDevice-NSP-EMR-MSH-test-TEST1"
 * id = "NSP-EMR-MSH-test-TEST1" 
@@ -147,7 +147,7 @@ Description: "EerDevice-NSP-EMR-MSH-test-TEST1"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
-Instance: EerDevice-EMR-AP-test-TEST2
+Instance: EMR-AP-test-TEST2
 InstanceOf: EerDevice
 Description: "EerDevice-EMR-AP-test-TEST2"
 * id = "EMR-AP-test-TEST2" 
@@ -159,7 +159,7 @@ Description: "EerDevice-EMR-AP-test-TEST2"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
-Instance: EerDevice-NSP-EMR-MSH-test-TEST2
+Instance: NSP-EMR-MSH-test-TEST2
 InstanceOf: EerDevice
 Description: "EerDevice-NSP-EMR-MSH-test-TEST2"
 * id = "NSP-EMR-MSH-test-TEST2" 

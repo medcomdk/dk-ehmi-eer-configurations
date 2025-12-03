@@ -8,7 +8,7 @@ Description: "eerDevice"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/EerDevice"
 * identifier.value = "MultiMedMSH-prod-LPS"
 * status = #active
-* manufacturer = "MultiMed"
+* manufacturer = "Datagruppen MultiMed A/S"
 * deviceName.name = "MultiMedMSH"
 * deviceName.type = #manufacturer-name
 * type = $eer-device-type#MSH "Message Service Handler"
@@ -20,7 +20,7 @@ Description: "eerDevice"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/EerDevice"
 * identifier.value = "MultiMedAP-prod-LPS"
 * status = #active
-* manufacturer = "MultiMed"
+* manufacturer = "Datagruppen MultiMed A/S"
 * deviceName.name = "MultiMedAP"
 * deviceName.type = #manufacturer-name
 * type = $eer-device-type#AP "eDelivery Access Point"
