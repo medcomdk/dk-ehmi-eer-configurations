@@ -9,7 +9,7 @@ Description: "EerDevice-MultiMed AP"
 * status = #active
 * deviceName.name = "MultiMed AP"
 * deviceName.type = #manufacturer-name
-* manufacturer = "MultiMed"
+* manufacturer = "Datagruppen MultiMed A/S"
 
 Instance: EerDevice-MultiMedMSH-prod-LPS
 InstanceOf: EerDevice
@@ -21,7 +21,7 @@ Description: "EerDevice-MultiMedMSH"
 * status = #active
 * deviceName.name = "MultiMed MSH"
 * deviceName.type = #manufacturer-name
-* manufacturer = "MultiMed"
+* manufacturer = "Datagruppen MultiMed A/S"
 
 // KvalitetsIt
 Instance: EerDevice-KvalitetsItAP-prod-aarhus

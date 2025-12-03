@@ -1,3 +1,4 @@
+/*
 Alias: $eer-device-type = http://medcomehmi.dk/ig/terminology/CodeSystem/eer-device-type
 
 Instance: 05d468f2-7fea-4cf6-92e2-0153ec829a78
@@ -23,3 +24,4 @@ Description: "eerDevice"
 * deviceName.name = "MultiMedAP"
 * deviceName.type = #manufacturer-name
 * type = $eer-device-type#AP "eDelivery Access Point"
+*/
