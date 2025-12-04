@@ -637,11 +637,11 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
-* extension[=].valueReference = Reference(Device/multimedmsh-prod-lps)
+* extension[=].valueReference = Reference(Device/MultiMedMSH-prod-LPS)
 * extension[=].valueReference.type = "Device"
 * extension[=].valueReference.identifier.value = "MultiMedMSH-prod-LPS"
 * extension[+].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-ap-system-extension"
-* extension[=].valueReference = Reference(Device/multimedap-prod-lps)
+* extension[=].valueReference = Reference(Device/MultiMedAP-prod-LPS)
 * extension[=].valueReference.type = "Device"
 * extension[=].valueReference.identifier.value = "MultiMedAP-prod-LPS"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -670,11 +670,11 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
-* extension[=].valueReference = Reference(Device/multimedmsh-prod-lps)
+* extension[=].valueReference = Reference(Device/MultiMedMSH-prod-LPS)
 * extension[=].valueReference.type = "Device"
 * extension[=].valueReference.identifier.value = "MultiMedMSH-prod-LPS"
 * extension[+].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-ap-system-extension"
-* extension[=].valueReference = Reference(Device/multimedap-prod-lps)
+* extension[=].valueReference = Reference(Device/MultiMedAP-prod-LPS)
 * extension[=].valueReference.type = "Device"
 * extension[=].valueReference.identifier.value = "MultiMedAP-prod-LPS"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN

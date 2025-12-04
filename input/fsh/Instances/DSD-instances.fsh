@@ -98,9 +98,9 @@ InstanceOf: EerEndpointMessaging
 Description: "Endpoint for message registration in Digital Sundhed Danmark's national PROD XDS environment"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
-* extension[=].valueReference = Reference(Device/EMR-MSH-prod-PROD)
+* extension[=].valueReference = Reference(Device/NSP-EMR-MSH-prod-PROD)
 * extension[=].valueReference.type = "Device"
-* extension[=].valueReference.identifier.value = "EMR-MSH-prod-PROD"
+* extension[=].valueReference.identifier.value = "NSP-EMR-MSH-prod-PROD"
 * extension[+].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-ap-system-extension"
 * extension[=].valueReference = Reference(Device/EMR-AP-prod-PROD)
 * extension[=].valueReference.type = "Device"
@@ -125,9 +125,9 @@ InstanceOf: EerEndpointMessaging
 Description: "Endpoint for message registration in Digital Sundhed Danmark's national TEST1 XDS environment"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
-* extension[=].valueReference = Reference(Device/EMR-MSH-test-TEST1)
+* extension[=].valueReference = Reference(Device/NSP-EMR-MSH-test-TEST1)
 * extension[=].valueReference.type = "Device"
-* extension[=].valueReference.identifier.value = "EMR-MSH-test-TEST1"
+* extension[=].valueReference.identifier.value = "NSP-EMR-MSH-test-TEST1"
 * extension[+].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-ap-system-extension"
 * extension[=].valueReference = Reference(Device/EMR-AP-test-TEST1)
 * extension[=].valueReference.type = "Device"
@@ -152,9 +152,9 @@ InstanceOf: EerEndpointMessaging
 Description: "Endpoint for message registration in Digital Sundhed Danmark's national TEST2 XDS environment"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
-* extension[=].valueReference = Reference(Device/EMR-MSH-test-TEST2)
+* extension[=].valueReference = Reference(Device/NSP-EMR-MSH-test-TEST2)
 * extension[=].valueReference.type = "Device"
-* extension[=].valueReference.identifier.value = "EMR-MSH-test-TEST2"
+* extension[=].valueReference.identifier.value = "NSP-EMR-MSH-test-TEST2"
 * extension[+].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-ap-system-extension"
 * extension[=].valueReference = Reference(Device/EMR-AP-test-TEST2)
 * extension[=].valueReference.type = "Device"
