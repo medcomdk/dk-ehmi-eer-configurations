@@ -36,18 +36,6 @@ Description: "EerDevice-KvalitetsItAP"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIt"
 
-Instance: KvalitetsItAP-prod-kobenhavn
-InstanceOf: EerDevice
-Description: "EerDevice-KvalitetsItAP"
-* id = "KvalitetsItAP-prod-kobenhavn"
-* identifier.value = "EerDevice-KvalitetsItAP-prod-kobenhavn"
-//* definition = Reference(EerDeviceDefinition4AP)
-* type = $EerDeviceTypeCS#AP "eDelivery Access Point"
-* status = #active
-* deviceName.name = "KvalitetsIt AP København"
-* deviceName.type = #manufacturer-name
-* manufacturer = "KvalitetsIt"
-
 // EG 
 Instance: EGClineaEUA-prod-aarhus
 InstanceOf: EerDevice
@@ -57,21 +45,9 @@ Description: "EerDevice-EGClineaEUA"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
-* deviceName.name = "EG Clinea EUA Aarhus"
+* deviceName.name = "EG Clinea"
 * deviceName.type = #manufacturer-name
-* manufacturer = "EG"
-
-Instance: EGClineaEUA-prod-kobenhavn
-InstanceOf: EerDevice
-Description: "EerDevice-EGClineaEUA-prod-kobenhavn"
-* id = "EGClineaEUA-prod-kobenhavn"
-* identifier.value = "EerDevice-EGClineaEUA-prod-kobenhavn"
-//* definition = Reference(EerDeviceDefinition4EUA)
-* type = $EerDeviceTypeCS#EUA "End User Application"
-* status = #active
-* deviceName.name = "EG Clinea EUA København"
-* deviceName.type = #manufacturer-name
-* manufacturer = "EG"
+* manufacturer = "EG Healthcare"
 
 // Systematic
 Instance: SystematicCuraMSH-prod-aarhus
@@ -82,19 +58,7 @@ Description: "EerDevice-SystematicCuraMSH for Aarhus"
 //* definition = Reference(EerDeviceDefinition4MSH)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "Systematic Cura MSH Aarhus"
-* deviceName.type = #manufacturer-name
-* manufacturer = "Systematic"
-
-Instance: SystematicCuraMSH-prod-kobenhavn
-InstanceOf: EerDevice
-Description: "EerDevice-SystematicCuraMSH for Copenhagen"
-* id = "SystematicCuraMSH-prod-kobenhavn" 
-* identifier.value = "SystematicCuraMSH-prod-kobenhavn"
-//* definition = Reference(EerDeviceDefinition4MSH)
-* type = $EerDeviceTypeCS#MSH "Message Service Handler"
-* status = #active
-* deviceName.name = "Systematic Cura MSH København"
+* deviceName.name = "Systematic Cura MSH"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
@@ -106,19 +70,7 @@ Description: "EerDevice-SystematicCuraEUA for Aarhus"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
-* deviceName.name = "Systematic Cura Aarhus"
-* deviceName.type = #manufacturer-name
-* manufacturer = "Systematic"
-
-Instance: SystematicCuraEUA-prod-kobenhavn
-InstanceOf: EerDevice
-Description: "EerDevice-SystematicCuraEUA for Copenhagen"
-* id = "SystematicCuraEUA-prod-kobenhavn" 
-* identifier.value = "SystematicCuraEUA-prod-kobenhavn"
-//* definition = Reference(EerDeviceDefinition4EUA)
-* type = $EerDeviceTypeCS#EUA "End User Application"
-* status = #active
-* deviceName.name = "Systematic Cura København"
+* deviceName.name = "Systematic Cura"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
