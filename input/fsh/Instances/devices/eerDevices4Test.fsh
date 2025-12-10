@@ -1,3 +1,4 @@
+/*
 // MultiMed
 Instance: MultiMedAP-test-LPS
 InstanceOf: EerDevice
@@ -122,3 +123,4 @@ Description: "EerDevice-NSP-EMR-MSH-test-TEST2"
 * deviceName.name = "NSP EMR MSH TEST2"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
+*/
