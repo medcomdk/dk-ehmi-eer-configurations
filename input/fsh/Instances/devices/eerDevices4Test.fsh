@@ -58,7 +58,7 @@ Description: "EerDevice-SystematicMSH for Aarhus"
 //* definition = Reference(EerDeviceDefinition4MSH)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "Systematic Cura MSH"
+* deviceName.name = "Columna Cura MSH"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
@@ -70,7 +70,7 @@ Description: "EerDevice-SystematicCuraEUA for Aarhus"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
-* deviceName.name = "Systematic Cura EUA"
+* deviceName.name = "Columna Cura EUA"
 * deviceName.type = #manufacturer-name
 * manufacturer = "Systematic"
 
