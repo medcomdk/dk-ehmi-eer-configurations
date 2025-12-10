@@ -57,9 +57,9 @@ Description: "EerDevice-EGClineaEUA"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
-* deviceName.name = "EG Clinea EUA"
+* deviceName.name = "EG Clinea"
 * deviceName.type = #manufacturer-name
-* manufacturer = "EG"
+* manufacturer = "EG Healthcare"
 
 Instance: EGClineaEUA-test-kobenhavn
 InstanceOf: EerDevice
@@ -69,9 +69,9 @@ Description: "EerDevice-EGClineaEUA"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
-* deviceName.name = "EG Clinea EUA"
+* deviceName.name = "EG Clinea"
 * deviceName.type = #manufacturer-name
-* manufacturer = "EG"
+* manufacturer = "EG Healthcare"
 
 // Systematic
 Instance: SystematicMSH-test-aarhus
