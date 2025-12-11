@@ -93,6 +93,7 @@ Description: "OE for message registration in Digital Sundhed Danmark's national 
 * telecom.system = #url 
 * telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1134991000016003"
 
+/*
 Instance: DigitalSundhedDanmark-EerEndpoint-EMR-PROD
 InstanceOf: EerEndpointMessaging
 Description: "Endpoint for message registration in Digital Sundhed Danmark's national PROD XDS environment"
@@ -119,7 +120,7 @@ Description: "Endpoint for message registration in Digital Sundhed Danmark's nat
 * payloadMimeType[+] = #application/fhir+xml
 * payloadMimeType[+] = #application/fhir+json
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:homecareobservation:1.1
-
+*/
 Instance: DigitalSundhedDanmark-EerEndpoint-EMR-TEST1
 InstanceOf: EerEndpointMessaging
 Description: "Endpoint for message registration in Digital Sundhed Danmark's national TEST1 XDS environment"

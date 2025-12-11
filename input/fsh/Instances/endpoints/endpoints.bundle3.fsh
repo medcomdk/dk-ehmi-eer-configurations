@@ -637,13 +637,13 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
-* extension[=].valueReference = Reference(Device/MultiMedMSH-prod-LPS)
+* extension[=].valueReference = Reference(Device/MultiMedMSH-test-LPS)
 * extension[=].valueReference.type = "Device"
-* extension[=].valueReference.identifier.value = "MultiMedMSH-prod-LPS"
+* extension[=].valueReference.identifier.value = "MultiMedMSH-test-LPS"
 * extension[+].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-ap-system-extension"
-* extension[=].valueReference = Reference(Device/MultiMedAP-prod-LPS)
+* extension[=].valueReference = Reference(Device/MultiMedAP-test-LPS)
 * extension[=].valueReference.type = "Device"
-* extension[=].valueReference.identifier.value = "MultiMedAP-prod-LPS"
+* extension[=].valueReference.identifier.value = "MultiMedAP-test-LPS"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002401428"
@@ -670,13 +670,13 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
-* extension[=].valueReference = Reference(Device/MultiMedMSH-prod-LPS)
+* extension[=].valueReference = Reference(Device/MultiMedMSH-test-LPS)
 * extension[=].valueReference.type = "Device"
-* extension[=].valueReference.identifier.value = "MultiMedMSH-prod-LPS"
+* extension[=].valueReference.identifier.value = "MultiMedMSH-test-LPS"
 * extension[+].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-ap-system-extension"
-* extension[=].valueReference = Reference(Device/MultiMedAP-prod-LPS)
+* extension[=].valueReference = Reference(Device/MultiMedAP-test-LPS)
 * extension[=].valueReference.type = "Device"
-* extension[=].valueReference.identifier.value = "MultiMedAP-prod-LPS"
+* extension[=].valueReference.identifier.value = "MultiMedAP-test-LPS"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001995669"

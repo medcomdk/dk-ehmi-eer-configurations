@@ -1049,7 +1049,7 @@ Usage: #example
 
 Instance: 41491000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1063,7 +1063,7 @@ InstanceOf: Organization
 
 Instance: 41501000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1088,7 +1088,7 @@ InstanceOf: Organization
 
 Instance: 1408911000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1113,7 +1113,7 @@ InstanceOf: Organization
 
 Instance: 1408931000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1138,7 +1138,7 @@ InstanceOf: Organization
 
 Instance: 1408901000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1163,7 +1163,7 @@ InstanceOf: Organization
 
 Instance: 1408921000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1188,7 +1188,7 @@ InstanceOf: Organization
 
 Instance: 469331000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1213,7 +1213,7 @@ InstanceOf: Organization
 
 Instance: 12851000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1232,7 +1232,7 @@ InstanceOf: Organization
 
 Instance: 12861000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1257,7 +1257,7 @@ InstanceOf: Organization
 
 Instance: 12881000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1282,7 +1282,7 @@ InstanceOf: Organization
 
 Instance: 618971000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1307,7 +1307,7 @@ InstanceOf: Organization
 
 Instance: 1244841000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1327,7 +1327,7 @@ InstanceOf: Organization
 
 Instance: 1244791000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1347,7 +1347,7 @@ InstanceOf: Organization
 
 Instance: 937961000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1373,7 +1373,7 @@ InstanceOf: Organization
 
 Instance: 1244871000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1393,7 +1393,7 @@ InstanceOf: Organization
 
 Instance: 311000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1408,7 +1408,7 @@ InstanceOf: Organization
 
 Instance: 1144541000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1428,7 +1428,7 @@ InstanceOf: Organization
 
 Instance: 937971000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1448,7 +1448,7 @@ InstanceOf: Organization
 
 Instance: 1144351000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1469,7 +1469,7 @@ InstanceOf: Organization
 
 Instance: 1525901000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1489,7 +1489,7 @@ InstanceOf: Organization
 
 Instance: 1144751000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1509,7 +1509,7 @@ InstanceOf: Organization
 
 Instance: 1244901000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1529,7 +1529,7 @@ InstanceOf: Organization
 
 Instance: 7141000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1549,7 +1549,7 @@ InstanceOf: Organization
 
 Instance: 1280171000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1574,7 +1574,7 @@ InstanceOf: Organization
 
 Instance: 947241000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1595,7 +1595,7 @@ InstanceOf: Organization
 
 Instance: 951311000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1615,7 +1615,7 @@ InstanceOf: Organization
 
 Instance: 1144591000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1636,7 +1636,7 @@ InstanceOf: Organization
 
 Instance: 1244701000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1656,7 +1656,7 @@ InstanceOf: Organization
 
 Instance: 1144671000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1677,7 +1677,7 @@ InstanceOf: Organization
 
 Instance: 1144551000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1698,7 +1698,7 @@ InstanceOf: Organization
 
 Instance: 361321000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1719,7 +1719,7 @@ InstanceOf: Organization
 
 Instance: 1340281000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1740,7 +1740,7 @@ InstanceOf: Organization
 
 Instance: 545311000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1761,7 +1761,7 @@ InstanceOf: Organization
 
 Instance: 1144421000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1781,7 +1781,7 @@ InstanceOf: Organization
 
 Instance: 1525911000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1801,7 +1801,7 @@ InstanceOf: Organization
 
 Instance: 1144481000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1821,7 +1821,7 @@ InstanceOf: Organization
 
 Instance: 1144361000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1841,7 +1841,7 @@ InstanceOf: Organization
 
 Instance: 1144301000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1862,7 +1862,7 @@ InstanceOf: Organization
 
 Instance: 1244851000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1882,7 +1882,7 @@ InstanceOf: Organization
 
 Instance: 1144771000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1902,7 +1902,7 @@ InstanceOf: Organization
 
 Instance: 1144761000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1922,7 +1922,7 @@ InstanceOf: Organization
 
 Instance: 1144791000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1942,7 +1942,7 @@ InstanceOf: Organization
 
 Instance: 1144781000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1962,7 +1962,7 @@ InstanceOf: Organization
 
 Instance: 1244921000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -1982,7 +1982,7 @@ InstanceOf: Organization
 
 Instance: 331071000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2008,7 +2008,7 @@ InstanceOf: Organization
 
 Instance: 576011000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2033,7 +2033,7 @@ InstanceOf: Organization
 
 Instance: 331091000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2059,7 +2059,7 @@ InstanceOf: Organization
 
 Instance: 1053851000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2084,7 +2084,7 @@ InstanceOf: Organization
 
 Instance: 488291000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2105,7 +2105,7 @@ InstanceOf: Organization
 
 Instance: 480601000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2125,7 +2125,7 @@ InstanceOf: Organization
 
 Instance: 331081000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2151,7 +2151,7 @@ InstanceOf: Organization
 
 Instance: 328781000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2172,7 +2172,7 @@ InstanceOf: Organization
 
 Instance: 951391000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2192,7 +2192,7 @@ InstanceOf: Organization
 
 Instance: 951361000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2212,7 +2212,7 @@ InstanceOf: Organization
 
 Instance: 1297941000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2232,7 +2232,7 @@ InstanceOf: Organization
 
 Instance: 1336701000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2252,7 +2252,7 @@ InstanceOf: Organization
 
 Instance: 1296871000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2272,7 +2272,7 @@ InstanceOf: Organization
 
 Instance: 951401000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2292,7 +2292,7 @@ InstanceOf: Organization
 
 Instance: 947251000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2318,7 +2318,7 @@ InstanceOf: Organization
 
 Instance: 1028251000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2339,7 +2339,7 @@ InstanceOf: Organization
 
 Instance: 1437191000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2364,7 +2364,7 @@ InstanceOf: Organization
 
 Instance: 1221961000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2384,7 +2384,7 @@ InstanceOf: Organization
 
 Instance: 1027201000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2404,7 +2404,7 @@ InstanceOf: Organization
 
 Instance: 951321000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2430,7 +2430,7 @@ InstanceOf: Organization
 
 Instance: 951341000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2451,7 +2451,7 @@ InstanceOf: Organization
 
 Instance: 1027891000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2472,7 +2472,7 @@ InstanceOf: Organization
 
 Instance: 1027601000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2493,7 +2493,7 @@ InstanceOf: Organization
 
 Instance: 1027881000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2514,7 +2514,7 @@ InstanceOf: Organization
 
 Instance: 1144631000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2535,7 +2535,7 @@ InstanceOf: Organization
 
 Instance: 1144651000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2556,7 +2556,7 @@ InstanceOf: Organization
 
 Instance: 1144641000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2577,7 +2577,7 @@ InstanceOf: Organization
 
 Instance: 1027921000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2598,7 +2598,7 @@ InstanceOf: Organization
 
 Instance: 1144661000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2619,7 +2619,7 @@ InstanceOf: Organization
 
 Instance: 1244721000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2639,7 +2639,7 @@ InstanceOf: Organization
 
 Instance: 1027811000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2660,7 +2660,7 @@ InstanceOf: Organization
 
 Instance: 1027491000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2681,7 +2681,7 @@ InstanceOf: Organization
 
 Instance: 1069231000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2702,7 +2702,7 @@ InstanceOf: Organization
 
 Instance: 1144701000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2723,7 +2723,7 @@ InstanceOf: Organization
 
 Instance: 1027821000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2744,7 +2744,7 @@ InstanceOf: Organization
 
 Instance: 1027561000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2765,7 +2765,7 @@ InstanceOf: Organization
 
 Instance: 1144741000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2786,7 +2786,7 @@ InstanceOf: Organization
 
 Instance: 1144691000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2807,7 +2807,7 @@ InstanceOf: Organization
 
 Instance: 1055261000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2828,7 +2828,7 @@ InstanceOf: Organization
 
 Instance: 1027501000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2849,7 +2849,7 @@ InstanceOf: Organization
 
 Instance: 1144711000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2870,7 +2870,7 @@ InstanceOf: Organization
 
 Instance: 1028021000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2891,7 +2891,7 @@ InstanceOf: Organization
 
 Instance: 1027781000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2912,7 +2912,7 @@ InstanceOf: Organization
 
 Instance: 1027401000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2933,7 +2933,7 @@ InstanceOf: Organization
 
 Instance: 1055251000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2954,7 +2954,7 @@ InstanceOf: Organization
 
 Instance: 1027381000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2975,7 +2975,7 @@ InstanceOf: Organization
 
 Instance: 1027741000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -2996,7 +2996,7 @@ InstanceOf: Organization
 
 Instance: 1144571000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3017,7 +3017,7 @@ InstanceOf: Organization
 
 Instance: 1027981000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3038,7 +3038,7 @@ InstanceOf: Organization
 
 Instance: 1027431000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3059,7 +3059,7 @@ InstanceOf: Organization
 
 Instance: 1144581000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3080,7 +3080,7 @@ InstanceOf: Organization
 
 Instance: 1055241000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3101,7 +3101,7 @@ InstanceOf: Organization
 
 Instance: 1144431000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3122,7 +3122,7 @@ InstanceOf: Organization
 
 Instance: 4091000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3143,7 +3143,7 @@ InstanceOf: Organization
 
 Instance: 1028081000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3164,7 +3164,7 @@ InstanceOf: Organization
 
 Instance: 1244821000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3184,7 +3184,7 @@ InstanceOf: Organization
 
 Instance: 1078251000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3205,7 +3205,7 @@ InstanceOf: Organization
 
 Instance: 1028091000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3225,7 +3225,7 @@ InstanceOf: Organization
 
 Instance: 1245341000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3245,7 +3245,7 @@ InstanceOf: Organization
 
 Instance: 1144491000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3266,7 +3266,7 @@ InstanceOf: Organization
 
 Instance: 951241000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3287,7 +3287,7 @@ InstanceOf: Organization
 
 Instance: 1245211000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3308,7 +3308,7 @@ InstanceOf: Organization
 
 Instance: 193071000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3334,7 +3334,7 @@ InstanceOf: Organization
 
 Instance: 1144371000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3355,7 +3355,7 @@ InstanceOf: Organization
 
 Instance: 960671000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3376,7 +3376,7 @@ InstanceOf: Organization
 
 Instance: 1144311000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3396,7 +3396,7 @@ InstanceOf: Organization
 
 Instance: 1245011000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3416,7 +3416,7 @@ InstanceOf: Organization
 
 Instance: 1438141000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3436,7 +3436,7 @@ InstanceOf: Organization
 
 Instance: 1244991000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3456,7 +3456,7 @@ InstanceOf: Organization
 
 Instance: 1028041000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3477,7 +3477,7 @@ InstanceOf: Organization
 
 Instance: 1249821000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3498,7 +3498,7 @@ InstanceOf: Organization
 
 Instance: 952061000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3519,7 +3519,7 @@ InstanceOf: Organization
 
 Instance: 951671000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3540,7 +3540,7 @@ InstanceOf: Organization
 
 Instance: 951651000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3561,7 +3561,7 @@ InstanceOf: Organization
 
 Instance: 952051000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3582,7 +3582,7 @@ InstanceOf: Organization
 
 Instance: 1144921000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3603,7 +3603,7 @@ InstanceOf: Organization
 
 Instance: 1027471000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3624,7 +3624,7 @@ InstanceOf: Organization
 
 Instance: 951481000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3645,7 +3645,7 @@ InstanceOf: Organization
 
 Instance: 1311441000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3665,7 +3665,7 @@ InstanceOf: Organization
 
 Instance: 1027461000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3686,7 +3686,7 @@ InstanceOf: Organization
 
 Instance: 951461000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3707,7 +3707,7 @@ InstanceOf: Organization
 
 Instance: 1249811000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3728,7 +3728,7 @@ InstanceOf: Organization
 
 Instance: 951471000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3749,7 +3749,7 @@ InstanceOf: Organization
 
 Instance: 952141000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3770,7 +3770,7 @@ InstanceOf: Organization
 
 Instance: 951431000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3791,7 +3791,7 @@ InstanceOf: Organization
 
 Instance: 952161000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3812,7 +3812,7 @@ InstanceOf: Organization
 
 Instance: 952151000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3833,7 +3833,7 @@ InstanceOf: Organization
 
 Instance: 951441000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3854,7 +3854,7 @@ InstanceOf: Organization
 
 Instance: 952601000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3875,7 +3875,7 @@ InstanceOf: Organization
 
 Instance: 952181000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3896,7 +3896,7 @@ InstanceOf: Organization
 
 Instance: 952171000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3917,7 +3917,7 @@ InstanceOf: Organization
 
 Instance: 952191000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3938,7 +3938,7 @@ InstanceOf: Organization
 
 Instance: 952201000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3959,7 +3959,7 @@ InstanceOf: Organization
 
 Instance: 951451000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -3980,7 +3980,7 @@ InstanceOf: Organization
 
 Instance: 952631000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4001,7 +4001,7 @@ InstanceOf: Organization
 
 Instance: 952611000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4022,7 +4022,7 @@ InstanceOf: Organization
 
 Instance: 952021000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4043,7 +4043,7 @@ InstanceOf: Organization
 
 Instance: 952641000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4064,7 +4064,7 @@ InstanceOf: Organization
 
 Instance: 952691000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4085,7 +4085,7 @@ InstanceOf: Organization
 
 Instance: 952001000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4106,7 +4106,7 @@ InstanceOf: Organization
 
 Instance: 952711000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4127,7 +4127,7 @@ InstanceOf: Organization
 
 Instance: 952701000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4148,7 +4148,7 @@ InstanceOf: Organization
 
 Instance: 951981000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4169,7 +4169,7 @@ InstanceOf: Organization
 
 Instance: 952011000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4190,7 +4190,7 @@ InstanceOf: Organization
 
 Instance: 952681000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4211,7 +4211,7 @@ InstanceOf: Organization
 
 Instance: 952671000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4232,7 +4232,7 @@ InstanceOf: Organization
 
 Instance: 952621000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4253,7 +4253,7 @@ InstanceOf: Organization
 
 Instance: 1363531000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4274,7 +4274,7 @@ InstanceOf: Organization
 
 Instance: 951991000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4295,7 +4295,7 @@ InstanceOf: Organization
 
 Instance: 1027771000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4316,7 +4316,7 @@ InstanceOf: Organization
 
 Instance: 952101000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4337,7 +4337,7 @@ InstanceOf: Organization
 
 Instance: 951691000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4358,7 +4358,7 @@ InstanceOf: Organization
 
 Instance: 952581000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4379,7 +4379,7 @@ InstanceOf: Organization
 
 Instance: 361201000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4400,7 +4400,7 @@ InstanceOf: Organization
 
 Instance: 952111000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4421,7 +4421,7 @@ InstanceOf: Organization
 
 Instance: 952081000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4442,7 +4442,7 @@ InstanceOf: Organization
 
 Instance: 361221000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4463,7 +4463,7 @@ InstanceOf: Organization
 
 Instance: 490181000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4484,7 +4484,7 @@ InstanceOf: Organization
 
 Instance: 951681000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4505,7 +4505,7 @@ InstanceOf: Organization
 
 Instance: 952591000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4526,7 +4526,7 @@ InstanceOf: Organization
 
 Instance: 361241000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4547,7 +4547,7 @@ InstanceOf: Organization
 
 Instance: 1296491000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4567,7 +4567,7 @@ InstanceOf: Organization
 
 Instance: 1296701000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4587,7 +4587,7 @@ InstanceOf: Organization
 
 Instance: 1078221000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4607,7 +4607,7 @@ InstanceOf: Organization
 
 Instance: 1296631000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4627,7 +4627,7 @@ InstanceOf: Organization
 
 Instance: 1298571000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4647,7 +4647,7 @@ InstanceOf: Organization
 
 Instance: 1299111000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4667,7 +4667,7 @@ InstanceOf: Organization
 
 Instance: 1299301000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4687,7 +4687,7 @@ InstanceOf: Organization
 
 Instance: 1298811000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4707,7 +4707,7 @@ InstanceOf: Organization
 
 Instance: 1028921000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4727,7 +4727,7 @@ InstanceOf: Organization
 
 Instance: 1298941000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4747,7 +4747,7 @@ InstanceOf: Organization
 
 Instance: 1298061000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4767,7 +4767,7 @@ InstanceOf: Organization
 
 Instance: 1297951000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4787,7 +4787,7 @@ InstanceOf: Organization
 
 Instance: 535411000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4812,7 +4812,7 @@ InstanceOf: Organization
 
 Instance: 1296881000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4832,7 +4832,7 @@ InstanceOf: Organization
 
 Instance: 1297661000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4852,7 +4852,7 @@ InstanceOf: Organization
 
 Instance: 1296921000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4872,7 +4872,7 @@ InstanceOf: Organization
 
 Instance: 1028501000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4892,7 +4892,7 @@ InstanceOf: Organization
 
 Instance: 1467791000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4917,7 +4917,7 @@ InstanceOf: Organization
 
 Instance: 1028761000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4938,7 +4938,7 @@ InstanceOf: Organization
 
 Instance: 1028741000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4959,7 +4959,7 @@ InstanceOf: Organization
 
 Instance: 1028671000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -4980,7 +4980,7 @@ InstanceOf: Organization
 
 Instance: 1028881000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5001,7 +5001,7 @@ InstanceOf: Organization
 
 Instance: 1028821000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5022,7 +5022,7 @@ InstanceOf: Organization
 
 Instance: 1028831000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5043,7 +5043,7 @@ InstanceOf: Organization
 
 Instance: 1027221000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5064,7 +5064,7 @@ InstanceOf: Organization
 
 Instance: 1028791000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5085,7 +5085,7 @@ InstanceOf: Organization
 
 Instance: 1028751000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5106,7 +5106,7 @@ InstanceOf: Organization
 
 Instance: 1028701000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5127,7 +5127,7 @@ InstanceOf: Organization
 
 Instance: 1028801000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5148,7 +5148,7 @@ InstanceOf: Organization
 
 Instance: 1028661000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5169,7 +5169,7 @@ InstanceOf: Organization
 
 Instance: 1028611000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5190,7 +5190,7 @@ InstanceOf: Organization
 
 Instance: 1028621000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5211,7 +5211,7 @@ InstanceOf: Organization
 
 Instance: 1028851000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5232,7 +5232,7 @@ InstanceOf: Organization
 
 Instance: 1027231000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5253,7 +5253,7 @@ InstanceOf: Organization
 
 Instance: 1028691000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5274,7 +5274,7 @@ InstanceOf: Organization
 
 Instance: 1028781000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5295,7 +5295,7 @@ InstanceOf: Organization
 
 Instance: 1028721000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5316,7 +5316,7 @@ InstanceOf: Organization
 
 Instance: 1028681000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5337,7 +5337,7 @@ InstanceOf: Organization
 
 Instance: 1028631000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5358,7 +5358,7 @@ InstanceOf: Organization
 
 Instance: 1028811000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5379,7 +5379,7 @@ InstanceOf: Organization
 
 Instance: 1028771000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5400,7 +5400,7 @@ InstanceOf: Organization
 
 Instance: 1027241000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5421,7 +5421,7 @@ InstanceOf: Organization
 
 Instance: 1028731000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5442,7 +5442,7 @@ InstanceOf: Organization
 
 Instance: 1027211000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5463,7 +5463,7 @@ InstanceOf: Organization
 
 Instance: 1028711000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5484,7 +5484,7 @@ InstanceOf: Organization
 
 Instance: 1027251000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5505,7 +5505,7 @@ InstanceOf: Organization
 
 Instance: 1028591000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5526,7 +5526,7 @@ InstanceOf: Organization
 
 Instance: 1028641000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5547,7 +5547,7 @@ InstanceOf: Organization
 
 Instance: 1028651000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5568,7 +5568,7 @@ InstanceOf: Organization
 
 Instance: 1028871000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5589,7 +5589,7 @@ InstanceOf: Organization
 
 Instance: 1028861000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5610,7 +5610,7 @@ InstanceOf: Organization
 
 Instance: 1028581000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5631,7 +5631,7 @@ InstanceOf: Organization
 
 Instance: 1028601000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5652,7 +5652,7 @@ InstanceOf: Organization
 
 Instance: 1028841000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5673,7 +5673,7 @@ InstanceOf: Organization
 
 Instance: 1028931000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5694,7 +5694,7 @@ InstanceOf: Organization
 
 Instance: 1028171000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5715,7 +5715,7 @@ InstanceOf: Organization
 
 Instance: 1203461000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5741,7 +5741,7 @@ InstanceOf: Organization
 
 Instance: 1027291000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5762,7 +5762,7 @@ InstanceOf: Organization
 
 Instance: 1028201000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5783,7 +5783,7 @@ InstanceOf: Organization
 
 Instance: 1027341000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5804,7 +5804,7 @@ InstanceOf: Organization
 
 Instance: 1028221000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5825,7 +5825,7 @@ InstanceOf: Organization
 
 Instance: 1028211000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5846,7 +5846,7 @@ InstanceOf: Organization
 
 Instance: 1027311000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5872,7 +5872,7 @@ InstanceOf: Organization
 
 Instance: 1028141000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5893,7 +5893,7 @@ InstanceOf: Organization
 
 Instance: 1028161000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5914,7 +5914,7 @@ InstanceOf: Organization
 
 Instance: 1028151000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5935,7 +5935,7 @@ InstanceOf: Organization
 
 Instance: 1027331000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5956,7 +5956,7 @@ InstanceOf: Organization
 
 Instance: 1028191000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5977,7 +5977,7 @@ InstanceOf: Organization
 
 Instance: 1027761000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -5998,7 +5998,7 @@ InstanceOf: Organization
 
 Instance: 1028231000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6019,7 +6019,7 @@ InstanceOf: Organization
 
 Instance: 1027321000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6040,7 +6040,7 @@ InstanceOf: Organization
 
 Instance: 1027261000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6066,7 +6066,7 @@ InstanceOf: Organization
 
 Instance: 1028241000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6087,7 +6087,7 @@ InstanceOf: Organization
 
 Instance: 1027281000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6113,7 +6113,7 @@ InstanceOf: Organization
 
 Instance: 1027301000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6139,7 +6139,7 @@ InstanceOf: Organization
 
 Instance: 1052151000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6165,7 +6165,7 @@ InstanceOf: Organization
 
 Instance: 1027271000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6191,7 +6191,7 @@ InstanceOf: Organization
 
 Instance: 1245551000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6212,7 +6212,7 @@ InstanceOf: Organization
 
 Instance: 1245521000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6233,7 +6233,7 @@ InstanceOf: Organization
 
 Instance: 1245541000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6254,7 +6254,7 @@ InstanceOf: Organization
 
 Instance: 1245571000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6275,7 +6275,7 @@ InstanceOf: Organization
 
 Instance: 1245501000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6296,7 +6296,7 @@ InstanceOf: Organization
 
 Instance: 1245561000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6317,7 +6317,7 @@ InstanceOf: Organization
 
 Instance: 1245591000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6338,7 +6338,7 @@ InstanceOf: Organization
 
 Instance: 1144441000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6359,7 +6359,7 @@ InstanceOf: Organization
 
 Instance: 1144451000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6380,7 +6380,7 @@ InstanceOf: Organization
 
 Instance: 1245511000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6401,7 +6401,7 @@ InstanceOf: Organization
 
 Instance: 1245531000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6422,7 +6422,7 @@ InstanceOf: Organization
 
 Instance: 1245581000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6443,7 +6443,7 @@ InstanceOf: Organization
 
 Instance: 1144471000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6464,7 +6464,7 @@ InstanceOf: Organization
 
 Instance: 7671000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6485,7 +6485,7 @@ InstanceOf: Organization
 
 Instance: 1028061000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6506,7 +6506,7 @@ InstanceOf: Organization
 
 Instance: 1245401000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6527,7 +6527,7 @@ InstanceOf: Organization
 
 Instance: 1245021000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6548,7 +6548,7 @@ InstanceOf: Organization
 
 Instance: 1245371000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6569,7 +6569,7 @@ InstanceOf: Organization
 
 Instance: 1245431000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6590,7 +6590,7 @@ InstanceOf: Organization
 
 Instance: 1245461000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6611,7 +6611,7 @@ InstanceOf: Organization
 
 Instance: 1245471000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6632,7 +6632,7 @@ InstanceOf: Organization
 
 Instance: 1245391000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6653,7 +6653,7 @@ InstanceOf: Organization
 
 Instance: 1245491000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6674,7 +6674,7 @@ InstanceOf: Organization
 
 Instance: 1245411000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6695,7 +6695,7 @@ InstanceOf: Organization
 
 Instance: 1245441000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6716,7 +6716,7 @@ InstanceOf: Organization
 
 Instance: 1283621000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6736,7 +6736,7 @@ InstanceOf: Organization
 
 Instance: 1283631000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6756,7 +6756,7 @@ InstanceOf: Organization
 
 Instance: 1283641000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6776,7 +6776,7 @@ InstanceOf: Organization
 
 Instance: 1027861000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6797,7 +6797,7 @@ InstanceOf: Organization
 
 Instance: 1069451000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6818,7 +6818,7 @@ InstanceOf: Organization
 
 Instance: 1144521000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6839,7 +6839,7 @@ InstanceOf: Organization
 
 Instance: 1245301000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6860,7 +6860,7 @@ InstanceOf: Organization
 
 Instance: 1144531000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6881,7 +6881,7 @@ InstanceOf: Organization
 
 Instance: 1069401000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6902,7 +6902,7 @@ InstanceOf: Organization
 
 Instance: 1144511000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6923,7 +6923,7 @@ InstanceOf: Organization
 
 Instance: 1245321000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6944,7 +6944,7 @@ InstanceOf: Organization
 
 Instance: 1245241000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6965,7 +6965,7 @@ InstanceOf: Organization
 
 Instance: 1069301000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -6986,7 +6986,7 @@ InstanceOf: Organization
 
 Instance: 1245291000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7007,7 +7007,7 @@ InstanceOf: Organization
 
 Instance: 1069391000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7028,7 +7028,7 @@ InstanceOf: Organization
 
 Instance: 1027731000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7049,7 +7049,7 @@ InstanceOf: Organization
 
 Instance: 1144501000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7070,7 +7070,7 @@ InstanceOf: Organization
 
 Instance: 1245281000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7091,7 +7091,7 @@ InstanceOf: Organization
 
 Instance: 1027511000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7112,7 +7112,7 @@ InstanceOf: Organization
 
 Instance: 951291000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7133,7 +7133,7 @@ InstanceOf: Organization
 
 Instance: 951301000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7154,7 +7154,7 @@ InstanceOf: Organization
 
 Instance: 1245041000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7175,7 +7175,7 @@ InstanceOf: Organization
 
 Instance: 1144401000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7196,7 +7196,7 @@ InstanceOf: Organization
 
 Instance: 1027721000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7217,7 +7217,7 @@ InstanceOf: Organization
 
 Instance: 1245171000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7238,7 +7238,7 @@ InstanceOf: Organization
 
 Instance: 1245131000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7259,7 +7259,7 @@ InstanceOf: Organization
 
 Instance: 1144381000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7280,7 +7280,7 @@ InstanceOf: Organization
 
 Instance: 1027441000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7301,7 +7301,7 @@ InstanceOf: Organization
 
 Instance: 1069291000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7322,7 +7322,7 @@ InstanceOf: Organization
 
 Instance: 1245141000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7343,7 +7343,7 @@ InstanceOf: Organization
 
 Instance: 1245101000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7364,7 +7364,7 @@ InstanceOf: Organization
 
 Instance: 1245111000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7385,7 +7385,7 @@ InstanceOf: Organization
 
 Instance: 1245161000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7406,7 +7406,7 @@ InstanceOf: Organization
 
 Instance: 1245151000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7427,7 +7427,7 @@ InstanceOf: Organization
 
 Instance: 1144391000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7448,7 +7448,7 @@ InstanceOf: Organization
 
 Instance: 1245181000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7469,7 +7469,7 @@ InstanceOf: Organization
 
 Instance: 1245121000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7490,7 +7490,7 @@ InstanceOf: Organization
 
 Instance: 1144321000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7510,7 +7510,7 @@ InstanceOf: Organization
 
 Instance: 1144341000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7530,7 +7530,7 @@ InstanceOf: Organization
 
 Instance: 1144331000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7550,7 +7550,7 @@ InstanceOf: Organization
 
 Instance: 1249841000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7571,7 +7571,7 @@ InstanceOf: Organization
 
 Instance: 1249831000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7592,7 +7592,7 @@ InstanceOf: Organization
 
 Instance: 1296611000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7612,7 +7612,7 @@ InstanceOf: Organization
 
 Instance: 1296521000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7632,7 +7632,7 @@ InstanceOf: Organization
 
 Instance: 1296501000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7652,7 +7652,7 @@ InstanceOf: Organization
 
 Instance: 1296811000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7672,7 +7672,7 @@ InstanceOf: Organization
 
 Instance: 1296751000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7692,7 +7692,7 @@ InstanceOf: Organization
 
 Instance: 1296781000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7712,7 +7712,7 @@ InstanceOf: Organization
 
 Instance: 1296851000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7732,7 +7732,7 @@ InstanceOf: Organization
 
 Instance: 1296821000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7752,7 +7752,7 @@ InstanceOf: Organization
 
 Instance: 1296771000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7772,7 +7772,7 @@ InstanceOf: Organization
 
 Instance: 1296801000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7792,7 +7792,7 @@ InstanceOf: Organization
 
 Instance: 1296711000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7812,7 +7812,7 @@ InstanceOf: Organization
 
 Instance: 1296761000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7832,7 +7832,7 @@ InstanceOf: Organization
 
 Instance: 1296791000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7852,7 +7852,7 @@ InstanceOf: Organization
 
 Instance: 1296731000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7872,7 +7872,7 @@ InstanceOf: Organization
 
 Instance: 1296681000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7893,7 +7893,7 @@ InstanceOf: Organization
 
 Instance: 1296641000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7914,7 +7914,7 @@ InstanceOf: Organization
 
 Instance: 1296691000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7935,7 +7935,7 @@ InstanceOf: Organization
 
 Instance: 1296671000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7956,7 +7956,7 @@ InstanceOf: Organization
 
 Instance: 1296651000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7977,7 +7977,7 @@ InstanceOf: Organization
 
 Instance: 1296661000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -7998,7 +7998,7 @@ InstanceOf: Organization
 
 Instance: 1298691000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8018,7 +8018,7 @@ InstanceOf: Organization
 
 Instance: 1298601000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8038,7 +8038,7 @@ InstanceOf: Organization
 
 Instance: 1298621000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8058,7 +8058,7 @@ InstanceOf: Organization
 
 Instance: 1298741000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8078,7 +8078,7 @@ InstanceOf: Organization
 
 Instance: 1308361000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8098,7 +8098,7 @@ InstanceOf: Organization
 
 Instance: 1298791000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8118,7 +8118,7 @@ InstanceOf: Organization
 
 Instance: 1298661000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8138,7 +8138,7 @@ InstanceOf: Organization
 
 Instance: 1298581000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8158,7 +8158,7 @@ InstanceOf: Organization
 
 Instance: 1298771000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8178,7 +8178,7 @@ InstanceOf: Organization
 
 Instance: 1298801000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8198,7 +8198,7 @@ InstanceOf: Organization
 
 Instance: 1299181000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8218,7 +8218,7 @@ InstanceOf: Organization
 
 Instance: 1299151000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8238,7 +8238,7 @@ InstanceOf: Organization
 
 Instance: 1299141000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8258,7 +8258,7 @@ InstanceOf: Organization
 
 Instance: 1299211000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8278,7 +8278,7 @@ InstanceOf: Organization
 
 Instance: 1299131000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8298,7 +8298,7 @@ InstanceOf: Organization
 
 Instance: 1299191000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8318,7 +8318,7 @@ InstanceOf: Organization
 
 Instance: 1299121000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8338,7 +8338,7 @@ InstanceOf: Organization
 
 Instance: 1299241000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8358,7 +8358,7 @@ InstanceOf: Organization
 
 Instance: 1299361000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8378,7 +8378,7 @@ InstanceOf: Organization
 
 Instance: 1299381000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8398,7 +8398,7 @@ InstanceOf: Organization
 
 Instance: 1303991000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8418,7 +8418,7 @@ InstanceOf: Organization
 
 Instance: 1299331000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8438,7 +8438,7 @@ InstanceOf: Organization
 
 Instance: 1299401000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8458,7 +8458,7 @@ InstanceOf: Organization
 
 Instance: 1299311000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8478,7 +8478,7 @@ InstanceOf: Organization
 
 Instance: 1298831000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8498,7 +8498,7 @@ InstanceOf: Organization
 
 Instance: 1298881000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8518,7 +8518,7 @@ InstanceOf: Organization
 
 Instance: 1298931000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8538,7 +8538,7 @@ InstanceOf: Organization
 
 Instance: 1298821000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8558,7 +8558,7 @@ InstanceOf: Organization
 
 Instance: 1298911000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8578,7 +8578,7 @@ InstanceOf: Organization
 
 Instance: 1028461000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8598,7 +8598,7 @@ InstanceOf: Organization
 
 Instance: 1298871000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8618,7 +8618,7 @@ InstanceOf: Organization
 
 Instance: 1298951000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8638,7 +8638,7 @@ InstanceOf: Organization
 
 Instance: 1298081000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8658,7 +8658,7 @@ InstanceOf: Organization
 
 Instance: 1406191000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8678,7 +8678,7 @@ InstanceOf: Organization
 
 Instance: 1298071000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8698,7 +8698,7 @@ InstanceOf: Organization
 
 Instance: 1298091000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8718,7 +8718,7 @@ InstanceOf: Organization
 
 Instance: 1297991000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8738,7 +8738,7 @@ InstanceOf: Organization
 
 Instance: 1297971000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8758,7 +8758,7 @@ InstanceOf: Organization
 
 Instance: 1298041000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8778,7 +8778,7 @@ InstanceOf: Organization
 
 Instance: 1297961000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8798,7 +8798,7 @@ InstanceOf: Organization
 
 Instance: 545241000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8818,7 +8818,7 @@ InstanceOf: Organization
 
 Instance: 1469741000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8838,7 +8838,7 @@ InstanceOf: Organization
 
 Instance: 1296911000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8858,7 +8858,7 @@ InstanceOf: Organization
 
 Instance: 1296901000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8878,7 +8878,7 @@ InstanceOf: Organization
 
 Instance: 1296891000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8898,7 +8898,7 @@ InstanceOf: Organization
 
 Instance: 1297671000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8918,7 +8918,7 @@ InstanceOf: Organization
 
 Instance: 1304041000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8938,7 +8938,7 @@ InstanceOf: Organization
 
 Instance: 1297771000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8958,7 +8958,7 @@ InstanceOf: Organization
 
 Instance: 1297121000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8978,7 +8978,7 @@ InstanceOf: Organization
 
 Instance: 1029001000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -8998,7 +8998,7 @@ InstanceOf: Organization
 
 Instance: 1296931000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9018,7 +9018,7 @@ InstanceOf: Organization
 
 Instance: 1297011000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9038,7 +9038,7 @@ InstanceOf: Organization
 
 Instance: 1297061000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9058,7 +9058,7 @@ InstanceOf: Organization
 
 Instance: 1296961000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9078,7 +9078,7 @@ InstanceOf: Organization
 
 Instance: 1296991000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9098,7 +9098,7 @@ InstanceOf: Organization
 
 Instance: 1297051000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9118,7 +9118,7 @@ InstanceOf: Organization
 
 Instance: 1297611000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9138,7 +9138,7 @@ InstanceOf: Organization
 
 Instance: 1297591000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9158,7 +9158,7 @@ InstanceOf: Organization
 
 Instance: 1297481000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9178,7 +9178,7 @@ InstanceOf: Organization
 
 Instance: 1245081000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9198,7 +9198,7 @@ InstanceOf: Organization
 
 Instance: 1245071000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9219,7 +9219,7 @@ InstanceOf: Organization
 
 Instance: 1245051000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9240,7 +9240,7 @@ InstanceOf: Organization
 
 Instance: 1245061000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9261,7 +9261,7 @@ InstanceOf: Organization
 
 Instance: 1311451000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9282,7 +9282,7 @@ InstanceOf: Organization
 
 Instance: 1311471000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9303,7 +9303,7 @@ InstanceOf: Organization
 
 Instance: 1311461000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9324,7 +9324,7 @@ InstanceOf: Organization
 
 Instance: 1296621000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9345,7 +9345,7 @@ InstanceOf: Organization
 
 Instance: 1296561000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9365,7 +9365,7 @@ InstanceOf: Organization
 
 Instance: 1296531000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9385,7 +9385,7 @@ InstanceOf: Organization
 
 Instance: 1296511000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9406,7 +9406,7 @@ InstanceOf: Organization
 
 Instance: 1296861000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9426,7 +9426,7 @@ InstanceOf: Organization
 
 Instance: 1296841000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9446,7 +9446,7 @@ InstanceOf: Organization
 
 Instance: 1296831000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9466,7 +9466,7 @@ InstanceOf: Organization
 
 Instance: 1296721000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9486,7 +9486,7 @@ InstanceOf: Organization
 
 Instance: 1296741000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9506,7 +9506,7 @@ InstanceOf: Organization
 
 Instance: 1298721000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9526,7 +9526,7 @@ InstanceOf: Organization
 
 Instance: 1298701000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9546,7 +9546,7 @@ InstanceOf: Organization
 
 Instance: 1298731000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9566,7 +9566,7 @@ InstanceOf: Organization
 
 Instance: 1298711000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9586,7 +9586,7 @@ InstanceOf: Organization
 
 Instance: 1298611000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9606,7 +9606,7 @@ InstanceOf: Organization
 
 Instance: 1028351000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9626,7 +9626,7 @@ InstanceOf: Organization
 
 Instance: 1298651000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9646,7 +9646,7 @@ InstanceOf: Organization
 
 Instance: 1028391000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9666,7 +9666,7 @@ InstanceOf: Organization
 
 Instance: 1298631000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9686,7 +9686,7 @@ InstanceOf: Organization
 
 Instance: 1298641000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9706,7 +9706,7 @@ InstanceOf: Organization
 
 Instance: 1298751000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9726,7 +9726,7 @@ InstanceOf: Organization
 
 Instance: 1298761000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9746,7 +9746,7 @@ InstanceOf: Organization
 
 Instance: 1028541000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9766,7 +9766,7 @@ InstanceOf: Organization
 
 Instance: 1028441000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9786,7 +9786,7 @@ InstanceOf: Organization
 
 Instance: 1028451000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9806,7 +9806,7 @@ InstanceOf: Organization
 
 Instance: 1028341000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9826,7 +9826,7 @@ InstanceOf: Organization
 
 Instance: 1298591000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9846,7 +9846,7 @@ InstanceOf: Organization
 
 Instance: 1029021000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9866,7 +9866,7 @@ InstanceOf: Organization
 
 Instance: 1298781000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9886,7 +9886,7 @@ InstanceOf: Organization
 
 Instance: 1028331000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9906,7 +9906,7 @@ InstanceOf: Organization
 
 Instance: 1028381000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9926,7 +9926,7 @@ InstanceOf: Organization
 
 Instance: 1028551000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9946,7 +9946,7 @@ InstanceOf: Organization
 
 Instance: 1299171000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9966,7 +9966,7 @@ InstanceOf: Organization
 
 Instance: 1028371000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -9986,7 +9986,7 @@ InstanceOf: Organization
 
 Instance: 1299161000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10006,7 +10006,7 @@ InstanceOf: Organization
 
 Instance: 1028361000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10026,7 +10026,7 @@ InstanceOf: Organization
 
 Instance: 1299221000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10046,7 +10046,7 @@ InstanceOf: Organization
 
 Instance: 1028491000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10066,7 +10066,7 @@ InstanceOf: Organization
 
 Instance: 1028971000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10086,7 +10086,7 @@ InstanceOf: Organization
 
 Instance: 1299201000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10106,7 +10106,7 @@ InstanceOf: Organization
 
 Instance: 1028481000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10126,7 +10126,7 @@ InstanceOf: Organization
 
 Instance: 1028401000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10146,7 +10146,7 @@ InstanceOf: Organization
 
 Instance: 1299251000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10166,7 +10166,7 @@ InstanceOf: Organization
 
 Instance: 1299261000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10186,7 +10186,7 @@ InstanceOf: Organization
 
 Instance: 1299281000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10206,7 +10206,7 @@ InstanceOf: Organization
 
 Instance: 1299271000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10226,7 +10226,7 @@ InstanceOf: Organization
 
 Instance: 1299291000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10246,7 +10246,7 @@ InstanceOf: Organization
 
 Instance: 1299371000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10266,7 +10266,7 @@ InstanceOf: Organization
 
 Instance: 1299391000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10286,7 +10286,7 @@ InstanceOf: Organization
 
 Instance: 1304001000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10306,7 +10306,7 @@ InstanceOf: Organization
 
 Instance: 1299351000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10326,7 +10326,7 @@ InstanceOf: Organization
 
 Instance: 1299341000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10346,7 +10346,7 @@ InstanceOf: Organization
 
 Instance: 1299321000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10366,7 +10366,7 @@ InstanceOf: Organization
 
 Instance: 1298841000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10386,7 +10386,7 @@ InstanceOf: Organization
 
 Instance: 1298891000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10406,7 +10406,7 @@ InstanceOf: Organization
 
 Instance: 1298901000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10426,7 +10426,7 @@ InstanceOf: Organization
 
 Instance: 1028431000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10446,7 +10446,7 @@ InstanceOf: Organization
 
 Instance: 1028471000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10466,7 +10466,7 @@ InstanceOf: Organization
 
 Instance: 1298921000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10486,7 +10486,7 @@ InstanceOf: Organization
 
 Instance: 1161511000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10506,7 +10506,7 @@ InstanceOf: Organization
 
 Instance: 1298861000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10526,7 +10526,7 @@ InstanceOf: Organization
 
 Instance: 1298851000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10546,7 +10546,7 @@ InstanceOf: Organization
 
 Instance: 1299001000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10566,7 +10566,7 @@ InstanceOf: Organization
 
 Instance: 1299091000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10586,7 +10586,7 @@ InstanceOf: Organization
 
 Instance: 1299081000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10606,7 +10606,7 @@ InstanceOf: Organization
 
 Instance: 1299061000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10626,7 +10626,7 @@ InstanceOf: Organization
 
 Instance: 1298961000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10646,7 +10646,7 @@ InstanceOf: Organization
 
 Instance: 1028301000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10667,7 +10667,7 @@ InstanceOf: Organization
 
 Instance: 1028941000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10688,7 +10688,7 @@ InstanceOf: Organization
 
 Instance: 1406201000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10709,7 +10709,7 @@ InstanceOf: Organization
 
 Instance: 1028261000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10730,7 +10730,7 @@ InstanceOf: Organization
 
 Instance: 1028281000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10751,7 +10751,7 @@ InstanceOf: Organization
 
 Instance: 1298011000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10771,7 +10771,7 @@ InstanceOf: Organization
 
 Instance: 1298021000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10791,7 +10791,7 @@ InstanceOf: Organization
 
 Instance: 1298001000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10811,7 +10811,7 @@ InstanceOf: Organization
 
 Instance: 1298031000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10831,7 +10831,7 @@ InstanceOf: Organization
 
 Instance: 1297981000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10851,7 +10851,7 @@ InstanceOf: Organization
 
 Instance: 1298051000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10871,7 +10871,7 @@ InstanceOf: Organization
 
 Instance: 1469751000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10891,7 +10891,7 @@ InstanceOf: Organization
 
 Instance: 1028311000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10911,7 +10911,7 @@ InstanceOf: Organization
 
 Instance: 1029061000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10931,7 +10931,7 @@ InstanceOf: Organization
 
 Instance: 1028571000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10951,7 +10951,7 @@ InstanceOf: Organization
 
 Instance: 1078241000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10971,7 +10971,7 @@ InstanceOf: Organization
 
 Instance: 1297681000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -10991,7 +10991,7 @@ InstanceOf: Organization
 
 Instance: 1304061000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11012,7 +11012,7 @@ InstanceOf: Organization
 
 Instance: 1304051000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11033,7 +11033,7 @@ InstanceOf: Organization
 
 Instance: 1297781000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11053,7 +11053,7 @@ InstanceOf: Organization
 
 Instance: 1297151000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11073,7 +11073,7 @@ InstanceOf: Organization
 
 Instance: 1029031000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11093,7 +11093,7 @@ InstanceOf: Organization
 
 Instance: 1028991000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11113,7 +11113,7 @@ InstanceOf: Organization
 
 Instance: 1296941000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11133,7 +11133,7 @@ InstanceOf: Organization
 
 Instance: 1296951000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11153,7 +11153,7 @@ InstanceOf: Organization
 
 Instance: 1028421000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11173,7 +11173,7 @@ InstanceOf: Organization
 
 Instance: 1297021000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11193,7 +11193,7 @@ InstanceOf: Organization
 
 Instance: 1297691000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11213,7 +11213,7 @@ InstanceOf: Organization
 
 Instance: 1297071000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11233,7 +11233,7 @@ InstanceOf: Organization
 
 Instance: 1297101000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11253,7 +11253,7 @@ InstanceOf: Organization
 
 Instance: 1029041000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11273,7 +11273,7 @@ InstanceOf: Organization
 
 Instance: 1297761000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11293,7 +11293,7 @@ InstanceOf: Organization
 
 Instance: 1296971000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11313,7 +11313,7 @@ InstanceOf: Organization
 
 Instance: 1296981000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11333,7 +11333,7 @@ InstanceOf: Organization
 
 Instance: 1297001000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11353,7 +11353,7 @@ InstanceOf: Organization
 
 Instance: 1028981000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11373,7 +11373,7 @@ InstanceOf: Organization
 
 Instance: 1297621000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11394,7 +11394,7 @@ InstanceOf: Organization
 
 Instance: 1028901000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11415,7 +11415,7 @@ InstanceOf: Organization
 
 Instance: 1297551000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11435,7 +11435,7 @@ InstanceOf: Organization
 
 Instance: 1297571000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11455,7 +11455,7 @@ InstanceOf: Organization
 
 Instance: 1304031000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11475,7 +11475,7 @@ InstanceOf: Organization
 
 Instance: 1308341000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11495,7 +11495,7 @@ InstanceOf: Organization
 
 Instance: 1297511000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11515,7 +11515,7 @@ InstanceOf: Organization
 
 Instance: 1297491000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11535,7 +11535,7 @@ InstanceOf: Organization
 
 Instance: 1249851000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11556,7 +11556,7 @@ InstanceOf: Organization
 
 Instance: 1249861000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11577,7 +11577,7 @@ InstanceOf: Organization
 
 Instance: 1249871000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11597,7 +11597,7 @@ InstanceOf: Organization
 
 Instance: 1311491000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11618,7 +11618,7 @@ InstanceOf: Organization
 
 Instance: 1311481000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11639,7 +11639,7 @@ InstanceOf: Organization
 
 Instance: 1311511000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11659,7 +11659,7 @@ InstanceOf: Organization
 
 Instance: 1311501000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11680,7 +11680,7 @@ InstanceOf: Organization
 
 Instance: 1249881000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11701,7 +11701,7 @@ InstanceOf: Organization
 
 Instance: 1249901000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11721,7 +11721,7 @@ InstanceOf: Organization
 
 Instance: 1249891000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11742,7 +11742,7 @@ InstanceOf: Organization
 
 Instance: 1296571000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11762,7 +11762,7 @@ InstanceOf: Organization
 
 Instance: 1296581000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11782,7 +11782,7 @@ InstanceOf: Organization
 
 Instance: 1296541000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11802,7 +11802,7 @@ InstanceOf: Organization
 
 Instance: 1308371000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11822,7 +11822,7 @@ InstanceOf: Organization
 
 Instance: 1299011000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11842,7 +11842,7 @@ InstanceOf: Organization
 
 Instance: 1299031000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11862,7 +11862,7 @@ InstanceOf: Organization
 
 Instance: 1299101000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11882,7 +11882,7 @@ InstanceOf: Organization
 
 Instance: 1028321000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11902,7 +11902,7 @@ InstanceOf: Organization
 
 Instance: 1029071000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11922,7 +11922,7 @@ InstanceOf: Organization
 
 Instance: 1028951000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11942,7 +11942,7 @@ InstanceOf: Organization
 
 Instance: 1029051000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11963,7 +11963,7 @@ InstanceOf: Organization
 
 Instance: 1299071000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -11983,7 +11983,7 @@ InstanceOf: Organization
 
 Instance: 1298971000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12003,7 +12003,7 @@ InstanceOf: Organization
 
 Instance: 1028961000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12023,7 +12023,7 @@ InstanceOf: Organization
 
 Instance: 1297711000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12043,7 +12043,7 @@ InstanceOf: Organization
 
 Instance: 1297751000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12063,7 +12063,7 @@ InstanceOf: Organization
 
 Instance: 1297731000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12083,7 +12083,7 @@ InstanceOf: Organization
 
 Instance: 1297721000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12103,7 +12103,7 @@ InstanceOf: Organization
 
 Instance: 1297741000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12123,7 +12123,7 @@ InstanceOf: Organization
 
 Instance: 1297701000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12143,7 +12143,7 @@ InstanceOf: Organization
 
 Instance: 1028911000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12163,7 +12163,7 @@ InstanceOf: Organization
 
 Instance: 1297041000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12183,7 +12183,7 @@ InstanceOf: Organization
 
 Instance: 1297031000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12203,7 +12203,7 @@ InstanceOf: Organization
 
 Instance: 1297091000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12223,7 +12223,7 @@ InstanceOf: Organization
 
 Instance: 1297081000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12243,7 +12243,7 @@ InstanceOf: Organization
 
 Instance: 1028561000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12263,7 +12263,7 @@ InstanceOf: Organization
 
 Instance: 1029011000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12283,7 +12283,7 @@ InstanceOf: Organization
 
 Instance: 1297561000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12304,7 +12304,7 @@ InstanceOf: Organization
 
 Instance: 1297581000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12325,7 +12325,7 @@ InstanceOf: Organization
 
 Instance: 1308351000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12346,7 +12346,7 @@ InstanceOf: Organization
 
 Instance: 1297531000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12367,7 +12367,7 @@ InstanceOf: Organization
 
 Instance: 1297541000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12388,7 +12388,7 @@ InstanceOf: Organization
 
 Instance: 1297521000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12409,7 +12409,7 @@ InstanceOf: Organization
 
 Instance: 1297501000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12430,7 +12430,7 @@ InstanceOf: Organization
 
 Instance: 1028511000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12451,7 +12451,7 @@ InstanceOf: Organization
 
 Instance: 1028531000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12472,7 +12472,7 @@ InstanceOf: Organization
 
 Instance: 1028521000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12493,7 +12493,7 @@ InstanceOf: Organization
 
 Instance: 1296601000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12514,7 +12514,7 @@ InstanceOf: Organization
 
 Instance: 1296591000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12535,7 +12535,7 @@ InstanceOf: Organization
 
 Instance: 1296551000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12556,7 +12556,7 @@ InstanceOf: Organization
 
 Instance: 1299021000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12576,7 +12576,7 @@ InstanceOf: Organization
 
 Instance: 1304071000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12596,7 +12596,7 @@ InstanceOf: Organization
 
 Instance: 1161151000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12616,7 +12616,7 @@ InstanceOf: Organization
 
 Instance: 1299051000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12636,7 +12636,7 @@ InstanceOf: Organization
 
 Instance: 1299041000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12656,7 +12656,7 @@ InstanceOf: Organization
 
 Instance: 1462481000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12677,7 +12677,7 @@ InstanceOf: Organization
 
 Instance: 1462491000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12698,7 +12698,7 @@ InstanceOf: Organization
 
 Instance: 1462511000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12719,7 +12719,7 @@ InstanceOf: Organization
 
 Instance: 1462501000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12740,7 +12740,7 @@ InstanceOf: Organization
 
 Instance: 1298981000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12760,7 +12760,7 @@ InstanceOf: Organization
 
 Instance: 1298991000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12780,7 +12780,7 @@ InstanceOf: Organization
 
 Instance: 698131000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12799,7 +12799,7 @@ InstanceOf: Organization
 
 Instance: 698141000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12824,7 +12824,7 @@ InstanceOf: Organization
 
 Instance: 698161000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12849,7 +12849,7 @@ InstanceOf: Organization
 
 Instance: 468871000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12874,7 +12874,7 @@ InstanceOf: Organization
 
 Instance: 468851000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12893,7 +12893,7 @@ InstanceOf: Organization
 
 Instance: 468861000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12918,7 +12918,7 @@ InstanceOf: Organization
 
 Instance: 468881000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12943,7 +12943,7 @@ InstanceOf: Organization
 
 Instance: 1285391000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12968,7 +12968,7 @@ InstanceOf: Organization
 
 Instance: 1285371000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -12993,7 +12993,7 @@ InstanceOf: Organization
 
 Instance: 1285381000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13018,7 +13018,7 @@ InstanceOf: Organization
 
 Instance: 1285361000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13032,7 +13032,7 @@ InstanceOf: Organization
 
 Instance: 32811000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13057,7 +13057,7 @@ InstanceOf: Organization
 
 Instance: 32791000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13082,7 +13082,7 @@ InstanceOf: Organization
 
 Instance: 32821000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13107,7 +13107,7 @@ InstanceOf: Organization
 
 Instance: 32781000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13126,7 +13126,7 @@ InstanceOf: Organization
 
 Instance: 1017511000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13151,7 +13151,7 @@ InstanceOf: Organization
 
 Instance: 23671000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13170,7 +13170,7 @@ InstanceOf: Organization
 
 Instance: 23681000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13195,7 +13195,7 @@ InstanceOf: Organization
 
 Instance: 534621000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13220,7 +13220,7 @@ InstanceOf: Organization
 
 Instance: 600291000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13245,7 +13245,7 @@ InstanceOf: Organization
 
 Instance: 23901000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13270,7 +13270,7 @@ InstanceOf: Organization
 
 Instance: 23881000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13295,7 +13295,7 @@ InstanceOf: Organization
 
 Instance: 23911000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13320,7 +13320,7 @@ InstanceOf: Organization
 
 Instance: 23871000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13339,7 +13339,7 @@ InstanceOf: Organization
 
 Instance: 544191000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13364,7 +13364,7 @@ InstanceOf: Organization
 
 Instance: 23921000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13389,7 +13389,7 @@ InstanceOf: Organization
 
 Instance: 75451000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13408,7 +13408,7 @@ InstanceOf: Organization
 
 Instance: 75461000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13433,7 +13433,7 @@ InstanceOf: Organization
 
 Instance: 75471000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13458,7 +13458,7 @@ InstanceOf: Organization
 
 Instance: 576151000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13483,7 +13483,7 @@ InstanceOf: Organization
 
 Instance: 1368901000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13508,7 +13508,7 @@ InstanceOf: Organization
 
 Instance: 75481000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13533,7 +13533,7 @@ InstanceOf: Organization
 
 Instance: 1290961000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13553,7 +13553,7 @@ InstanceOf: Organization
 
 Instance: 1290951000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13573,7 +13573,7 @@ InstanceOf: Organization
 
 Instance: 873061000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13587,7 +13587,7 @@ InstanceOf: Organization
 
 Instance: 1288491000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13607,7 +13607,7 @@ InstanceOf: Organization
 
 Instance: 873071000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13627,7 +13627,7 @@ InstanceOf: Organization
 
 Instance: 1442231000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13647,7 +13647,7 @@ InstanceOf: Organization
 
 Instance: 1350751000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13667,7 +13667,7 @@ InstanceOf: Organization
 
 Instance: 873111000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13687,7 +13687,7 @@ InstanceOf: Organization
 
 Instance: 1080341000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13707,7 +13707,7 @@ InstanceOf: Organization
 
 Instance: 1288501000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13727,7 +13727,7 @@ InstanceOf: Organization
 
 Instance: 873081000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13747,7 +13747,7 @@ InstanceOf: Organization
 
 Instance: 1442241000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13767,7 +13767,7 @@ InstanceOf: Organization
 
 Instance: 1350761000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13787,7 +13787,7 @@ InstanceOf: Organization
 
 Instance: 873121000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13807,7 +13807,7 @@ InstanceOf: Organization
 
 Instance: 1080351000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13827,7 +13827,7 @@ InstanceOf: Organization
 
 Instance: 1499141000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13852,7 +13852,7 @@ InstanceOf: Organization
 
 Instance: 1477821000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13866,7 +13866,7 @@ InstanceOf: Organization
 
 Instance: 1499151000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13891,7 +13891,7 @@ InstanceOf: Organization
 
 Instance: 1499181000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13916,7 +13916,7 @@ InstanceOf: Organization
 
 Instance: 1476181000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13930,7 +13930,7 @@ InstanceOf: Organization
 
 Instance: 1476191000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13955,7 +13955,7 @@ InstanceOf: Organization
 
 Instance: 1477451000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -13980,7 +13980,7 @@ InstanceOf: Organization
 
 Instance: 1477441000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14005,7 +14005,7 @@ InstanceOf: Organization
 
 Instance: 10191000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14024,7 +14024,7 @@ InstanceOf: Organization
 
 Instance: 10201000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14049,7 +14049,7 @@ InstanceOf: Organization
 
 Instance: 651431000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14074,7 +14074,7 @@ InstanceOf: Organization
 
 Instance: 10221000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14099,7 +14099,7 @@ InstanceOf: Organization
 
 Instance: 468221000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14124,7 +14124,7 @@ InstanceOf: Organization
 
 Instance: 73021000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14149,7 +14149,7 @@ InstanceOf: Organization
 
 Instance: 448621000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14174,7 +14174,7 @@ InstanceOf: Organization
 
 Instance: 73011000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14193,7 +14193,7 @@ InstanceOf: Organization
 
 Instance: 1438971000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14207,7 +14207,7 @@ InstanceOf: Organization
 
 Instance: 1438981000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14227,7 +14227,7 @@ InstanceOf: Organization
 
 Instance: 1438991000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14247,7 +14247,7 @@ InstanceOf: Organization
 
 Instance: 672261000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14266,7 +14266,7 @@ InstanceOf: Organization
 
 Instance: 672271000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14291,7 +14291,7 @@ InstanceOf: Organization
 
 Instance: 672291000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14316,7 +14316,7 @@ InstanceOf: Organization
 
 Instance: 672281000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14341,7 +14341,7 @@ InstanceOf: Organization
 
 Instance: 69021000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14366,7 +14366,7 @@ InstanceOf: Organization
 
 Instance: 69001000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14391,7 +14391,7 @@ InstanceOf: Organization
 
 Instance: 68991000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14410,7 +14410,7 @@ InstanceOf: Organization
 
 Instance: 467631000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14435,7 +14435,7 @@ InstanceOf: Organization
 
 Instance: 911041000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14460,7 +14460,7 @@ InstanceOf: Organization
 
 Instance: 1464841000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14485,7 +14485,7 @@ InstanceOf: Organization
 
 Instance: 52591000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14510,7 +14510,7 @@ InstanceOf: Organization
 
 Instance: 1464831000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14535,7 +14535,7 @@ InstanceOf: Organization
 
 Instance: 52621000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14560,7 +14560,7 @@ InstanceOf: Organization
 
 Instance: 52671000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14585,7 +14585,7 @@ InstanceOf: Organization
 
 Instance: 601471000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14610,7 +14610,7 @@ InstanceOf: Organization
 
 Instance: 1464851000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14635,7 +14635,7 @@ InstanceOf: Organization
 
 Instance: 52581000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14654,7 +14654,7 @@ InstanceOf: Organization
 
 Instance: 52661000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14679,7 +14679,7 @@ InstanceOf: Organization
 
 Instance: 1355751000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14699,7 +14699,7 @@ InstanceOf: Organization
 
 Instance: 930281000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14713,7 +14713,7 @@ InstanceOf: Organization
 
 Instance: 1355761000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14733,7 +14733,7 @@ InstanceOf: Organization
 
 Instance: 930291000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14758,7 +14758,7 @@ InstanceOf: Organization
 
 Instance: 930301000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14783,7 +14783,7 @@ InstanceOf: Organization
 
 Instance: 817271000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14803,7 +14803,7 @@ InstanceOf: Organization
 
 Instance: 817261000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14823,7 +14823,7 @@ InstanceOf: Organization
 
 Instance: 817251000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14837,7 +14837,7 @@ InstanceOf: Organization
 
 Instance: 1216881000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14851,7 +14851,7 @@ InstanceOf: Organization
 
 Instance: 1216891000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14876,7 +14876,7 @@ InstanceOf: Organization
 
 Instance: 1257821000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14901,7 +14901,7 @@ InstanceOf: Organization
 
 Instance: 1216901000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14926,7 +14926,7 @@ InstanceOf: Organization
 
 Instance: 988101000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14951,7 +14951,7 @@ InstanceOf: Organization
 
 Instance: 55711000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -14976,7 +14976,7 @@ InstanceOf: Organization
 
 Instance: 55741000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15001,7 +15001,7 @@ InstanceOf: Organization
 
 Instance: 55701000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15020,7 +15020,7 @@ InstanceOf: Organization
 
 Instance: 55731000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15045,7 +15045,7 @@ InstanceOf: Organization
 
 Instance: 554911000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15070,7 +15070,7 @@ InstanceOf: Organization
 
 Instance: 1352751000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15084,7 +15084,7 @@ InstanceOf: Organization
 
 Instance: 1352761000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15104,7 +15104,7 @@ InstanceOf: Organization
 
 Instance: 1352771000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15124,7 +15124,7 @@ InstanceOf: Organization
 
 Instance: 1406851000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15149,7 +15149,7 @@ InstanceOf: Organization
 
 Instance: 53891000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15174,7 +15174,7 @@ InstanceOf: Organization
 
 Instance: 594101000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15199,7 +15199,7 @@ InstanceOf: Organization
 
 Instance: 549811000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15224,7 +15224,7 @@ InstanceOf: Organization
 
 Instance: 53881000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15243,7 +15243,7 @@ InstanceOf: Organization
 
 Instance: 53921000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15268,7 +15268,7 @@ InstanceOf: Organization
 
 Instance: 68631000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15293,7 +15293,7 @@ InstanceOf: Organization
 
 Instance: 68601000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15318,7 +15318,7 @@ InstanceOf: Organization
 
 Instance: 68591000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15337,7 +15337,7 @@ InstanceOf: Organization
 
 Instance: 68611000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15362,7 +15362,7 @@ InstanceOf: Organization
 
 Instance: 1251411000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15387,7 +15387,7 @@ InstanceOf: Organization
 
 Instance: 29201000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15412,7 +15412,7 @@ InstanceOf: Organization
 
 Instance: 29191000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15431,7 +15431,7 @@ InstanceOf: Organization
 
 Instance: 29241000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15456,7 +15456,7 @@ InstanceOf: Organization
 
 Instance: 1409421000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15481,7 +15481,7 @@ InstanceOf: Organization
 
 Instance: 994871000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15506,7 +15506,7 @@ InstanceOf: Organization
 
 Instance: 88501000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15531,7 +15531,7 @@ InstanceOf: Organization
 
 Instance: 88491000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15556,7 +15556,7 @@ InstanceOf: Organization
 
 Instance: 88481000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15575,7 +15575,7 @@ InstanceOf: Organization
 
 Instance: 745051000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15589,7 +15589,7 @@ InstanceOf: Organization
 
 Instance: 745061000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15614,7 +15614,7 @@ InstanceOf: Organization
 
 Instance: 745071000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15639,7 +15639,7 @@ InstanceOf: Organization
 
 Instance: 603661000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15664,7 +15664,7 @@ InstanceOf: Organization
 
 Instance: 13771000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15689,7 +15689,7 @@ InstanceOf: Organization
 
 Instance: 13761000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15708,7 +15708,7 @@ InstanceOf: Organization
 
 Instance: 13801000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15733,7 +15733,7 @@ InstanceOf: Organization
 
 Instance: 13791000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15758,7 +15758,7 @@ InstanceOf: Organization
 
 Instance: 602011000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15783,7 +15783,7 @@ InstanceOf: Organization
 
 Instance: 954931000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15808,7 +15808,7 @@ InstanceOf: Organization
 
 Instance: 954921000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15822,7 +15822,7 @@ InstanceOf: Organization
 
 Instance: 954941000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15847,7 +15847,7 @@ InstanceOf: Organization
 
 Instance: 63631000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15872,7 +15872,7 @@ InstanceOf: Organization
 
 Instance: 63621000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15897,7 +15897,7 @@ InstanceOf: Organization
 
 Instance: 389021000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15922,7 +15922,7 @@ InstanceOf: Organization
 
 Instance: 63611000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15941,7 +15941,7 @@ InstanceOf: Organization
 
 Instance: 903541000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15955,7 +15955,7 @@ InstanceOf: Organization
 
 Instance: 903551000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -15980,7 +15980,7 @@ InstanceOf: Organization
 
 Instance: 903561000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16005,7 +16005,7 @@ InstanceOf: Organization
 
 Instance: 533101000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16030,7 +16030,7 @@ InstanceOf: Organization
 
 Instance: 533091000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16055,7 +16055,7 @@ InstanceOf: Organization
 
 Instance: 533111000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16080,7 +16080,7 @@ InstanceOf: Organization
 
 Instance: 533081000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16099,7 +16099,7 @@ InstanceOf: Organization
 
 Instance: 1517421000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16119,7 +16119,7 @@ InstanceOf: Organization
 
 Instance: 1396221000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16133,7 +16133,7 @@ InstanceOf: Organization
 
 Instance: 1517431000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16153,7 +16153,7 @@ InstanceOf: Organization
 
 Instance: 1533111000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16173,7 +16173,7 @@ InstanceOf: Organization
 
 Instance: 1533121000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16193,7 +16193,7 @@ InstanceOf: Organization
 
 Instance: 1461001000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16213,7 +16213,7 @@ InstanceOf: Organization
 
 Instance: 1396231000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16233,7 +16233,7 @@ InstanceOf: Organization
 
 Instance: 1517401000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16253,7 +16253,7 @@ InstanceOf: Organization
 
 Instance: 1461021000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16273,7 +16273,7 @@ InstanceOf: Organization
 
 Instance: 1396241000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16293,7 +16293,7 @@ InstanceOf: Organization
 
 Instance: 1517411000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16313,7 +16313,7 @@ InstanceOf: Organization
 
 Instance: 1556721000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16333,7 +16333,7 @@ InstanceOf: Organization
 
 Instance: 1556461000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16347,7 +16347,7 @@ InstanceOf: Organization
 
 Instance: 1556731000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16367,7 +16367,7 @@ InstanceOf: Organization
 
 Instance: 1323111000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16392,7 +16392,7 @@ InstanceOf: Organization
 
 Instance: 38561000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16417,7 +16417,7 @@ InstanceOf: Organization
 
 Instance: 38551000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16436,7 +16436,7 @@ InstanceOf: Organization
 
 Instance: 473831000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16461,7 +16461,7 @@ InstanceOf: Organization
 
 Instance: 485801000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16486,7 +16486,7 @@ InstanceOf: Organization
 
 Instance: 22941000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16511,7 +16511,7 @@ InstanceOf: Organization
 
 Instance: 22931000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16530,7 +16530,7 @@ InstanceOf: Organization
 
 Instance: 1216871000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16555,7 +16555,7 @@ InstanceOf: Organization
 
 Instance: 1216861000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16580,7 +16580,7 @@ InstanceOf: Organization
 
 Instance: 22961000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16605,7 +16605,7 @@ InstanceOf: Organization
 
 Instance: 481131000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16630,7 +16630,7 @@ InstanceOf: Organization
 
 Instance: 481121000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16649,7 +16649,7 @@ InstanceOf: Organization
 
 Instance: 481141000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16674,7 +16674,7 @@ InstanceOf: Organization
 
 Instance: 48971000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16699,7 +16699,7 @@ InstanceOf: Organization
 
 Instance: 48961000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16718,7 +16718,7 @@ InstanceOf: Organization
 
 Instance: 618071000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16743,7 +16743,7 @@ InstanceOf: Organization
 
 Instance: 48991000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16768,7 +16768,7 @@ InstanceOf: Organization
 
 Instance: 48981000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16793,7 +16793,7 @@ InstanceOf: Organization
 
 Instance: 924161000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16818,7 +16818,7 @@ InstanceOf: Organization
 
 Instance: 924171000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16843,7 +16843,7 @@ InstanceOf: Organization
 
 Instance: 545531000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16868,7 +16868,7 @@ InstanceOf: Organization
 
 Instance: 545521000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16893,7 +16893,7 @@ InstanceOf: Organization
 
 Instance: 493721000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16912,7 +16912,7 @@ InstanceOf: Organization
 
 Instance: 1206181000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16937,7 +16937,7 @@ InstanceOf: Organization
 
 Instance: 1206171000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16962,7 +16962,7 @@ InstanceOf: Organization
 
 Instance: 1515211000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -16987,7 +16987,7 @@ InstanceOf: Organization
 
 Instance: 1206201000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17012,7 +17012,7 @@ InstanceOf: Organization
 
 Instance: 1206191000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17037,7 +17037,7 @@ InstanceOf: Organization
 
 Instance: 1206161000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17051,7 +17051,7 @@ InstanceOf: Organization
 
 Instance: 610841000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17071,7 +17071,7 @@ InstanceOf: Organization
 
 Instance: 610831000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17091,7 +17091,7 @@ InstanceOf: Organization
 
 Instance: 610821000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17105,7 +17105,7 @@ InstanceOf: Organization
 
 Instance: 1386021000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17125,7 +17125,7 @@ InstanceOf: Organization
 
 Instance: 1386031000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17145,7 +17145,7 @@ InstanceOf: Organization
 
 Instance: 88321000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17170,7 +17170,7 @@ InstanceOf: Organization
 
 Instance: 88311000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17189,7 +17189,7 @@ InstanceOf: Organization
 
 Instance: 88341000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17214,7 +17214,7 @@ InstanceOf: Organization
 
 Instance: 928971000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17239,7 +17239,7 @@ InstanceOf: Organization
 
 Instance: 928961000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17253,7 +17253,7 @@ InstanceOf: Organization
 
 Instance: 928981000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17278,7 +17278,7 @@ InstanceOf: Organization
 
 Instance: 439011000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17303,7 +17303,7 @@ InstanceOf: Organization
 
 Instance: 439001000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17328,7 +17328,7 @@ InstanceOf: Organization
 
 Instance: 438991000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17347,7 +17347,7 @@ InstanceOf: Organization
 
 Instance: 992691000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17372,7 +17372,7 @@ InstanceOf: Organization
 
 Instance: 992681000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17397,7 +17397,7 @@ InstanceOf: Organization
 
 Instance: 992711000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17422,7 +17422,7 @@ InstanceOf: Organization
 
 Instance: 984151000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17436,7 +17436,7 @@ InstanceOf: Organization
 
 Instance: 51791000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17461,7 +17461,7 @@ InstanceOf: Organization
 
 Instance: 51781000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17480,7 +17480,7 @@ InstanceOf: Organization
 
 Instance: 458241000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17505,7 +17505,7 @@ InstanceOf: Organization
 
 Instance: 595011000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17530,7 +17530,7 @@ InstanceOf: Organization
 
 Instance: 9561000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17549,7 +17549,7 @@ InstanceOf: Organization
 
 Instance: 9571000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17574,7 +17574,7 @@ InstanceOf: Organization
 
 Instance: 1349381000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17599,7 +17599,7 @@ InstanceOf: Organization
 
 Instance: 1166501000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17624,7 +17624,7 @@ InstanceOf: Organization
 
 Instance: 9591000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17649,7 +17649,7 @@ InstanceOf: Organization
 
 Instance: 686311000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17674,7 +17674,7 @@ InstanceOf: Organization
 
 Instance: 686301000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17693,7 +17693,7 @@ InstanceOf: Organization
 
 Instance: 686321000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17718,7 +17718,7 @@ InstanceOf: Organization
 
 Instance: 1206581000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17743,7 +17743,7 @@ InstanceOf: Organization
 
 Instance: 1206571000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17757,7 +17757,7 @@ InstanceOf: Organization
 
 Instance: 1206591000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17782,7 +17782,7 @@ InstanceOf: Organization
 
 Instance: 85541000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17807,7 +17807,7 @@ InstanceOf: Organization
 
 Instance: 85531000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17832,7 +17832,7 @@ InstanceOf: Organization
 
 Instance: 85521000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17851,7 +17851,7 @@ InstanceOf: Organization
 
 Instance: 1362011000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17876,7 +17876,7 @@ InstanceOf: Organization
 
 Instance: 1361821000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17901,7 +17901,7 @@ InstanceOf: Organization
 
 Instance: 1361831000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17926,7 +17926,7 @@ InstanceOf: Organization
 
 Instance: 1361811000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17940,7 +17940,7 @@ InstanceOf: Organization
 
 Instance: 1371711000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17954,7 +17954,7 @@ InstanceOf: Organization
 
 Instance: 1371721000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -17979,7 +17979,7 @@ InstanceOf: Organization
 
 Instance: 1371731000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18004,7 +18004,7 @@ InstanceOf: Organization
 
 Instance: 1371741000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18029,7 +18029,7 @@ InstanceOf: Organization
 
 Instance: 883011000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18043,7 +18043,7 @@ InstanceOf: Organization
 
 Instance: 883021000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18068,7 +18068,7 @@ InstanceOf: Organization
 
 Instance: 883031000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18093,7 +18093,7 @@ InstanceOf: Organization
 
 Instance: 573961000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18112,7 +18112,7 @@ InstanceOf: Organization
 
 Instance: 573971000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18137,7 +18137,7 @@ InstanceOf: Organization
 
 Instance: 573991000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18162,7 +18162,7 @@ InstanceOf: Organization
 
 Instance: 573981000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18187,7 +18187,7 @@ InstanceOf: Organization
 
 Instance: 917671000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18201,7 +18201,7 @@ InstanceOf: Organization
 
 Instance: 917681000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18226,7 +18226,7 @@ InstanceOf: Organization
 
 Instance: 917691000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18251,7 +18251,7 @@ InstanceOf: Organization
 
 Instance: 47411000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18276,7 +18276,7 @@ InstanceOf: Organization
 
 Instance: 47401000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18295,7 +18295,7 @@ InstanceOf: Organization
 
 Instance: 648601000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18320,7 +18320,7 @@ InstanceOf: Organization
 
 Instance: 1024311000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18345,7 +18345,7 @@ InstanceOf: Organization
 
 Instance: 1277261000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18370,7 +18370,7 @@ InstanceOf: Organization
 
 Instance: 1277251000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18384,7 +18384,7 @@ InstanceOf: Organization
 
 Instance: 1277271000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18409,7 +18409,7 @@ InstanceOf: Organization
 
 Instance: 13541000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18434,7 +18434,7 @@ InstanceOf: Organization
 
 Instance: 13521000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18459,7 +18459,7 @@ InstanceOf: Organization
 
 Instance: 13531000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18484,7 +18484,7 @@ InstanceOf: Organization
 
 Instance: 13511000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18503,7 +18503,7 @@ InstanceOf: Organization
 
 Instance: 774131000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18517,7 +18517,7 @@ InstanceOf: Organization
 
 Instance: 774141000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18542,7 +18542,7 @@ InstanceOf: Organization
 
 Instance: 774151000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18567,7 +18567,7 @@ InstanceOf: Organization
 
 Instance: 1145531000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18581,7 +18581,7 @@ InstanceOf: Organization
 
 Instance: 1145841000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18606,7 +18606,7 @@ InstanceOf: Organization
 
 Instance: 1145861000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18631,7 +18631,7 @@ InstanceOf: Organization
 
 Instance: 1145871000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18656,7 +18656,7 @@ InstanceOf: Organization
 
 Instance: 649081000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18681,7 +18681,7 @@ InstanceOf: Organization
 
 Instance: 649071000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18700,7 +18700,7 @@ InstanceOf: Organization
 
 Instance: 649091000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18725,7 +18725,7 @@ InstanceOf: Organization
 
 Instance: 994651000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18750,7 +18750,7 @@ InstanceOf: Organization
 
 Instance: 994611000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18775,7 +18775,7 @@ InstanceOf: Organization
 
 Instance: 994631000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18800,7 +18800,7 @@ InstanceOf: Organization
 
 Instance: 994641000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18825,7 +18825,7 @@ InstanceOf: Organization
 
 Instance: 994581000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18839,7 +18839,7 @@ InstanceOf: Organization
 
 Instance: 862261000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18853,7 +18853,7 @@ InstanceOf: Organization
 
 Instance: 862271000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18873,7 +18873,7 @@ InstanceOf: Organization
 
 Instance: 862281000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18893,7 +18893,7 @@ InstanceOf: Organization
 
 Instance: 1152921000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18907,7 +18907,7 @@ InstanceOf: Organization
 
 Instance: 1152941000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18932,7 +18932,7 @@ InstanceOf: Organization
 
 Instance: 1152951000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18957,7 +18957,7 @@ InstanceOf: Organization
 
 Instance: 515261000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -18976,7 +18976,7 @@ InstanceOf: Organization
 
 Instance: 515271000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19001,7 +19001,7 @@ InstanceOf: Organization
 
 Instance: 515281000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19026,7 +19026,7 @@ InstanceOf: Organization
 
 Instance: 1372881000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19051,7 +19051,7 @@ InstanceOf: Organization
 
 Instance: 1372861000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19076,7 +19076,7 @@ InstanceOf: Organization
 
 Instance: 1372871000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19101,7 +19101,7 @@ InstanceOf: Organization
 
 Instance: 1372851000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19115,7 +19115,7 @@ InstanceOf: Organization
 
 Instance: 54411000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19140,7 +19140,7 @@ InstanceOf: Organization
 
 Instance: 54401000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19159,7 +19159,7 @@ InstanceOf: Organization
 
 Instance: 54421000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19184,7 +19184,7 @@ InstanceOf: Organization
 
 Instance: 830621000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19204,7 +19204,7 @@ InstanceOf: Organization
 
 Instance: 830611000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19218,7 +19218,7 @@ InstanceOf: Organization
 
 Instance: 830631000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19238,7 +19238,7 @@ InstanceOf: Organization
 
 Instance: 1461771000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19263,7 +19263,7 @@ InstanceOf: Organization
 
 Instance: 1461781000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19288,7 +19288,7 @@ InstanceOf: Organization
 
 Instance: 962361000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19302,7 +19302,7 @@ InstanceOf: Organization
 
 Instance: 962371000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19327,7 +19327,7 @@ InstanceOf: Organization
 
 Instance: 962381000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19352,7 +19352,7 @@ InstanceOf: Organization
 
 Instance: 497771000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19377,7 +19377,7 @@ InstanceOf: Organization
 
 Instance: 497761000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19402,7 +19402,7 @@ InstanceOf: Organization
 
 Instance: 497751000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19421,7 +19421,7 @@ InstanceOf: Organization
 
 Instance: 711571000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19446,7 +19446,7 @@ InstanceOf: Organization
 
 Instance: 711561000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19460,7 +19460,7 @@ InstanceOf: Organization
 
 Instance: 711581000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19485,7 +19485,7 @@ InstanceOf: Organization
 
 Instance: 57361000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19504,7 +19504,7 @@ InstanceOf: Organization
 
 Instance: 57371000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19529,7 +19529,7 @@ InstanceOf: Organization
 
 Instance: 1533441000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19554,7 +19554,7 @@ InstanceOf: Organization
 
 Instance: 57421000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19579,7 +19579,7 @@ InstanceOf: Organization
 
 Instance: 57381000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19604,7 +19604,7 @@ InstanceOf: Organization
 
 Instance: 1533431000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19629,7 +19629,7 @@ InstanceOf: Organization
 
 Instance: 57401000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19654,7 +19654,7 @@ InstanceOf: Organization
 
 Instance: 57411000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19679,7 +19679,7 @@ InstanceOf: Organization
 
 Instance: 31851000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19704,7 +19704,7 @@ InstanceOf: Organization
 
 Instance: 31841000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19729,7 +19729,7 @@ InstanceOf: Organization
 
 Instance: 541111000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19754,7 +19754,7 @@ InstanceOf: Organization
 
 Instance: 1335721000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19779,7 +19779,7 @@ InstanceOf: Organization
 
 Instance: 31831000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19798,7 +19798,7 @@ InstanceOf: Organization
 
 Instance: 1180391000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19823,7 +19823,7 @@ InstanceOf: Organization
 
 Instance: 609511000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19848,7 +19848,7 @@ InstanceOf: Organization
 
 Instance: 609521000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19873,7 +19873,7 @@ InstanceOf: Organization
 
 Instance: 609531000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19898,7 +19898,7 @@ InstanceOf: Organization
 
 Instance: 609501000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19917,7 +19917,7 @@ InstanceOf: Organization
 
 Instance: 45601000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19937,7 +19937,7 @@ InstanceOf: Organization
 
 Instance: 45591000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19951,7 +19951,7 @@ InstanceOf: Organization
 
 Instance: 45611000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19971,7 +19971,7 @@ InstanceOf: Organization
 
 Instance: 1287791000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -19996,7 +19996,7 @@ InstanceOf: Organization
 
 Instance: 1287781000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20021,7 +20021,7 @@ InstanceOf: Organization
 
 Instance: 1287061000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20035,7 +20035,7 @@ InstanceOf: Organization
 
 Instance: 1369491000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20060,7 +20060,7 @@ InstanceOf: Organization
 
 Instance: 1369481000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20074,7 +20074,7 @@ InstanceOf: Organization
 
 Instance: 1369501000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20099,7 +20099,7 @@ InstanceOf: Organization
 
 Instance: 1369511000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20124,7 +20124,7 @@ InstanceOf: Organization
 
 Instance: 49601000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20149,7 +20149,7 @@ InstanceOf: Organization
 
 Instance: 49591000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20174,7 +20174,7 @@ InstanceOf: Organization
 
 Instance: 49581000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20193,7 +20193,7 @@ InstanceOf: Organization
 
 Instance: 49611000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20218,7 +20218,7 @@ InstanceOf: Organization
 
 Instance: 49621000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20243,7 +20243,7 @@ InstanceOf: Organization
 
 Instance: 689041000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20268,7 +20268,7 @@ InstanceOf: Organization
 
 Instance: 689031000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20293,7 +20293,7 @@ InstanceOf: Organization
 
 Instance: 17621000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20312,7 +20312,7 @@ InstanceOf: Organization
 
 Instance: 51271000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20337,7 +20337,7 @@ InstanceOf: Organization
 
 Instance: 51251000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20362,7 +20362,7 @@ InstanceOf: Organization
 
 Instance: 500311000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20387,7 +20387,7 @@ InstanceOf: Organization
 
 Instance: 51261000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20412,7 +20412,7 @@ InstanceOf: Organization
 
 Instance: 51241000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20431,7 +20431,7 @@ InstanceOf: Organization
 
 Instance: 11491000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20450,7 +20450,7 @@ InstanceOf: Organization
 
 Instance: 11501000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20475,7 +20475,7 @@ InstanceOf: Organization
 
 Instance: 1260731000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20500,7 +20500,7 @@ InstanceOf: Organization
 
 Instance: 1034131000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20525,7 +20525,7 @@ InstanceOf: Organization
 
 Instance: 38151000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20550,7 +20550,7 @@ InstanceOf: Organization
 
 Instance: 38141000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20569,7 +20569,7 @@ InstanceOf: Organization
 
 Instance: 1009391000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20594,7 +20594,7 @@ InstanceOf: Organization
 
 Instance: 1198051000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20619,7 +20619,7 @@ InstanceOf: Organization
 
 Instance: 1009401000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20644,7 +20644,7 @@ InstanceOf: Organization
 
 Instance: 833051000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20664,7 +20664,7 @@ InstanceOf: Organization
 
 Instance: 833041000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20684,7 +20684,7 @@ InstanceOf: Organization
 
 Instance: 833031000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20698,7 +20698,7 @@ InstanceOf: Organization
 
 Instance: 1332971000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20712,7 +20712,7 @@ InstanceOf: Organization
 
 Instance: 1332981000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20737,7 +20737,7 @@ InstanceOf: Organization
 
 Instance: 1333001000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20762,7 +20762,7 @@ InstanceOf: Organization
 
 Instance: 1332991000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20787,7 +20787,7 @@ InstanceOf: Organization
 
 Instance: 1283781000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20812,7 +20812,7 @@ InstanceOf: Organization
 
 Instance: 1283771000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20837,7 +20837,7 @@ InstanceOf: Organization
 
 Instance: 1283761000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20851,7 +20851,7 @@ InstanceOf: Organization
 
 Instance: 753691000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20876,7 +20876,7 @@ InstanceOf: Organization
 
 Instance: 753681000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20890,7 +20890,7 @@ InstanceOf: Organization
 
 Instance: 1026071000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20915,7 +20915,7 @@ InstanceOf: Organization
 
 Instance: 1026081000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20940,7 +20940,7 @@ InstanceOf: Organization
 
 Instance: 991711000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20954,7 +20954,7 @@ InstanceOf: Organization
 
 Instance: 991721000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -20979,7 +20979,7 @@ InstanceOf: Organization
 
 Instance: 1021451000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21004,7 +21004,7 @@ InstanceOf: Organization
 
 Instance: 1021441000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21029,7 +21029,7 @@ InstanceOf: Organization
 
 Instance: 991741000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21054,7 +21054,7 @@ InstanceOf: Organization
 
 Instance: 991731000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21079,7 +21079,7 @@ InstanceOf: Organization
 
 Instance: 1298291000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21099,7 +21099,7 @@ InstanceOf: Organization
 
 Instance: 1298281000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21113,7 +21113,7 @@ InstanceOf: Organization
 
 Instance: 1298321000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21133,7 +21133,7 @@ InstanceOf: Organization
 
 Instance: 1298311000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21153,7 +21153,7 @@ InstanceOf: Organization
 
 Instance: 970111000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21178,7 +21178,7 @@ InstanceOf: Organization
 
 Instance: 970101000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21192,7 +21192,7 @@ InstanceOf: Organization
 
 Instance: 970121000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21217,7 +21217,7 @@ InstanceOf: Organization
 
 Instance: 826691000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21237,7 +21237,7 @@ InstanceOf: Organization
 
 Instance: 826681000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21257,7 +21257,7 @@ InstanceOf: Organization
 
 Instance: 826671000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21271,7 +21271,7 @@ InstanceOf: Organization
 
 Instance: 88691000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21296,7 +21296,7 @@ InstanceOf: Organization
 
 Instance: 88681000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21315,7 +21315,7 @@ InstanceOf: Organization
 
 Instance: 88701000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21340,7 +21340,7 @@ InstanceOf: Organization
 
 Instance: 1520871000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21365,7 +21365,7 @@ InstanceOf: Organization
 
 Instance: 455571000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21390,7 +21390,7 @@ InstanceOf: Organization
 
 Instance: 455561000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21415,7 +21415,7 @@ InstanceOf: Organization
 
 Instance: 455551000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21434,7 +21434,7 @@ InstanceOf: Organization
 
 Instance: 20181000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21459,7 +21459,7 @@ InstanceOf: Organization
 
 Instance: 20171000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21478,7 +21478,7 @@ InstanceOf: Organization
 
 Instance: 1143501000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21503,7 +21503,7 @@ InstanceOf: Organization
 
 Instance: 681391000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21528,7 +21528,7 @@ InstanceOf: Organization
 
 Instance: 619491000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21553,7 +21553,7 @@ InstanceOf: Organization
 
 Instance: 1320711000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21567,7 +21567,7 @@ InstanceOf: Organization
 
 Instance: 1320731000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21592,7 +21592,7 @@ InstanceOf: Organization
 
 Instance: 1320741000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21617,7 +21617,7 @@ InstanceOf: Organization
 
 Instance: 497331000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21642,7 +21642,7 @@ InstanceOf: Organization
 
 Instance: 84521000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21667,7 +21667,7 @@ InstanceOf: Organization
 
 Instance: 84511000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21686,7 +21686,7 @@ InstanceOf: Organization
 
 Instance: 84531000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21711,7 +21711,7 @@ InstanceOf: Organization
 
 Instance: 1309071000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21736,7 +21736,7 @@ InstanceOf: Organization
 
 Instance: 596201000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21761,7 +21761,7 @@ InstanceOf: Organization
 
 Instance: 596191000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21780,7 +21780,7 @@ InstanceOf: Organization
 
 Instance: 596251000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21805,7 +21805,7 @@ InstanceOf: Organization
 
 Instance: 1154901000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21825,7 +21825,7 @@ InstanceOf: Organization
 
 Instance: 1154891000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21839,7 +21839,7 @@ InstanceOf: Organization
 
 Instance: 1154911000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21859,7 +21859,7 @@ InstanceOf: Organization
 
 Instance: 1047901000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21884,7 +21884,7 @@ InstanceOf: Organization
 
 Instance: 1047891000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21909,7 +21909,7 @@ InstanceOf: Organization
 
 Instance: 1047881000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21923,7 +21923,7 @@ InstanceOf: Organization
 
 Instance: 56231000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21948,7 +21948,7 @@ InstanceOf: Organization
 
 Instance: 56221000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21967,7 +21967,7 @@ InstanceOf: Organization
 
 Instance: 363791000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -21992,7 +21992,7 @@ InstanceOf: Organization
 
 Instance: 56251000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22017,7 +22017,7 @@ InstanceOf: Organization
 
 Instance: 1304321000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22042,7 +22042,7 @@ InstanceOf: Organization
 
 Instance: 1304301000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22067,7 +22067,7 @@ InstanceOf: Organization
 
 Instance: 1409431000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22092,7 +22092,7 @@ InstanceOf: Organization
 
 Instance: 1304331000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22117,7 +22117,7 @@ InstanceOf: Organization
 
 Instance: 1304291000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22131,7 +22131,7 @@ InstanceOf: Organization
 
 Instance: 961961000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22151,7 +22151,7 @@ InstanceOf: Organization
 
 Instance: 448011000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22176,7 +22176,7 @@ InstanceOf: Organization
 
 Instance: 448001000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22195,7 +22195,7 @@ InstanceOf: Organization
 
 Instance: 460891000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22220,7 +22220,7 @@ InstanceOf: Organization
 
 Instance: 710451000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22240,7 +22240,7 @@ InstanceOf: Organization
 
 Instance: 710441000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22260,7 +22260,7 @@ InstanceOf: Organization
 
 Instance: 710431000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22274,7 +22274,7 @@ InstanceOf: Organization
 
 Instance: 632931000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22293,7 +22293,7 @@ InstanceOf: Organization
 
 Instance: 632941000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22318,7 +22318,7 @@ InstanceOf: Organization
 
 Instance: 632951000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22343,7 +22343,7 @@ InstanceOf: Organization
 
 Instance: 84021000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22368,7 +22368,7 @@ InstanceOf: Organization
 
 Instance: 84001000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22393,7 +22393,7 @@ InstanceOf: Organization
 
 Instance: 84011000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22418,7 +22418,7 @@ InstanceOf: Organization
 
 Instance: 83991000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22437,7 +22437,7 @@ InstanceOf: Organization
 
 Instance: 1525481000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22462,7 +22462,7 @@ InstanceOf: Organization
 
 Instance: 626401000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22487,7 +22487,7 @@ InstanceOf: Organization
 
 Instance: 8961000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22512,7 +22512,7 @@ InstanceOf: Organization
 
 Instance: 393391000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22537,7 +22537,7 @@ InstanceOf: Organization
 
 Instance: 8991000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22562,7 +22562,7 @@ InstanceOf: Organization
 
 Instance: 8951000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22581,7 +22581,7 @@ InstanceOf: Organization
 
 Instance: 35401000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22606,7 +22606,7 @@ InstanceOf: Organization
 
 Instance: 35391000016006
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22631,7 +22631,7 @@ InstanceOf: Organization
 
 Instance: 35381000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22650,7 +22650,7 @@ InstanceOf: Organization
 
 Instance: 786961000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22670,7 +22670,7 @@ InstanceOf: Organization
 
 Instance: 786951000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22690,7 +22690,7 @@ InstanceOf: Organization
 
 Instance: 786941000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22704,7 +22704,7 @@ InstanceOf: Organization
 
 Instance: 32311000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22729,7 +22729,7 @@ InstanceOf: Organization
 
 Instance: 32301000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22748,7 +22748,7 @@ InstanceOf: Organization
 
 Instance: 964271000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22773,7 +22773,7 @@ InstanceOf: Organization
 
 Instance: 964281000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22798,7 +22798,7 @@ InstanceOf: Organization
 
 Instance: 32321000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22823,7 +22823,7 @@ InstanceOf: Organization
 
 Instance: 55471000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22842,7 +22842,7 @@ InstanceOf: Organization
 
 Instance: 55481000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22867,7 +22867,7 @@ InstanceOf: Organization
 
 Instance: 506401000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22892,7 +22892,7 @@ InstanceOf: Organization
 
 Instance: 55491000016000
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22917,7 +22917,7 @@ InstanceOf: Organization
 
 Instance: 637211000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22942,7 +22942,7 @@ InstanceOf: Organization
 
 Instance: 637191000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22961,7 +22961,7 @@ InstanceOf: Organization
 
 Instance: 637221000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -22986,7 +22986,7 @@ InstanceOf: Organization
 
 Instance: 89381000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23005,7 +23005,7 @@ InstanceOf: Organization
 
 Instance: 89391000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23030,7 +23030,7 @@ InstanceOf: Organization
 
 Instance: 89401000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23055,7 +23055,7 @@ InstanceOf: Organization
 
 Instance: 643791000016004
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23080,7 +23080,7 @@ InstanceOf: Organization
 
 Instance: 643781000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23105,7 +23105,7 @@ InstanceOf: Organization
 
 Instance: 643771000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23124,7 +23124,7 @@ InstanceOf: Organization
 
 Instance: 506941000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23149,7 +23149,7 @@ InstanceOf: Organization
 
 Instance: 506931000016008
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23168,7 +23168,7 @@ InstanceOf: Organization
 
 Instance: 506951000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23193,7 +23193,7 @@ InstanceOf: Organization
 
 Instance: 1394751000016007
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23218,7 +23218,7 @@ InstanceOf: Organization
 
 Instance: 1394741000016009
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23243,7 +23243,7 @@ InstanceOf: Organization
 
 Instance: 1394731000016002
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23257,7 +23257,7 @@ InstanceOf: Organization
 
 Instance: 749591000016001
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23277,7 +23277,7 @@ InstanceOf: Organization
 
 Instance: 749581000016003
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
@@ -23291,7 +23291,7 @@ InstanceOf: Organization
 
 Instance: 749601000016005
 InstanceOf: Organization
-//Usage: #inline
+Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
 * identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
