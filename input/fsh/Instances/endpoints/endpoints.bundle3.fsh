@@ -133,7 +133,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000130122"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -157,7 +157,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000139729"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -181,7 +181,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000123117"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -205,7 +205,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002621741"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -229,7 +229,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001368623"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -253,7 +253,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002021442"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -277,7 +277,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001368647"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -301,7 +301,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002508868"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -325,7 +325,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001368630"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -349,7 +349,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002409684"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -373,7 +373,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002637384"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -397,7 +397,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002000416"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -421,7 +421,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000160921"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -445,7 +445,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002010996"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -469,7 +469,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002520273"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -493,7 +493,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507847"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -517,7 +517,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507809"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -541,7 +541,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507861"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -565,7 +565,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507830"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -589,7 +589,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507854"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -613,7 +613,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507816"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -645,7 +645,7 @@ InstanceOf: Endpoint
 * extension[=].valueReference.type = "Device"
 * extension[=].valueReference.identifier.value = "MultiMedAP-test-LPS"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002401428"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -678,7 +678,7 @@ InstanceOf: Endpoint
 * extension[=].valueReference.type = "Device"
 * extension[=].valueReference.identifier.value = "MultiMedAP-test-LPS"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001995669"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -702,7 +702,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002513503"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -726,7 +726,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000142019"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -750,7 +750,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000135882"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -774,7 +774,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000135837"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -798,7 +798,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000149087"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -822,7 +822,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001384944"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -846,7 +846,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000148271"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -870,7 +870,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000140589"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -894,7 +894,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000147403"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -918,7 +918,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002288289"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -942,7 +942,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000145676"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -966,7 +966,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000127092"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -990,7 +990,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002408045"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1014,7 +1014,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000135912"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1038,7 +1038,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000126330"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1062,7 +1062,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000126675"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1086,7 +1086,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000145447"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1110,7 +1110,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000134038"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1134,7 +1134,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001358303"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1158,7 +1158,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000147717"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1182,7 +1182,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000139286"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1206,7 +1206,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002410468"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1230,7 +1230,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000142750"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1254,7 +1254,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002405105"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1278,7 +1278,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002010545"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1302,7 +1302,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000131051"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1326,7 +1326,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000136117"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1350,7 +1350,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000151226"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1374,7 +1374,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000128020"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1398,7 +1398,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002001543"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1422,7 +1422,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000127504"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1446,7 +1446,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001356644"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1470,7 +1470,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002407840"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1494,7 +1494,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001986315"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1518,7 +1518,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002510731"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1542,7 +1542,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000127221"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1566,7 +1566,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000140763"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1590,7 +1590,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002398162"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1614,7 +1614,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002520433"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1638,7 +1638,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000161584"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1662,7 +1662,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000134212"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1686,7 +1686,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002630682"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1710,7 +1710,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002401305"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1734,7 +1734,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002020834"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1758,7 +1758,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000126798"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1782,7 +1782,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000128419"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1806,7 +1806,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002621482"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1830,7 +1830,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000139453"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1854,7 +1854,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000132973"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1878,7 +1878,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000127696"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1902,7 +1902,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002282126"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1926,7 +1926,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002414428"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1950,7 +1950,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002516856"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1974,7 +1974,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002007040"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1998,7 +1998,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000143030"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2022,7 +2022,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000126583"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2046,7 +2046,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002757549"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2070,7 +2070,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002411397"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2094,7 +2094,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002002960"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2118,7 +2118,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002506932"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2142,7 +2142,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000125876"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2166,7 +2166,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000133147"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2190,7 +2190,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002269684"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2214,7 +2214,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002622205"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2238,7 +2238,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002630019"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2262,7 +2262,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000127870"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2286,7 +2286,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000137985"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2310,7 +2310,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000127382"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2334,7 +2334,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000140206"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2358,7 +2358,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000131150"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2382,7 +2382,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002618383"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2406,7 +2406,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002622038"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2430,7 +2430,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000127528"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2454,7 +2454,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002407314"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2478,7 +2478,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002412042"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2502,7 +2502,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001363895"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2526,7 +2526,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001991555"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2550,7 +2550,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000137060"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2574,7 +2574,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000136612"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2598,7 +2598,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000155170"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2622,7 +2622,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002026843"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2646,7 +2646,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002507410"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2670,7 +2670,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000126101"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2694,7 +2694,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002623622"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2718,7 +2718,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001989613"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2742,7 +2742,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002277160"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2766,7 +2766,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000125159"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2790,7 +2790,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000140992"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2814,7 +2814,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000132119"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2838,7 +2838,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000133031"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2862,7 +2862,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790000126392"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2886,7 +2886,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002278846"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2910,7 +2910,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790001369897"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2934,7 +2934,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002280696"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2958,7 +2958,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002004896"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2982,7 +2982,7 @@ InstanceOf: Endpoint
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
+* identifier.system = "https://www.gs1.org/gln"
 * identifier.value = "5790002633133"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery

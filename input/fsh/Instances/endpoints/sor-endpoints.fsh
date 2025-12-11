@@ -8,7 +8,7 @@ Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-1
 InstanceOf: EerEndpointMessaging
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002619588"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -27,7 +27,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002411298"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -46,7 +46,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000130436"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -65,7 +65,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002014529"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -84,7 +84,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002399084"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -103,7 +103,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000129577"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -122,7 +122,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002621659"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -141,7 +141,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000145706"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -160,7 +160,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000132973"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -179,7 +179,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002519840"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -198,7 +198,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001390617"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -217,7 +217,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002028830"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -236,7 +236,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000128594"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -255,7 +255,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507861"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -274,7 +274,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002621888"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -293,7 +293,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002516009"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -312,7 +312,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001356958"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -331,7 +331,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002508868"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -350,7 +350,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000135912"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -369,7 +369,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002516368"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -388,7 +388,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002414466"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -407,7 +407,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002412042"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -426,7 +426,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001356965"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -445,7 +445,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002510939"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -464,7 +464,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507410"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -483,7 +483,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002620546"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -502,7 +502,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002518539"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -521,7 +521,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002620423"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -540,7 +540,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002015632"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -559,7 +559,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002412172"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -578,7 +578,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507403"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -597,7 +597,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002412059"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -616,7 +616,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002504280"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -635,7 +635,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002757549"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -654,7 +654,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002621741"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -673,7 +673,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000136186"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -692,7 +692,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002760839"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -711,7 +711,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002012549"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -730,7 +730,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002634666"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -749,7 +749,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001377687"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -768,7 +768,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002631276"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -787,7 +787,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002413797"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -806,7 +806,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002398919"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -825,7 +825,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002518430"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -844,7 +844,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002414411"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -863,7 +863,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001377694"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -882,7 +882,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002286490"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -901,7 +901,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002410178"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -920,7 +920,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002406836"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -939,7 +939,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002402357"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -958,7 +958,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002620515"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -977,7 +977,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000148271"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -996,7 +996,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001368623"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1015,7 +1015,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002411397"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1034,7 +1034,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002633232"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1053,7 +1053,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002414428"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1072,7 +1072,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002414305"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1091,7 +1091,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002510731"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1110,7 +1110,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002618666"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1129,7 +1129,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002618789"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1148,7 +1148,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002026829"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1167,7 +1167,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002757532"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1186,7 +1186,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000121816"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1205,7 +1205,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002621949"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1224,7 +1224,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002506475"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1243,7 +1243,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002509896"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1262,7 +1262,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507472"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1281,7 +1281,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002410918"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1300,7 +1300,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002002823"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1319,7 +1319,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001368647"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1338,7 +1338,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000146192"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1357,7 +1357,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002633133"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1376,7 +1376,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002002830"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1395,7 +1395,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002765377"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1414,7 +1414,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002636882"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1433,7 +1433,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002509650"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1452,7 +1452,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002619861"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1471,7 +1471,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507236"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1490,7 +1490,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001368630"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1509,7 +1509,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002633027"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1528,7 +1528,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002415142"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1547,7 +1547,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507373"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1566,7 +1566,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000137374"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1585,7 +1585,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002407840"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1604,7 +1604,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002625046"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1623,7 +1623,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002516085"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1642,7 +1642,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002520433"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1661,7 +1661,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000127696"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1680,7 +1680,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002415036"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1699,7 +1699,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002636660"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1718,7 +1718,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002000416"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1737,7 +1737,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002625039"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1756,7 +1756,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000153831"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1775,7 +1775,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000139545"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1794,7 +1794,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002414190"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1813,7 +1813,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002410710"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1832,7 +1832,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002506277"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1851,7 +1851,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002618611"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1870,7 +1870,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002506062"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1889,7 +1889,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002414244"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1908,7 +1908,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002626401"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1927,7 +1927,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002627613"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1946,7 +1946,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002637650"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1965,7 +1965,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002407659"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -1984,7 +1984,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002278839"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2003,7 +2003,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002010996"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2022,7 +2022,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002635007"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2041,7 +2041,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000127504"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2060,7 +2060,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002021442"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2079,7 +2079,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000125562"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2098,7 +2098,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002510588"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2117,7 +2117,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002623066"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2136,7 +2136,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002406676"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2155,7 +2155,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002405105"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2174,7 +2174,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000147588"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2193,7 +2193,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002625480"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2212,7 +2212,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002627514"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2231,7 +2231,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002520471"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2250,7 +2250,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002508387"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2269,7 +2269,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515903"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2288,7 +2288,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002510335"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2307,7 +2307,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002763007"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2326,7 +2326,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000127528"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2345,7 +2345,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000126798"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2364,7 +2364,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002408434"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2383,7 +2383,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002409400"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2402,7 +2402,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002510120"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2421,7 +2421,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001369217"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2440,7 +2440,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002409646"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2459,7 +2459,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000123117"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2478,7 +2478,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002520297"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2497,7 +2497,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002513503"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2516,7 +2516,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002630828"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2535,7 +2535,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002763106"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2554,7 +2554,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002410536"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2573,7 +2573,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000137657"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2592,7 +2592,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002405143"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2611,7 +2611,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001384944"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2630,7 +2630,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001363802"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2649,7 +2649,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000125678"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2668,7 +2668,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001382650"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2687,7 +2687,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002412844"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2706,7 +2706,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002520273"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2725,7 +2725,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002762482"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2744,7 +2744,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002008436"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2763,7 +2763,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002396359"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2782,7 +2782,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002624469"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2801,7 +2801,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002405495"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2820,7 +2820,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000134250"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2839,7 +2839,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002407314"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2858,7 +2858,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002522345"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2877,7 +2877,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000150953"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2896,7 +2896,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002410550"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2915,7 +2915,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001379018"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2934,7 +2934,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002514609"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2953,7 +2953,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002512469"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2972,7 +2972,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002622038"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -2991,7 +2991,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000134328"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3010,7 +3010,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002414084"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3029,7 +3029,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001385736"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3048,7 +3048,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002409684"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3067,7 +3067,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002506901"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3086,7 +3086,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002628429"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3105,7 +3105,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002006555"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3124,7 +3124,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002637384"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3143,7 +3143,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000136612"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3162,7 +3162,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002281051"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3181,7 +3181,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002630989"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3200,7 +3200,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002512575"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3219,7 +3219,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002408229"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3238,7 +3238,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002505805"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3257,7 +3257,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002761249"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3276,7 +3276,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002628436"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3295,7 +3295,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002405075"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3314,7 +3314,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001372200"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3333,7 +3333,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001390198"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3352,7 +3352,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002415074"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3371,7 +3371,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002406034"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3390,7 +3390,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002631856"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3409,7 +3409,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000125630"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3428,7 +3428,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000134212"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3447,7 +3447,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002623219"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3466,7 +3466,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002758171"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3485,7 +3485,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002409417"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3504,7 +3504,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002764615"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3523,7 +3523,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000143030"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3542,7 +3542,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002505942"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3561,7 +3561,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790001350895"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3580,7 +3580,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002277283"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3599,7 +3599,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000147717"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3618,7 +3618,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002632723"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3637,7 +3637,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002634901"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3656,7 +3656,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002506826"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3675,7 +3675,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002408274"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3694,7 +3694,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002516856"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3713,7 +3713,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000160921"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3732,7 +3732,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000131488"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3751,7 +3751,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002762895"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3770,7 +3770,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002506819"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3789,7 +3789,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002506932"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3808,7 +3808,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002411465"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3827,7 +3827,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002624759"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3846,7 +3846,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002516764"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3865,7 +3865,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002512285"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3884,7 +3884,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002621482"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3903,7 +3903,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002634918"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3922,7 +3922,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002411472"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3941,7 +3941,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507816"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3960,7 +3960,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002281518"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3979,7 +3979,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002630682"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -3998,7 +3998,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000154241"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4017,7 +4017,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002622205"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4036,7 +4036,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000158720"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4055,7 +4055,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507809"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4074,7 +4074,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002761546"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4093,7 +4093,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000123766"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4112,7 +4112,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002630699"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4131,7 +4131,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002518607"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4150,7 +4150,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002517754"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4169,7 +4169,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002013003"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4188,7 +4188,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002627293"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4207,7 +4207,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000130122"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4226,7 +4226,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002634826"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4245,7 +4245,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002761898"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4264,7 +4264,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002504204"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4283,7 +4283,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002412868"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4302,7 +4302,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507830"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4321,7 +4321,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002397547"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4340,7 +4340,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002015656"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4359,7 +4359,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002620485"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4378,7 +4378,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002514593"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4397,7 +4397,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002409271"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4416,7 +4416,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002506857"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4435,7 +4435,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507823"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4454,7 +4454,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002410574"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4473,7 +4473,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002000287"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4492,7 +4492,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002412752"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4511,7 +4511,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002401305"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4530,7 +4530,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002623622"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4549,7 +4549,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000145836"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4568,7 +4568,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000135714"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4587,7 +4587,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002410581"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4606,7 +4606,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002504228"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4625,7 +4625,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002410468"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4644,7 +4644,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507854"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4663,7 +4663,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000152025"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4682,7 +4682,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002515224"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4701,7 +4701,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000153114"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4720,7 +4720,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002516313"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4739,7 +4739,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002516436"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4758,7 +4758,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002636912"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4777,7 +4777,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002630019"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4796,7 +4796,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002408045"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4815,7 +4815,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002631467"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4834,7 +4834,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002507847"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4853,7 +4853,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002398742"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4872,7 +4872,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002618383"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4891,7 +4891,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790000145614"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
@@ -4910,7 +4910,7 @@ InstanceOf: EerEndpointMessaging
 //Usage: #inline
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "http://www.gs1.org/gln"
+//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
 * identifier[GLN-ID].value = "5790002504211"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
