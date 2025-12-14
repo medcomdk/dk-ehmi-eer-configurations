@@ -35,6 +35,7 @@ Description: "SI for message registration in Digital Sundhed Danmark's national 
 * telecom.system = #url 
 * telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1134981000016000"
 
+/*
 //OE niveau
 Instance: DigitalSundhedDanmark-EMR-PROD
 InstanceOf: EerMessagingOrganization
@@ -54,6 +55,7 @@ Description: "OE for message registration in Digital Sundhed Danmark's national 
 * endpoint = Reference(Endpoint/5790002515804)
 * telecom.system = #url 
 * telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1135011000016005"
+*/
 
 Instance: DigitalSundhedDanmark-EMR-TEST1
 InstanceOf: EerMessagingOrganization
