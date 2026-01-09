@@ -4,24 +4,6 @@ Alias: $eer-endpoint-connection-type = http://medcomehmi.dk/ig/terminology/CodeS
 Alias: $ehmi-message-definition-uri = http://medcomehmi.dk/ig/terminology/CodeSystem/ehmi-message-definition-uri
 
 
-Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-1
-InstanceOf: EerEndpointMessaging
-//* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
-* identifier[GLN-ID].value = "5790002619588"
-* status = #active
-* connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
-* name = "EER Messaging Endpoint - AlmenLægeklinikHvidovre.2650.Hvidovre.1254731000016003 FHIR Endpoint"
-* managingOrganization = Reference(Organization/af85d62b-7812-4e05-a643-64d7bd2766b1)
-* period.start = "2023-11-10T00:00:00+01:00"
-* payloadType[0] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:homecareobservation:1.1
-* payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:acknowledgement:2.0
-* payloadMimeType[0] = #text/xml
-* payloadMimeType[+] = #application/fhir+xml
-* payloadMimeType[+] = #application/fhir+json
-* address = "https://example.org/fhir"
-
 Instance: Inline-Instance-for-GOFSH-GENERATED-ID-0-2
 InstanceOf: EerEndpointMessaging
 //Usage: #inline

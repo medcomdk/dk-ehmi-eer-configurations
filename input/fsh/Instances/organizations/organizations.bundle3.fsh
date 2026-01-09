@@ -23308,3 +23308,65 @@ Description: "Instance of SOR organisation"
 * partOf.identifier.type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
 * partOf.identifier.system = "urn:oid:1.2.208.176.1.1"
 * partOf.identifier.value = "749591000016001"
+
+// EAS konstanter
+Instance: 1054271000016002
+InstanceOf: Organization
+//Usage: #inline
+* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
+* identifier[0].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "1054271000016002"
+//* identifier[CVR-ID].system = "http://cvr.dk"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "31336244"
+* active = true
+* type = $eer-sor-organization-type#IE
+* name = "læge Asta Østergaard (1054271000016002)"
+
+Instance: 1254731000016003
+InstanceOf: Organization
+//Usage: #inline
+* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
+* identifier[0].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "1254731000016003"
+//* identifier[CVR-ID].system = "http://cvr.dk"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "31336244"
+* active = true
+* type = $eer-sor-organization-type#SI
+* name = "Almen Lægeklinik Hvidovre (1254731000016003)"
+* partOf = Reference(1054271000016002)
+* partOf.type = "Organization"
+* partOf.identifier.use = #official
+* partOf.identifier.type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* partOf.identifier.system = "urn:oid:1.2.208.176.1.1"
+* partOf.identifier.value = "1054271000016002"
+* endpoint = Reference(Endpoint/5790002619588)
+
+Instance: 1254741000016005
+InstanceOf: Organization
+//Usage: #inline
+* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
+* identifier[0].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "1254741000016005"
+//* identifier[CVR-ID].system = "http://cvr.dk"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "31336244"
+* active = true
+* type = $eer-sor-organization-type#OE
+* name = "Almen Lægeklinik Hvidovre (1254741000016005)"
+* partOf = Reference(1254731000016003)
+* partOf.type = "Organization"
+* partOf.identifier.use = #official
+* partOf.identifier.type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* partOf.identifier.system = "urn:oid:1.2.208.176.1.1"
+* partOf.identifier.value = "1254741000016005"
+* endpoint = Reference(Endpoint/1254731000016003)
+
+
