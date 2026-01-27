@@ -23367,6 +23367,5 @@ InstanceOf: Organization
 * partOf.identifier.type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
 * partOf.identifier.system = "urn:oid:1.2.208.176.1.1"
 * partOf.identifier.value = "1254741000016005"
-* endpoint = Reference(Endpoint/1254731000016003)
-
+* endpoint = Reference(Endpoint/5790002619588)
 
