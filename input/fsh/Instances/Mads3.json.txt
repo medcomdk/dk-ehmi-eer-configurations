@@ -47,7 +47,7 @@
       "payloadType" : [ {
         "coding" : [ {
           "system" : "http://medcomehmi.dk/ig/terminology/CodeSystem/ehmi-message-definition-uri",
-          "code" : "urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:homecareobservation:1.1"
+          "code" : "urn:dk:healthcare:medcom:messaging:fhir:structuredefinition:homecareobservation:1.2"
         } ]
       }, {
         "coding" : [ {
