@@ -42,7 +42,7 @@ Description: "Instance of SOR organisation"
 * endpoint = Reference(Endpoint/5790002021442)
 * endpoint.type = "Endpoint"
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790002021442"
 */
 
@@ -69,7 +69,7 @@ Description: "Instance of SOR organisation"
 * endpoint = Reference(Endpoint/5790002021442)
 * endpoint.type = "Endpoint"
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790002021442"
 */
 
@@ -96,7 +96,7 @@ Description: "Instance of SOR organisation"
 * endpoint = Reference(Endpoint/5790002021442)
 * endpoint.type = "Endpoint"
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790002021442"
 */
 
@@ -123,7 +123,7 @@ Description: "Instance of SOR organisation"
 * endpoint = Reference(Endpoint/5790002021442)
 * endpoint.type = "Endpoint"
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790002021442"
 */
 
@@ -150,7 +150,7 @@ Description: "Instance of SOR organisation"
 * endpoint = Reference(Endpoint/5790002021442)
 * endpoint.type = "Endpoint"
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790002021442"
 */
 
@@ -177,7 +177,7 @@ Description: "Instance of SOR organisation"
 * endpoint = Reference(Endpoint/5790002021442)
 * endpoint.type = "Endpoint"
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790002021442"
 */
 
@@ -204,7 +204,7 @@ Description: "Instance of SOR organisation"
 * endpoint = Reference(Endpoint/5790002021442)
 * endpoint.type = "Endpoint"
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790002021442"
 */
 
@@ -231,7 +231,7 @@ Description: "Instance of SOR organisation"
 * endpoint = Reference(Endpoint/5790002021442)
 * endpoint.type = "Endpoint"
 * endpoint.identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* endpoint.identifier.system = "https://www.gs1.org/gln"
+* endpoint.identifier.system = "http://www.gs1.org/gln"
 * endpoint.identifier.value = "5790002021442"
 */
 

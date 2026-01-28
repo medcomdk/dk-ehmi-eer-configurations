@@ -3004,9 +3004,9 @@ InstanceOf: Endpoint
 Instance: 5790002619588
 InstanceOf: EerEndpointMessaging
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier[GLN-ID].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-//* identifier[GLN-ID].system = "https://www.gs1.org/gln"
-* identifier[GLN-ID].value = "5790002619588"
+* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier.system = "http://www.gs1.org/gln"
+* identifier.value = "5790002619588"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmenLægeklinikHvidovre.2650.Hvidovre.1254731000016003 FHIR Endpoint"
