@@ -133,9 +133,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000130122"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000130122"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - ÅbyhøjLægehus.8230.Åbyhøj.41501000016009 FHIR Endpoint"
@@ -159,9 +159,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000139729"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000139729"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneNrd.Strandvej.8240.Risskov.12851000016007 FHIR Endpoint"
@@ -185,9 +185,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000123117"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000123117"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - SundhedogOmsorg.8260.VibyJ.937961000016000 FHIR Endpoint"
@@ -211,9 +211,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002621741"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002621741"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - SocialeForholdogBeskæftigelse.8000.AarhusC.1280171000016004 FHIR Endpoint"
@@ -237,9 +237,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001368623"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001368623"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - NeurocenterGOP,AarhusKommune-KUNINTERNTBRUG.8260.VibyJ.331071000016009 FHIR Endpoint"
@@ -263,9 +263,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002021442"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002021442"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LÆ-blanketter,suppl.kommunikation,Aarhus.8000.AarhusC.576011000016009 FHIR Endpoint"
@@ -289,9 +289,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001368647"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001368647"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - GOP§140,AarhusKommune.8260.VibyJ.331091000016008 FHIR Endpoint"
@@ -315,9 +315,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002508868"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002508868"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Sygehusadviser,Aarhus.8000.AarhusC.1053851000016007 FHIR Endpoint"
@@ -341,9 +341,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001368630"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001368630"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Ortopædkir.GOPcenter,AarhusKommune-KUNINTERNTBRUG.8260.VibyJ.331081000016006 FHIR Endpoint"
@@ -367,9 +367,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002409684"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002409684"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Voksentandplejen,Aarhus.8240.Risskov.947251000016006 FHIR Endpoint"
@@ -393,9 +393,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002637384"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002637384"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - PPR(PædagogiskPsykologiskRådgivning).8260.VibyJ.1437191000016005 FHIR Endpoint"
@@ -419,9 +419,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002000416"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002000416"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Sundhedspleje.8000.AarhusC.951321000016004 FHIR Endpoint"
@@ -445,9 +445,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000160921"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000160921"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FolkesundhedAarhus.8000.AarhusC.193071000016008 FHIR Endpoint"
@@ -471,9 +471,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002010996"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002010996"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - SociallægeinstitutionenAarhus.8000.AarhusC.535411000016006 FHIR Endpoint"
@@ -497,9 +497,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002520273"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002520273"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenAarhus,AarhusKommune.8260.VibyJ.1203461000016006 FHIR Endpoint"
@@ -523,9 +523,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002507847"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002507847"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenVejlby.8240.Risskov.1027311000016007 FHIR Endpoint"
@@ -549,9 +549,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002507809"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002507809"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenAarhusSyd.8270.Højbjerg.1027261000016002 FHIR Endpoint"
@@ -575,9 +575,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002507861"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002507861"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenSkæringSkole.8250.Egå.1027281000016009 FHIR Endpoint"
@@ -601,9 +601,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002507830"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002507830"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenTovshøj.8220.Brabrand.1027301000016005 FHIR Endpoint"
@@ -627,9 +627,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002507854"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002507854"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AarhusTandregulering.8260.VibyJ.1052151000016006 FHIR Endpoint"
@@ -653,9 +653,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002507816"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002507816"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TandplejenMøllevangskolen.8210.AarhusV.1027271000016007 FHIR Endpoint"
@@ -687,9 +687,9 @@ Description: "Endpoint instance"
 * extension[=].valueReference = Reference(Device/MultiMedAP-test-LPS)
 * extension[=].valueReference.type = "Device"
 * extension[=].valueReference.identifier.value = "MultiMedAP-test-LPS"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002401428"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002401428"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneStjernepladsenI/S.8200.AarhusN.698131000016001 FHIR Endpoint"
@@ -721,9 +721,9 @@ Description: "Endpoint instance"
 * extension[=].valueReference = Reference(Device/MultiMedAP-test-LPS)
 * extension[=].valueReference.type = "Device"
 * extension[=].valueReference.identifier.value = "MultiMedAP-test-LPS"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001995669"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001995669"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TrøjborgLægehusI/S.8200.AarhusN.468851000016000 FHIR Endpoint"
@@ -747,9 +747,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002513503"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002513503"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægenHøjbjergIS.8270.Højbjerg.1285371000016005 FHIR Endpoint"
@@ -773,9 +773,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000142019"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000142019"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBanegårdspladsen16.8000.AarhusC.32781000016004 FHIR Endpoint"
@@ -799,9 +799,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000135882"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000135882"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneOdensegadeI/Sv/LiseHøyer&TokeCasperØsterby.8000.AarhusC.23671000016004 FHIR Endpoint"
@@ -825,9 +825,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000135837"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000135837"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - MårsletLægehus.8320.Mårslet.23871000016003 FHIR Endpoint"
@@ -851,9 +851,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000149087"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000149087"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneiSolbjergI/S.8355.Solbjerg.75451000016008 FHIR Endpoint"
@@ -877,9 +877,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001384944"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001384944"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneMagnus.8000.AarhusC.1499141000016001 FHIR Endpoint"
@@ -903,9 +903,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000148271"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000148271"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneFuglesangsAllé95.8210.AarhusV.1476191000016005 FHIR Endpoint"
@@ -929,9 +929,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000140589"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000140589"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneLotteBrogaardogJonasDyhrRask.8330.Beder.10191000016007 FHIR Endpoint"
@@ -955,9 +955,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000147403"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000147403"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneSktPaulsKirkeplads2.8000.AarhusC.73011000016001 FHIR Endpoint"
@@ -981,9 +981,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002288289"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002288289"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneSkt.ClemensBroI/S.8000.AarhusC.672261000016008 FHIR Endpoint"
@@ -1007,9 +1007,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000145676"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000145676"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneSehested,BilleskovogKristensen.8000.AarhusC.68991000016006 FHIR Endpoint"
@@ -1033,9 +1033,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000127092"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000127092"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - SkødstrupLægepraksis.8541.Skødstrup.52581000016005 FHIR Endpoint"
@@ -1059,9 +1059,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002408045"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002408045"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Højbjerglægepraksis.8270.Højbjerg.930291000016000 FHIR Endpoint"
@@ -1085,9 +1085,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000135912"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000135912"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FrederiksbjergLægehus.8000.AarhusC.1216891000016007 FHIR Endpoint"
@@ -1111,9 +1111,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000126330"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000126330"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneØstergadeI/S.8000.AarhusC.55701000016003 FHIR Endpoint"
@@ -1137,9 +1137,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000126675"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000126675"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneValdemarsgadeI/S.8000.AarhusC.53881000016000 FHIR Endpoint"
@@ -1163,9 +1163,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000145447"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000145447"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægehusetBanegårdspladsen6I/S.8000.AarhusC.68591000016004 FHIR Endpoint"
@@ -1189,9 +1189,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000134038"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000134038"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægehusetHarlev.8462.HarlevJ.29191000016008 FHIR Endpoint"
@@ -1215,9 +1215,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001358303"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001358303"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - KianPedrampour.8260.VibyJ.88481000016000 FHIR Endpoint"
@@ -1241,9 +1241,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000147717"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000147717"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeMarieGeday.8000.AarhusC.745061000016000 FHIR Endpoint"
@@ -1267,9 +1267,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000139286"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000139286"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBusgadehusetI/S.8000.AarhusC.13761000016005 FHIR Endpoint"
@@ -1293,9 +1293,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002410468"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002410468"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmentPraktiserendeLægeBetinaSjøbergWolff.8260.VibyJ.954931000016001 FHIR Endpoint"
@@ -1319,9 +1319,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000142750"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000142750"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - BirgitteFromogPiaBrønlundOlesenI/S.8200.AarhusN.63611000016003 FHIR Endpoint"
@@ -1345,9 +1345,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002405105"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002405105"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeSebastianFriisAbrahamsen.8240.Risskov.903551000016008 FHIR Endpoint"
@@ -1371,9 +1371,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002010545"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002010545"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - I/SLægerneFrydenlund.8210.AarhusV.533081000016008 FHIR Endpoint"
@@ -1397,9 +1397,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000131051"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000131051"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneiRisvangenI/S.8200.AarhusN.38551000016003 FHIR Endpoint"
@@ -1423,9 +1423,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000136117"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000136117"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - KoltLægepraksis.8361.Hasselager.22931000016002 FHIR Endpoint"
@@ -1449,9 +1449,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000151226"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000151226"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBjerreogIngvardsenI/S.8260.VibyJ.481121000016009 FHIR Endpoint"
@@ -1475,9 +1475,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000128020"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000128020"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBorggadeI/S.8000.AarhusC.48961000016005 FHIR Endpoint"
@@ -1501,9 +1501,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002001543"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002001543"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeIngerTingsgårdBone.8000.AarhusC.493721000016008 FHIR Endpoint"
@@ -1527,9 +1527,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000127504"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000127504"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Lægehuset,Egålægerne.8250.Egå.1206171000016001 FHIR Endpoint"
@@ -1553,9 +1553,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001356644"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001356644"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægernevedHasleTorv.8210.AarhusV.88311000016003 FHIR Endpoint"
@@ -1579,9 +1579,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002407840"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002407840"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeAndersBrøndt.8000.AarhusC.928971000016007 FHIR Endpoint"
@@ -1605,9 +1605,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001986315"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001986315"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - HasleLægehusv/ThomasOtbo.8210.AarhusV.438991000016006 FHIR Endpoint"
@@ -1631,9 +1631,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002510731"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002510731"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneWarrerogIsaksen.8250.Egå.992681000016005 FHIR Endpoint"
@@ -1657,9 +1657,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000127221"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000127221"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægerneStoreTorvI/S.8000.AarhusC.51781000016008 FHIR Endpoint"
@@ -1683,9 +1683,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000140763"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000140763"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - ByensLægehusI/S.8000.AarhusC.9561000016001 FHIR Endpoint"
@@ -1709,9 +1709,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002398162"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002398162"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeAneSchmeltzSøgaard.8000.AarhusC.686301000016007 FHIR Endpoint"
@@ -1735,9 +1735,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002520433"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002520433"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeIntaAndersen.8230.Åbyhøj.1206581000016005 FHIR Endpoint"
@@ -1761,9 +1761,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000161584"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000161584"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeMikaelMunk.8260.VibyJ.85521000016005 FHIR Endpoint"
@@ -1787,9 +1787,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000134212"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000134212"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneRådhuspladsen.8000.AarhusC.1361821000016009 FHIR Endpoint"
@@ -1813,9 +1813,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002630682"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002630682"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBellogRask.8000.AarhusC.1371721000016006 FHIR Endpoint"
@@ -1839,9 +1839,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002401305"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002401305"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenØstergade1,LægeNielsBjørn.8000.AarhusC.883021000016003 FHIR Endpoint"
@@ -1865,9 +1865,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002020834"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002020834"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Marselislægerne.8000.AarhusC.573961000016000 FHIR Endpoint"
@@ -1891,9 +1891,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000126798"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000126798"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeAnetteHenriksen.8520.Lystrup.917681000016008 FHIR Endpoint"
@@ -1917,9 +1917,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000128419"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000128419"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneiGellerupI/S.8220.Brabrand.47401000016001 FHIR Endpoint"
@@ -1943,9 +1943,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002621482"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002621482"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeKarenKjærLarsen.8000.AarhusC.1277261000016009 FHIR Endpoint"
@@ -1969,9 +1969,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000139453"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000139453"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneLund&NielsenI/S.8000.AarhusC.13511000016003 FHIR Endpoint"
@@ -1995,9 +1995,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000132973"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000132973"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeHenrikNordentoft.8000.AarhusC.774141000016003 FHIR Endpoint"
@@ -2021,9 +2021,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000127696"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000127696"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneiTranbjerg.8310.TranbjergJ.1145841000016004 FHIR Endpoint"
@@ -2047,9 +2047,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002282126"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002282126"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeKirstenSlemming.8260.VibyJ.649071000016004 FHIR Endpoint"
@@ -2073,9 +2073,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002414428"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002414428"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneGyldenløvesgade.8200.AarhusN.994611000016008 FHIR Endpoint"
@@ -2099,9 +2099,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002516856"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002516856"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeCamillaRostgaardBerthelsen.8000.AarhusC.1152941000016004 FHIR Endpoint"
@@ -2125,9 +2125,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002007040"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002007040"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - PraktiserendelægeAsgerLauDalmose.8230.Åbyhøj.515261000016000 FHIR Endpoint"
@@ -2151,9 +2151,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000143030"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000143030"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneVestreStrandalle.8240.Risskov.1372861000016004 FHIR Endpoint"
@@ -2177,9 +2177,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000126583"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000126583"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægerneiHolmeI/S.8270.Højbjerg.54401000016009 FHIR Endpoint"
@@ -2203,9 +2203,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002757549"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002757549"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægehusetKirkedammen.8000.AarhusC.1461771000016005 FHIR Endpoint"
@@ -2229,9 +2229,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002411397"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002411397"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Flyvelæge-Aarhus.dk.8200.AarhusN.962371000016004 FHIR Endpoint"
@@ -2255,9 +2255,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002002960"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002002960"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeJosefineHirschsprungLange.8000.AarhusC.497751000016008 FHIR Endpoint"
@@ -2281,9 +2281,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002506932"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002506932"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeHelenaDalsgaardGrove.8000.AarhusC.711571000016006 FHIR Endpoint"
@@ -2307,9 +2307,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000125876"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000125876"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneiMalling.8340.Malling.57361000016005 FHIR Endpoint"
@@ -2333,9 +2333,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000133147"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000133147"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneTilst.8381.Tilst.31831000016004 FHIR Endpoint"
@@ -2359,9 +2359,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002269684"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002269684"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - I/SLægerneSønderhøj.8260.VibyJ.609501000016005 FHIR Endpoint"
@@ -2385,9 +2385,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002622205"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002622205"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeLineStaehelin.8000.AarhusC.1287781000016004 FHIR Endpoint"
@@ -2411,9 +2411,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002630019"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002630019"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBystævnet.8520.Lystrup.1369491000016008 FHIR Endpoint"
@@ -2437,9 +2437,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000127870"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000127870"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneSct.OlufsgadeI/Sv/Johansen,Dam-HansenogPoulsen.8000.AarhusC.49581000016002 FHIR Endpoint"
@@ -2463,9 +2463,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000137985"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000137985"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - KirstenLinnebjergJensby.8240.Risskov.17621000016003 FHIR Endpoint"
@@ -2489,9 +2489,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000127382"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000127382"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneStoreTorv6,AarhusI/S.8000.AarhusC.51241000016006 FHIR Endpoint"
@@ -2515,9 +2515,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000140206"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000140206"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneRosenvangsAllé.8270.Højbjerg.11491000016008 FHIR Endpoint"
@@ -2541,9 +2541,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000131150"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000131150"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægehusetRyesgade1.8000.AarhusC.38141000016007 FHIR Endpoint"
@@ -2567,9 +2567,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002618383"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002618383"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenAros.8000.AarhusC.1332981000016003 FHIR Endpoint"
@@ -2593,9 +2593,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002622038"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002622038"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneVennelystparken.8000.AarhusC.1283771000016007 FHIR Endpoint"
@@ -2619,9 +2619,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000127528"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000127528"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneMereteAndersenogDorteLeiKaltoft.8240.Risskov.753691000016000 FHIR Endpoint"
@@ -2645,9 +2645,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002407314"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002407314"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneKirstinelund.8520.Lystrup.991721000016006 FHIR Endpoint"
@@ -2671,9 +2671,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002412042"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002412042"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeSigneBrøndt.8000.AarhusC.970111000016003 FHIR Endpoint"
@@ -2697,9 +2697,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001363895"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001363895"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenTrøjborgI/S.8200.AarhusN.88681000016003 FHIR Endpoint"
@@ -2723,9 +2723,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001991555"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001991555"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeJacobLaurberg.8000.AarhusC.455551000016003 FHIR Endpoint"
@@ -2749,9 +2749,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000137060"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000137060"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - SkådeLægehusI/S.8270.Højbjerg.20171000016003 FHIR Endpoint"
@@ -2775,9 +2775,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000136612"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000136612"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenAnneBlom.8000.AarhusC.1320731000016003 FHIR Endpoint"
@@ -2801,9 +2801,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000155170"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000155170"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlléLægerneI/S.8000.AarhusC.84511000016002 FHIR Endpoint"
@@ -2827,9 +2827,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002026843"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002026843"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - TilstLægehusI/S.8381.Tilst.596191000016005 FHIR Endpoint"
@@ -2853,9 +2853,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002507410"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002507410"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Hjortshøjlægehus.8530.Hjortshøj.1047891000016007 FHIR Endpoint"
@@ -2879,9 +2879,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000126101"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000126101"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - SkejbylægerneI/S.8200.AarhusN.56221000016006 FHIR Endpoint"
@@ -2905,9 +2905,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002623622"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002623622"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - FamilielægerneÅbyhøj.8230.Åbyhøj.1304301000016009 FHIR Endpoint"
@@ -2931,9 +2931,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001989613"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001989613"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneRolighedsvejI/S.8240.Risskov.448001000016001 FHIR Endpoint"
@@ -2957,9 +2957,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002277160"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002277160"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - VibyLægehus.8260.VibyJ.632931000016006 FHIR Endpoint"
@@ -2983,9 +2983,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000125159"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000125159"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Banegårdslægerne.8000.AarhusC.83991000016000 FHIR Endpoint"
@@ -3009,9 +3009,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000140992"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000140992"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBerg,LentzogFjeldborgI/S.8000.AarhusC.8951000016003 FHIR Endpoint"
@@ -3035,9 +3035,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000132119"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000132119"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmentPraktiserendeLægeOleJuelThiisKnudsenApS.8240.Risskov.35381000016009 FHIR Endpoint"
@@ -3061,9 +3061,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000133031"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000133031"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneBrabrandhusI/S.8220.Brabrand.32301000016008 FHIR Endpoint"
@@ -3087,9 +3087,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790000126392"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000126392"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægerneJohanssonBechtoldI/S.8520.Lystrup.55471000016004 FHIR Endpoint"
@@ -3113,9 +3113,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002278846"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002278846"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeklinikkenTordenskjoldsgade.8200.AarhusN.637191000016008 FHIR Endpoint"
@@ -3139,9 +3139,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790001369897"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790001369897"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeElisabethMøller-Hansen.8230.Åbyhøj.89381000016004 FHIR Endpoint"
@@ -3165,9 +3165,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002280696"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002280696"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægePhilippHarbig.8200.AarhusN.643771000016003 FHIR Endpoint"
@@ -3191,9 +3191,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002004896"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002004896"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - LægeErikHøgh.8000.AarhusC.506931000016008 FHIR Endpoint"
@@ -3217,9 +3217,9 @@ InstanceOf: Endpoint
 Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002633133"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002633133"
 * status = #suspended
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - Langenæslægehus.8000.AarhusC.1394741000016009 FHIR Endpoint"
@@ -3241,9 +3241,9 @@ Description: "Endpoint instance"
 Instance: 5790002619588
 InstanceOf: EerEndpointMessaging
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
-* identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
-* identifier.system = "http://www.gs1.org/gln"
-* identifier.value = "5790002619588"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002619588"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmenLægeklinikHvidovre.2650.Hvidovre.1254731000016003 FHIR Endpoint"
