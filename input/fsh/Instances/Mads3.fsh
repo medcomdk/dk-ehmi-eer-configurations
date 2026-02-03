@@ -32,6 +32,7 @@ Title: "EER Messaging Endpoint - TrøjborgLægehusI/S.8200.AarhusN.4688510000160
 
 Instance: 69b3d28b-7eb6-4e91-bf8b-b03df44243f8
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "EerMessagingOrganization"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
@@ -49,6 +50,7 @@ Description: "EerMessagingOrganization"
 
 Instance: c8dac996-4210-45fc-bc6c-be64ae3f82ec
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "EerMessagingOrganization"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
@@ -70,6 +72,7 @@ Description: "EerMessagingOrganization"
 
 Instance: d627cb60-c3e3-4ae0-bca9-88c668ea627e
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "EerMessagingOrganization"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
@@ -91,6 +94,7 @@ Description: "EerMessagingOrganization"
 
 Instance: d741b66b-41cc-4f05-b0b2-ab631ddf6369
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "EerMessagingOrganization"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
