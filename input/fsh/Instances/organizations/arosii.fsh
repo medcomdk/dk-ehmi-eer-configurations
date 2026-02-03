@@ -21,6 +21,7 @@
 
 Instance: 651411000016002
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
@@ -48,6 +49,7 @@ Description: "Instance of SOR organisation"
 
 Instance: 555261000016005
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
@@ -75,6 +77,7 @@ Description: "Instance of SOR organisation"
 
 Instance: 555251000016007
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
@@ -102,6 +105,7 @@ Description: "Instance of SOR organisation"
 
 Instance: 1302351000016000
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
@@ -129,6 +133,7 @@ Description: "Instance of SOR organisation"
 
 Instance: 1302311000016004
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
@@ -156,6 +161,7 @@ Description: "Instance of SOR organisation"
 
 Instance: 1099841000016001
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
@@ -183,6 +189,7 @@ Description: "Instance of SOR organisation"
 
 Instance: 1035781000016008
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
@@ -210,6 +217,7 @@ Description: "Instance of SOR organisation"
 
 Instance: 278981000016007
 InstanceOf: Organization
+// Description: "Organization instance"
 Description: "Instance of SOR organisation"
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * identifier[0].use = #official
