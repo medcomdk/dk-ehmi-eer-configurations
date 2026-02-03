@@ -3240,6 +3240,7 @@ Description: "Endpoint instance"
 
 Instance: 5790002619588
 InstanceOf: EerEndpointMessaging
+Description: "Endpoint instance"
 //* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
 * identifier[=].system = "http://www.gs1.org/gln"
