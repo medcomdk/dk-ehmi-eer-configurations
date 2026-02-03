@@ -3247,7 +3247,7 @@ InstanceOf: EerEndpointMessaging
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
 * name = "EER Messaging Endpoint - AlmenLægeklinikHvidovre.2650.Hvidovre.1254731000016003 FHIR Endpoint"
-* managingOrganization = Reference(Organization/af85d62b-7812-4e05-a643-64d7bd2766b1)
+* managingOrganization = Reference(Organization/1254731000016003)
 * period.start = "2023-11-10T00:00:00+01:00"
 * payloadType[0] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.2
 * payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
