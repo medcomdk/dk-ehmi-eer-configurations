@@ -130,6 +130,7 @@ Usage: #example
 
 Instance: 5790000130122
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -155,6 +156,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000139729
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -180,6 +182,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000123117
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -205,6 +208,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002621741
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -230,6 +234,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001368623
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -255,6 +260,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002021442
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -280,6 +286,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001368647
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -305,6 +312,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002508868
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -330,6 +338,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001368630
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -355,6 +364,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002409684
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -380,6 +390,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002637384
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -405,6 +416,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002000416
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -430,6 +442,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000160921
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -455,6 +468,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002010996
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -480,6 +494,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002520273
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -505,6 +520,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002507847
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -530,6 +546,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002507809
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -555,6 +572,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002507861
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -580,6 +598,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002507830
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -605,6 +624,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002507854
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -630,6 +650,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002507816
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -655,6 +676,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002401428
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
@@ -688,6 +710,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001995669
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * extension[0].url = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer-dk-msh-system-extension"
@@ -721,6 +744,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002513503
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -746,6 +770,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000142019
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -771,6 +796,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000135882
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -796,6 +822,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000135837
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -821,6 +848,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000149087
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -846,6 +874,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001384944
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -871,6 +900,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000148271
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -896,6 +926,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000140589
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -921,6 +952,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000147403
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -946,6 +978,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002288289
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -971,6 +1004,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000145676
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -996,6 +1030,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000127092
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1021,6 +1056,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002408045
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1046,6 +1082,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000135912
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1071,6 +1108,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000126330
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1096,6 +1134,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000126675
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1121,6 +1160,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000145447
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1146,6 +1186,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000134038
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1171,6 +1212,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001358303
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1196,6 +1238,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000147717
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1221,6 +1264,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000139286
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1246,6 +1290,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002410468
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1271,6 +1316,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000142750
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1296,6 +1342,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002405105
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1321,6 +1368,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002010545
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1346,6 +1394,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000131051
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1371,6 +1420,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000136117
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1396,6 +1446,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000151226
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1421,6 +1472,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000128020
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1446,6 +1498,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002001543
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1471,6 +1524,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000127504
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1496,6 +1550,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001356644
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1521,6 +1576,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002407840
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1546,6 +1602,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001986315
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1571,6 +1628,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002510731
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1596,6 +1654,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000127221
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1621,6 +1680,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000140763
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1646,6 +1706,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002398162
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1671,6 +1732,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002520433
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1696,6 +1758,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000161584
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1721,6 +1784,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000134212
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1746,6 +1810,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002630682
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1771,6 +1836,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002401305
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1796,6 +1862,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002020834
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1821,6 +1888,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000126798
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1846,6 +1914,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000128419
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1871,6 +1940,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002621482
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1896,6 +1966,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000139453
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1921,6 +1992,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000132973
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1946,6 +2018,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000127696
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1971,6 +2044,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002282126
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -1996,6 +2070,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002414428
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2021,6 +2096,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002516856
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2046,6 +2122,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002007040
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2071,6 +2148,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000143030
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2096,6 +2174,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000126583
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2121,6 +2200,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002757549
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2146,6 +2226,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002411397
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2171,6 +2252,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002002960
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2196,6 +2278,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002506932
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2221,6 +2304,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000125876
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2246,6 +2330,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000133147
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2271,6 +2356,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002269684
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2296,6 +2382,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002622205
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2321,6 +2408,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002630019
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2346,6 +2434,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000127870
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2371,6 +2460,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000137985
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2396,6 +2486,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000127382
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2421,6 +2512,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000140206
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2446,6 +2538,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000131150
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2471,6 +2564,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002618383
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2496,6 +2590,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002622038
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2521,6 +2616,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000127528
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2546,6 +2642,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002407314
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2571,6 +2668,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002412042
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2596,6 +2694,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001363895
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2621,6 +2720,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001991555
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2646,6 +2746,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000137060
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2671,6 +2772,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000136612
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2696,6 +2798,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000155170
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2721,6 +2824,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002026843
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2746,6 +2850,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002507410
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2771,6 +2876,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000126101
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2796,6 +2902,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002623622
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2821,6 +2928,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001989613
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2846,6 +2954,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002277160
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2871,6 +2980,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000125159
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2896,6 +3006,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000140992
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2921,6 +3032,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000132119
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2946,6 +3058,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000133031
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2971,6 +3084,7 @@ InstanceOf: Endpoint
 
 Instance: 5790000126392
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -2996,6 +3110,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002278846
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3021,6 +3136,7 @@ InstanceOf: Endpoint
 
 Instance: 5790001369897
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3046,6 +3162,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002280696
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3071,6 +3188,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002004896
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
@@ -3096,6 +3214,7 @@ InstanceOf: Endpoint
 
 Instance: 5790002633133
 InstanceOf: Endpoint
+Description: "Endpoint instance"
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/eer.dk.endpoint.messaging"
 * identifier.type = $ehmi-delivery-status-agent-who-identifier-types#GLN
