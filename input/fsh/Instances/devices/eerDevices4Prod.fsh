@@ -88,11 +88,11 @@ Description: "EerDevice-EMR-AP-prod-PROD"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
-Instance: NSP-EMR-MSH-prod-PROD
+Instance: EMR-MSH-prod-PROD
 InstanceOf: EerDevice
-Description: "EerDevice-NSP-EMR-MSH-prod-PROD"
-* id = "NSP-EMR-MSH-prod-PROD" 
-* identifier.value = "NSP-EMR-MSH-prod-PROD"
+Description: "EerDevice-EMR-MSH-prod-PROD"
+* id = "EMR-MSH-prod-PROD" 
+* identifier.value = "EMR-MSH-prod-PROD"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
