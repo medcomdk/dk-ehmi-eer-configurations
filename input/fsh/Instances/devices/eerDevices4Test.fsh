@@ -28,7 +28,7 @@ Instance: KvalitetsItAP-test-aarhus
 InstanceOf: EerDevice
 Description: "EerDevice-KvalitetsItAP"
 * id = "KvalitetsItAP-test-aarhus"
-* identifier.value = "EerDevice-KvalitetsItAP-test-aarhus"
+* identifier.value = "KvalitetsItAP-test-aarhus"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
@@ -41,7 +41,7 @@ Instance: EGClineaEUA-test-aarhus
 InstanceOf: EerDevice
 Description: "EerDevice-EGClineaEUA"
 * id = "EGClineaEUA-test-aarhus"
-* identifier.value = "EerDevice-EGClineaEUA-test-aarhus"
+* identifier.value = "EGClineaEUA-test-aarhus"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
