@@ -87,11 +87,11 @@ Description: "EerDevice-EMR-AP-test-TEST1"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
-Instance: NSP-EMR-MSH-test-TEST1
+Instance: EMR-MSH-test-TEST1
 InstanceOf: EerDevice
-Description: "EerDevice-NSP-EMR-MSH-test-TEST1"
-* id = "NSP-EMR-MSH-test-TEST1" 
-* identifier.value = "NSP-EMR-MSH-test-TEST1"
+Description: "EerDevice-EMR-MSH-test-TEST1"
+* id = "EMR-MSH-test-TEST1" 
+* identifier.value = "EMR-MSH-test-TEST1"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
@@ -111,11 +111,11 @@ Description: "EerDevice-EMR-AP-test-TEST2"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
-Instance: NSP-EMR-MSH-test-TEST2
+Instance: EMR-MSH-test-TEST2
 InstanceOf: EerDevice
-Description: "EerDevice-NSP-EMR-MSH-test-TEST2"
-* id = "NSP-EMR-MSH-test-TEST2" 
-* identifier.value = "NSP-EMR-MSH-test-TEST2"
+Description: "EerDevice-EMR-MSH-test-TEST2"
+* id = "EMR-MSH-test-TEST2" 
+* identifier.value = "EMR-MSH-test-TEST2"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
