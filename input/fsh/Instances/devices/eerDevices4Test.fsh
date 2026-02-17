@@ -37,11 +37,11 @@ Description: "EerDevice-KvalitetsItAP"
 * manufacturer = "KvalitetsIt"
 
 // EG 
-Instance: EGClineaEUA-test-aarhus
+Instance: EerDevice-EGClineaEUA-test-aarhus
 InstanceOf: EerDevice
 Description: "EerDevice-EGClineaEUA"
-* id = "EGClineaEUA-test-aarhus"
-* identifier.value = "EGClineaEUA-test-aarhus"
+* id = "EerDevice-EGClineaEUA-test-aarhus"
+* identifier.value = "EerDevice-EGClineaEUA-test-aarhus"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
