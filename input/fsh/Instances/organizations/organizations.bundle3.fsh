@@ -24409,3 +24409,58 @@ Description: "Organization instance"
 * partOf.identifier.value = "1254741000016005"
 * endpoint = Reference(Endpoint/5790002619588)
 
+Instance: 323561000016007
+InstanceOf: Organization
+Description: "Organization instance"
+* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
+* identifier[0].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "323561000016007"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "84667811"
+* active = true
+* type = $eer-sor-organization-type#IE
+* name = "EG (323561000016007)"
+
+Instance: 323571000016002
+InstanceOf: Organization
+Description: "Organization instance"
+* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
+* identifier[0].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "323571000016002"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "84667811"
+* active = true
+* type = $eer-sor-organization-type#SI
+* name = "EG (323571000016002)"
+* partOf = Reference(323561000016007)
+* partOf.type = "Organization"
+* partOf.identifier.use = #official
+* partOf.identifier.type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* partOf.identifier.system = "urn:oid:1.2.208.176.1.1"
+* partOf.identifier.value = "323561000016007"
+* endpoint = Reference(Endpoint/5790000120048)
+
+Instance: 323581000016000
+InstanceOf: Organization
+Description: "Organization instance"
+* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
+* identifier[0].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "323581000016000"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "84667811"
+* active = true
+* type = $eer-sor-organization-type#SI
+* name = "EG (323581000016000)"
+* partOf = Reference(323571000016002)
+* partOf.type = "Organization"
+* partOf.identifier.use = #official
+* partOf.identifier.type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* partOf.identifier.system = "urn:oid:1.2.208.176.1.1"
+* partOf.identifier.value = "323571000016002"
+* endpoint = Reference(Endpoint/5790000120048)
