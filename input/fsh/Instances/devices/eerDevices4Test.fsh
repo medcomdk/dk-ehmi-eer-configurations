@@ -83,7 +83,7 @@ Description: "EerDevice-EMR-AP-test-TEST1"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
-* deviceName.name = "NSP EMR AP TEST1"
+* deviceName.name = "EMR AP TEST1"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
@@ -95,7 +95,7 @@ Description: "EerDevice-EMR-MSH-test-TEST1"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "NSP EMR MSH TEST1"
+* deviceName.name = "EMR MSH TEST1"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
@@ -107,7 +107,7 @@ Description: "EerDevice-EMR-AP-test-TEST2"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
-* deviceName.name = "NSP EMR AP TEST2"
+* deviceName.name = "EMR AP TEST2"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
@@ -119,6 +119,6 @@ Description: "EerDevice-EMR-MSH-test-TEST2"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "NSP EMR MSH TEST2"
+* deviceName.name = "EMR MSH TEST2"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
