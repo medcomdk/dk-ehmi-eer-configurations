@@ -41,7 +41,9 @@ InstanceOf: EerEndpointMessaging
 Title: "EER Messaging Endpoint - LaegerneStjernepladsen.8200.AarhusN.5790002401428"
 Description: "EER Messaging Endpoint - LaegerneStjernepladsen.8200.AarhusN.5790002401428"
 * id = "LaegerneStjernepladsen.8200.AarhusN.5790002401428"
-* identifier.value = "5790002401428"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002401428"
 * status = #active
 * period.start = "2025-01-01"
 * connectionType.code = #EerMessagingEdelivery
