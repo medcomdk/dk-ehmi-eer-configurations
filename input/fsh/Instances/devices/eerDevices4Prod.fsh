@@ -84,7 +84,7 @@ Description: "EerDevice-EMR-AP-prod-PROD"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#AP "eDelivery Access Point"
 * status = #active
-* deviceName.name = "NSP EMR AP PROD"
+* deviceName.name = "EMR AP PROD"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 
@@ -96,7 +96,7 @@ Description: "EerDevice-EMR-MSH-prod-PROD"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
-* deviceName.name = "NSP EMR MSH PROD"
+* deviceName.name = "EMR MSH PROD"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
 */
