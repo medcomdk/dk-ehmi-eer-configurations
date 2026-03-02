@@ -24464,3 +24464,15 @@ Description: "Organization instance"
 * partOf.identifier.system = "urn:oid:1.2.208.176.1.1"
 * partOf.identifier.value = "323571000016002"
 * endpoint = Reference(Endpoint/5790000120048)
+
+Instance: DefaultOrg
+InstanceOf: Organization
+Description: "Organization instance"
+* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
+* identifier[0].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "99999999999"
+* active = true
+* type = $eer-sor-organization-type#SI
+* name = "Default Org. Not used for anything."
