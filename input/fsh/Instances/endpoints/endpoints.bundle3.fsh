@@ -3277,6 +3277,101 @@ Description: "Endpoint instance"
 * payloadMimeType[+] = #application/fhir+json
 * address = "https://example.org/fhir"
 
+Instance: 5790000228065
+InstanceOf: EerEndpointMessaging
+Description: "Endpoint instance"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000228065"
+* status = #active
+* connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
+* name = "EER Messaging Endpoint - Autoriserede Fysioterapeueter Frederiksbjerg Fysioterapi ApS organization 1301641000016002"
+* managingOrganization = Reference(Organization/1301641000016002)
+* period.start = "2026-03-09T00:00:00+01:00"
+* payloadType[0] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.2
+* payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
+* payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
+* payloadMimeType[0] = #text/xml
+* payloadMimeType[+] = #application/fhir+xml
+* payloadMimeType[+] = #application/fhir+json
+* address = "https://example.org/fhir"
+
+Instance: 5790000132966
+InstanceOf: EerEndpointMessaging
+Description: "Endpoint instance"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000132966"
+* status = #active
+* connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
+* name = "EER Messaging Endpoint - Lægerne Jacob Gades Alle I/S organization 32561000016002"
+* managingOrganization = Reference(Organization/32561000016002)
+* period.start = "2026-03-09T00:00:00+01:00"
+* payloadType[0] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.2
+* payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
+* payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
+* payloadMimeType[0] = #text/xml
+* payloadMimeType[+] = #application/fhir+xml
+* payloadMimeType[+] = #application/fhir+json
+* address = "https://example.org/fhir"
+
+Instance: 5790000169269
+InstanceOf: EerEndpointMessaging
+Description: "Endpoint instance"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790000169269"
+* status = #active
+* connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
+* name = "EER Messaging Endpoint - Næstved Rygcenter v/Hans Andersen Fysioterapi ApS organization 172161000016004"
+* managingOrganization = Reference(Organization/172161000016004)
+* period.start = "2026-03-09T00:00:00+01:00"
+* payloadType[0] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.2
+* payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
+* payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
+* payloadMimeType[0] = #text/xml
+* payloadMimeType[+] = #application/fhir+xml
+* payloadMimeType[+] = #application/fhir+json
+* address = "https://example.org/fhir"
+
+Instance: 5790002513480
+InstanceOf: EerEndpointMessaging
+Description: "Endpoint instance"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002513480"
+* status = #active
+* connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
+* name = "EER Messaging Endpoint - Klinik for Fysioterapi I/S organization 1099811000016002"
+* managingOrganization = Reference(Organization/1099811000016002)
+* period.start = "2026-03-09T00:00:00+01:00"
+* payloadType[0] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.2
+* payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
+* payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
+* payloadMimeType[0] = #text/xml
+* payloadMimeType[+] = #application/fhir+xml
+* payloadMimeType[+] = #application/fhir+json
+* address = "https://example.org/fhir"
+
+Instance: 5790002765452
+InstanceOf: EerEndpointMessaging
+Description: "Endpoint instance"
+* identifier[+].type = $ehmi-delivery-status-agent-who-identifier-types#GLN
+* identifier[=].system = "http://www.gs1.org/gln"
+* identifier[=].value = "5790002765452"
+* status = #active
+* connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
+* name = "EER Messaging Endpoint - ArVel P/S organization 1556461000016001"
+* managingOrganization = Reference(Organization/1556461000016001)
+* period.start = "2026-03-09T00:00:00+01:00"
+* payloadType[0] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.2
+* payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
+* payloadType[+] = $ehmi-message-definition-uri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
+* payloadMimeType[0] = #text/xml
+* payloadMimeType[+] = #application/fhir+xml
+* payloadMimeType[+] = #application/fhir+json
+* address = "https://example.org/fhir"
+
 Instance: DefaultEndpoint
 InstanceOf: EerEndpointMessaging
 Description: "Endpoint instance"

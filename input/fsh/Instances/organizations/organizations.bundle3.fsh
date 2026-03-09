@@ -24465,6 +24465,66 @@ Description: "Organization instance"
 * partOf.identifier.value = "323571000016002"
 * endpoint = Reference(Endpoint/5790000120048)
 
+Instance: 1301641000016002
+InstanceOf: Organization
+Description: "Organization instance"
+* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
+* identifier[0].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "1301641000016002"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "43648888"
+* active = true
+* type = $eer-sor-organization-type#IE
+* name = "Autoriserede Fysioterapeuter Frederiksbjerg Fysioterapi ApS (1301641000016002)"
+* endpoint = Reference(Endpoint/5790000228065)
+
+Instance: 32561000016002
+InstanceOf: Organization
+Description: "Organization instance"
+* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
+* identifier[0].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "32561000016002"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "16287016"
+* active = true
+* type = $eer-sor-organization-type#IE
+* name = "Lægerne Jacob Gades Alle I/S (32561000016002)"
+* endpoint = Reference(Endpoint/5790000132966)
+
+Instance: 172161000016004
+InstanceOf: Organization
+Description: "Organization instance"
+* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
+* identifier[0].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "172161000016004"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "15006706"
+* active = true
+* type = $eer-sor-organization-type#IE
+* name = "Næstved Rygcenter v/Hans Andersen Fysioterapi ApS (172161000016004)"
+* endpoint = Reference(Endpoint/5790000169269)
+
+Instance: 1099811000016002
+InstanceOf: Organization
+Description: "Organization instance"
+* meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
+* identifier[0].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "1099811000016002"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "27856926"
+* active = true
+* type = $eer-sor-organization-type#IE
+* name = "Klinik for Fysioterapi I/S (1099811000016002)"
+* endpoint = Reference(Endpoint/5790002513480)
+
 Instance: DefaultOrg
 InstanceOf: Organization
 Description: "Organization instance"
@@ -24474,5 +24534,5 @@ Description: "Organization instance"
 * identifier[=].system = "urn:oid:1.2.208.176.1.1"
 * identifier[=].value = "99999999999"
 * active = true
-* type = $eer-sor-organization-type#SI
+* type = $eer-sor-organization-type#IE
 * name = "Default Org. Not used for anything."
