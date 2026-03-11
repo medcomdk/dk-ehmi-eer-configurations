@@ -5,12 +5,12 @@ Description: "IE for message registration in Digital Sundhed Danmark's national 
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "325421000016001"
-* identifier[SOR-ID].use = #official
-* identifier[SOR-ID].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
-* identifier[SOR-ID].system = "urn:oid:1.2.208.176.1.1"
-* identifier[SOR-ID].value = "325421000016001"
-//* identifier[CVR-ID].system = "http://cvr.dk"
-* identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
+* identifier[+].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "325421000016001"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "26919991" //MedComs CVR anvendt
 * type = $eer-sor-organization-type#IE
 * name = "DigitalSundhedDanmark-EMR (325421000016001) (IE)" 
 * telecom.system = #url 
@@ -23,12 +23,13 @@ Description: "SI for message registration in Digital Sundhed Danmark's national 
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1134981000016000"
-* identifier[SOR-ID].use = #official
-* identifier[SOR-ID].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
-* identifier[SOR-ID].system = "urn:oid:1.2.208.176.1.1"
-* identifier[SOR-ID].value = "1134981000016000"
+* identifier[+].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "1134981000016000"
 //* identifier[CVR-ID].system = "http://cvr.dk"
-* identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/325421000016001)
 * type = $eer-sor-organization-type#SI
 * name = "DigitalSundhedDanmark-EMR (1134981000016000) (SI)"
@@ -43,12 +44,12 @@ Description: "OE for message registration in Digital Sundhed Danmark's national 
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1135011000016005"
-* identifier[SOR-ID].use = #official
-* identifier[SOR-ID].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
-* identifier[SOR-ID].system = "urn:oid:1.2.208.176.1.1"
-* identifier[SOR-ID].value = "1135011000016005"
-//* identifier[CVR-ID].system = "http://cvr.dk"
-* identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
+* identifier[+].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "1135011000016005"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
 * name = "DigitalSundhedDanmark-EMR-PROD (1135011000016005) (OE)"
@@ -63,12 +64,12 @@ Description: "OE for message registration in Digital Sundhed Danmark's national 
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1135051000016009"
-* identifier[SOR-ID].use = #official
-* identifier[SOR-ID].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
-* identifier[SOR-ID].system = "urn:oid:1.2.208.176.1.1"
-* identifier[SOR-ID].value = "1135051000016009"
-//* identifier[CVR-ID].system = "http://cvr.dk"
-* identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
+* identifier[+].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "1135051000016009"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
 * name = "DigitalSundhedDanmark-EMR-TEST1 (1135051000016009) (OE)"
@@ -82,12 +83,12 @@ Description: "OE for message registration in Digital Sundhed Danmark's national 
 //Usage: #inline
 * meta.profile = "http://medcomehmi.dk/ig/eer/StructureDefinition/Eer.Messaging.Organization"
 * id = "1134991000016003"
-* identifier[SOR-ID].use = #official
-* identifier[SOR-ID].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
-* identifier[SOR-ID].system = "urn:oid:1.2.208.176.1.1"
-* identifier[SOR-ID].value = "1134991000016003"
-//* identifier[CVR-ID].system = "http://cvr.dk"
-* identifier[CVR-ID].value = "26919991" //MedComs CVR anvendt
+* identifier[+].use = #official
+* identifier[=].type = $eer-sor-organization-identier-type#SORID "SOR Identifier"
+* identifier[=].system = "urn:oid:1.2.208.176.1.1"
+* identifier[=].value = "1134991000016003"
+* identifier[+].system = "http://cvr.dk"
+* identifier[=].value = "26919991" //MedComs CVR anvendt
 * partOf = Reference(Organization/1134981000016000)
 * type = $eer-sor-organization-type#OE
 * name = "DigitalSundhedDanmark-EMR-TEST2 (1134991000016003) (OE)"
