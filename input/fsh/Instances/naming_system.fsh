@@ -18,3 +18,7 @@ Usage: #definition
 * uniqueId[0].value = "http://cvr.dk"
 * uniqueId[0].preferred = true
 * uniqueId[0].comment = "Officiel system-URL anvendt i HL7 DK Core"
+* uniqueId[+].type = #oid
+* uniqueId[=].value = "urn:oid:1.3.184"
+* uniqueId[=].preferred = true
+* uniqueId[=].comment = "Officiel system-oid anvendt i HL7 DK Core"
