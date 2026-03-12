@@ -3285,7 +3285,7 @@ Description: "Endpoint instance"
 * identifier[=].value = "5790000228065"
 * status = #active
 * connectionType = $eer-endpoint-connection-type#EerMessagingEdelivery
-* name = "EER Messaging Endpoint 5790000228065 - Autoriserede Fysioterapeueter Frederiksbjerg Fysioterapi ApS organization 1301641000016002. "
+* name = "EER Messaging Endpoint 5790000228065 - Autoriserede Fysioterapeueter Frederiksbjerg Fysioterapi ApS organization 1301641000016002."
 * managingOrganization = Reference(Organization/1301641000016002)
 * period.start = "2026-03-09T00:00:00+01:00"
 * payloadType[0] = $ehmi-message-definition-uri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.2
