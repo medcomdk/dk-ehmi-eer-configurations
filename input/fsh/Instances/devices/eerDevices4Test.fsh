@@ -1,7 +1,7 @@
 // MultiMed
 Instance: MultiMedAP-test-LPS
 InstanceOf: EerDevice
-Description: "EerDevice-MultiMed AP"
+Description: "EHMI-EerDevice-MultiMedAP"
 * id = "MultiMedAP-test-LPS" 
 * identifier.value = "MultiMedAP-test-LPS"
 //* definition = Reference(EerDeviceDefinition4AP)
@@ -13,7 +13,7 @@ Description: "EerDevice-MultiMed AP"
 
 Instance: MultiMedMSH-test-LPS
 InstanceOf: EerDevice
-Description: "EerDevice-MultiMedMSH"
+Description: "EHMI-EerDevice-MultiMedMSH"
 * id = "MultiMedMSH-test-LPS" 
 * identifier.value = "MultiMedMSH-test-LPS"
 //* definition = Reference(EerDeviceDefinition4MSH)
@@ -26,7 +26,7 @@ Description: "EerDevice-MultiMedMSH"
 // KvalitetsIt
 Instance: KvalitetsItAP-test-aarhus
 InstanceOf: EerDevice
-Description: "EerDevice-KvalitetsItAP"
+Description: "EHMI-EerDevice-KvalitetsItAP"
 * id = "KvalitetsItAP-test-aarhus"
 * identifier.value = "KvalitetsItAP-test-aarhus"
 //* definition = Reference(EerDeviceDefinition4AP)
@@ -39,7 +39,7 @@ Description: "EerDevice-KvalitetsItAP"
 // EG 
 Instance: EerDevice-EGClineaEUA-test-aarhus
 InstanceOf: EerDevice
-Description: "EerDevice-EGClineaEUA"
+Description: "EHMI-EerDevice-EGClineaEUA"
 * id = "EerDevice-EGClineaEUA-test-aarhus"
 * identifier.value = "EerDevice-EGClineaEUA-test-aarhus"
 //* definition = Reference(EerDeviceDefinition4EUA)
@@ -52,7 +52,7 @@ Description: "EerDevice-EGClineaEUA"
 // Systematic
 Instance: SystematicMSH-test-aarhus
 InstanceOf: EerDevice
-Description: "EerDevice-SystematicMSH for Aarhus"
+Description: "EHMI-EerDevice-SystematicMSH-Aarhus"
 * id = "SystematicMSH-test-aarhus" 
 * identifier.value = "SystematicMSH-test-aarhus"
 //* definition = Reference(EerDeviceDefinition4MSH)
@@ -64,7 +64,7 @@ Description: "EerDevice-SystematicMSH for Aarhus"
 
 Instance: SystematicCuraEUA-test-aarhus
 InstanceOf: EerDevice
-Description: "EerDevice-SystematicCuraEUA for Aarhus"
+Description: "EHMI-EerDevice-SystematicCuraEUA-Aarhus"
 * id = "SystematicCuraEUA-test-aarhus" 
 * identifier.value = "SystematicCuraEUA-test-aarhus"
 //* definition = Reference(EerDeviceDefinition4EUA)
@@ -77,7 +77,7 @@ Description: "EerDevice-SystematicCuraEUA for Aarhus"
 // SDS
 Instance: EMR-AP-test-TEST1
 InstanceOf: EerDevice
-Description: "EerDevice-EMR-AP-test-TEST1"
+Description: "EHMI-EerDevice-EMR-AP-test-TEST1"
 * id = "EMR-AP-test-TEST1" 
 * identifier.value = "EMR-AP-test-TEST1"
 //* definition = Reference(EerDeviceDefinition4AP)
@@ -89,7 +89,7 @@ Description: "EerDevice-EMR-AP-test-TEST1"
 
 Instance: EMR-MSH-test-TEST1
 InstanceOf: EerDevice
-Description: "EerDevice-EMR-MSH-test-TEST1"
+Description: "EHMI-EerDevice-EMR-MSH-test-TEST1"
 * id = "EMR-MSH-test-TEST1" 
 * identifier.value = "EMR-MSH-test-TEST1"
 //* definition = Reference(EerDeviceDefinition4AP)
@@ -101,7 +101,7 @@ Description: "EerDevice-EMR-MSH-test-TEST1"
 
 Instance: EMR-AP-test-TEST2
 InstanceOf: EerDevice
-Description: "EerDevice-EMR-AP-test-TEST2"
+Description: "EHMI-EerDevice-EMR-AP-test-TEST2"
 * id = "EMR-AP-test-TEST2" 
 * identifier.value = "EMR-AP-test-TEST2"
 //* definition = Reference(EerDeviceDefinition4AP)
@@ -113,12 +113,24 @@ Description: "EerDevice-EMR-AP-test-TEST2"
 
 Instance: EMR-MSH-test-TEST2
 InstanceOf: EerDevice
-Description: "EerDevice-EMR-MSH-test-TEST2"
+Description: "EHMI-EerDevice-EMR-MSH-test-TEST2"
 * id = "EMR-MSH-test-TEST2" 
 * identifier.value = "EMR-MSH-test-TEST2"
 //* definition = Reference(EerDeviceDefinition4AP)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
 * deviceName.name = "EMR MSH TEST2 Test DDS"
+* deviceName.type = #manufacturer-name
+* manufacturer = "KvalitetsIT"
+
+Instance: EDS-test-TEST2
+InstanceOf: EerDevice
+Description: "EHMI-EerDevice-EDS-test-TEST2"
+* id = "EDS-test-TEST2" 
+* identifier.value = "EDS-test-TEST2"
+//* definition = Reference(EerDeviceDefinition4AP)
+* type = $EerDeviceTypeCS#MSH "Message Service Handler"
+* status = #active
+* deviceName.name = "EDS TEST2 Test DDS"
 * deviceName.type = #manufacturer-name
 * manufacturer = "KvalitetsIT"
