@@ -37,11 +37,11 @@ Description: "EHMI-EerDevice-KvalitetsItAP"
 * manufacturer = "KvalitetsIt"
 
 // EG 
-Instance: EerDevice-EGClineaEUA-test-aarhus
+Instance: EGClineaEUA-test-aarhus
 InstanceOf: EerDevice
 Description: "EHMI-EerDevice-EGClineaEUA"
-* id = "EerDevice-EGClineaEUA-test-aarhus"
-* identifier.value = "EerDevice-EGClineaEUA-test-aarhus"
+* id = "EGClineaEUA-test-aarhus"
+* identifier.value = "EGClineaEUA-test-aarhus"
 //* definition = Reference(EerDeviceDefinition4EUA)
 * type = $EerDeviceTypeCS#EUA "End User Application"
 * status = #active
@@ -50,11 +50,11 @@ Description: "EHMI-EerDevice-EGClineaEUA"
 * manufacturer = "EG Healthcare"
 
 // Systematic
-Instance: SystematicMSH-test-aarhus
+Instance: SystematicCuraMSH-test-aarhus
 InstanceOf: EerDevice
 Description: "EHMI-EerDevice-SystematicMSH-Aarhus"
-* id = "SystematicMSH-test-aarhus" 
-* identifier.value = "SystematicMSH-test-aarhus"
+* id = "SystematicCuraMSH-test-aarhus" 
+* identifier.value = "SystematicCuraMSH-test-aarhus"
 //* definition = Reference(EerDeviceDefinition4MSH)
 * type = $EerDeviceTypeCS#MSH "Message Service Handler"
 * status = #active
