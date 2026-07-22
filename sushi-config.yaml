@@ -20,16 +20,10 @@ dependencies:
   medcom.fhir.dk.core: 3.0.1
   medcom.fhir.dk.messaging: 4.0.1
   medcom.fhir.dk.terminology: 2.0.1
-  dk.ehmi.terminology: 
-    version: 1.0.1-draft
-    uri: http://medcomehmi.dk/ig/terminology/ImplementationGuide/dk.ehmi.terminology
-#  dk.ehmi.eer: current
-  dk.ehmi.eer: 
-    version: current
-#    uri: https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/ImplementationGuide/dk.ehmi.eer
-#    version: 2.0.0-draft 
-#    uri: https://build.fhir.org/ig/medcomdk/dk-ehmi-eer/ImplementationGuide/dk.ehmi.eer
-#    uri: http://medcomehmi.dk/ig/eer/ImplementationGuide/dk.ehmi.eer
+  dk.ehmi.terminology: 1.1.0
+  # dk.ehmi.eer: 3.0.0-trial-use-1
+  dk.ehmi.eer: dev
+
 
 menu:
   Home: index.html
