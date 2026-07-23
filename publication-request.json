@@ -11,5 +11,8 @@
     "title": "DK EHMI Endpoint Register (EER) - Configurations",
     "ci-build": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-config/",
     "category": "Administration",
-    "introduction": "Administrative configurations for the DK EHMI Endpoint Register (EER) IG"
+    "introduction": "Administrative configurations for the DK EHMI Endpoint Register (EER) IG",
+    "registry-description": "This is a DK EHMI Endpoint Register (EER) IG configuration package. It contains administrative configurations for the EER IG.",
+    "registry-country": "DK",
+    "registry-authority": "MedCom"
 }
