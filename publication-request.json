@@ -1,18 +1,10 @@
 {
     "package-id": "dk.ehmi.eer-config",
-    "version": "2.0.0-trial-use-1",
-    "path": "http://medcomehmi.dk/ig/eer-config/2.0.0-trial-use-1",
+    "version": "2.0.0-trial-use-2",
+    "path": "http://medcomehmi.dk/ig/eer-config/2.0.0-trial-use-2",
     "status": "trial-use",
     "sequence": "Release 2.x.x",
     "mode": "milestone",
     "descmd": "@release-notes.md",
-    "desc": "See release notes",
-    "first": true,
-    "title": "DK EHMI Endpoint Register (EER) - Configurations",
-    "ci-build": "https://build.fhir.org/ig/medcomdk/dk-ehmi-eer-config/",
-    "category": "Administration",
-    "introduction": "Administrative configurations for the DK EHMI Endpoint Register (EER) IG",
-    "registry-description": "This is a DK EHMI Endpoint Register (EER) IG configuration package. It contains administrative configurations for the EER IG.",
-    "registry-country": "DK",
-    "registry-authority": "MedCom"
+    "desc": "See release notes"
 }
