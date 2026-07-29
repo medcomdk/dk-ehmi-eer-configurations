@@ -101,10 +101,11 @@ Description: "OE for message registration in Digital Sundhed Danmark's national 
 Instance: DefaultOrg
 InstanceOf: EerMessagingOrganization
 Description: "Organization instance"
-* identifier[0].use = #official
-* identifier[=].type = $EerMessagingOrganizationIdentierType#SORID "SOR Identifier"
-* identifier[=].system = "urn:oid:1.2.208.176.1.1"
-* identifier[=].value = "99999999999"
+* identifier[SOR-ID]
+  * use = #official
+  * type = $EerMessagingOrganizationIdentierType#SORID "SOR Identifier"
+  * system = "urn:oid:1.2.208.176.1.1"
+  * value = "99999999999"
 * active = true
 * type = $EerSorOrganizationTypeCS#IE
 * name = "Default Org. Not used for anything."
@@ -124,22 +125,6 @@ Description: "Organization instance"
 * type = $EerSorOrganizationTypeCS#SI
 * name = "Lægerne Østergade (55701000016003)"
 * endpoint[+] = Reference(LaegerneOestergade-5790000126330)
-
-Instance: LaegerneKirstinelund-991721000016006
-InstanceOf: EerMessagingOrganization
-Description: "Organization instance"
-* active = true
-* identifier[SOR-ID]
-  * use = #official
-  * type = $EerMessagingOrganizationIdentierType#SORID "SOR Identifier"
-  * system = "urn:oid:1.2.208.176.1.1"
-  * value = "991721000016006"
-* identifier[CVR-ID]
-  * system = "http://cvr.dk"
-  * value = "40815295"
-* type = $EerSorOrganizationTypeCS#SI
-* name = "Lægerne Kirstinelund (991721000016006)"
-* endpoint[+] = Reference(LaegerneKirstinelund-5790002407314)
 
 Instance: MaarsletLaegehus-23871000016003
 InstanceOf: EerMessagingOrganization
