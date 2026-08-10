@@ -221,3 +221,19 @@ Description: "Organization instance"
 * type = $EerSorOrganizationTypeCS#SI
 * name = "Lægerne Bystævnet (1369491000016008)"
 * endpoint[+] = Reference(LaegerneBystaevnet-5790002630019)
+
+Instance: FamilielaegenHoejbjerg-1285371000016005
+InstanceOf: EerMessagingOrganization
+Description: "Organization instance"
+* active = true
+* identifier[SOR-ID]
+  * use = #official
+  * type = $EerMessagingOrganizationIdentierType#SORID "SOR Identifier"
+  * system = "urn:oid:1.2.208.176.1.1"
+  * value = "1285371000016005"
+* identifier[CVR-ID]
+  * system = "http://cvr.dk"
+  * value = "43390902"
+* type = $EerSorOrganizationTypeCS#SI
+* name = "Familielægen Højbjerg (1285371000016005)"
+* endpoint[+] = Reference(FamilielaegenHoejbjerg-5790002513503)
