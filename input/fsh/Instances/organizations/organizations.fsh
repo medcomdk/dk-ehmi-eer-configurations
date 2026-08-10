@@ -222,7 +222,7 @@ Description: "Organization instance"
 * name = "Lægerne Bystævnet (1369491000016008)"
 * endpoint[+] = Reference(LaegerneBystaevnet-5790002630019)
 
-Instance: LaegerneHoejbjerg-1285371000016005
+Instance: FamilielaegenHoejbjerg-1285371000016005
 InstanceOf: EerMessagingOrganization
 Description: "Organization instance"
 * active = true
@@ -236,4 +236,4 @@ Description: "Organization instance"
   * value = "43390902"
 * type = $EerSorOrganizationTypeCS#SI
 * name = "Familielægen Højbjerg (1285371000016005)"
-* endpoint[+] = Reference(FamilieLaegenHoebjerg-5790002513503)
+* endpoint[+] = Reference(FamilielaegenHoejbjerg-5790002513503)

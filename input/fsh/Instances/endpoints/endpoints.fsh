@@ -285,7 +285,7 @@ Description: "Lægerne Bystævnet 5790002630019 / 1369491000016008"
 * address = "https://found-inside-the-ap-extension.com"
 * extension[ap-system].valueReference = Reference(MultiMed-AP)
 
-Instance: FamilieLaegenHoebjerg-5790002513503
+Instance: FamilielaegenHoejbjerg-5790002513503
 InstanceOf: EerEndpointMessaging
 Description: "Familielægen Højbjerg 5790002513503 / 1285371000016005"
 * identifier[GLN-ID]
@@ -294,7 +294,7 @@ Description: "Familielægen Højbjerg 5790002513503 / 1285371000016005"
 * status = #active
 * connectionType = $EerEndpointConnectionTypeCS#EerMessagingEdelivery
 * name = "MedCom-EHMI-Familielægen-Højbjerg-5790002513503"
-* managingOrganization = Reference(LaegerneHoejbjerg-1285371000016005)
+* managingOrganization = Reference(FamilielaegenHoejbjerg-1285371000016005)
 * period.start = "2026-08-10T00:00:00+02:00"
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.1
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.2
