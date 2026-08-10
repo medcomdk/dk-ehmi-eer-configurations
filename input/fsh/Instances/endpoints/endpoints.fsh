@@ -126,7 +126,7 @@ Description: "EMR DDS EUA TEST2 5790002515798 / 1134991000016003"
 
 Instance: EMR-TEST1-5790002515811
 InstanceOf: EerEndpointMessaging
-Description: "EMR DDS EUA TEST1 5790002515811 / 1135051000016009"
+Description: "EMR SDS EUA TEST1 5790002515811 / 1135051000016009"
 * identifier[GLN-ID]
   * type = $EerAuditEventAgentWhoIdentifierTypes#GLN
   * value = "5790002515811"
@@ -143,7 +143,28 @@ Description: "EMR DDS EUA TEST1 5790002515811 / 1135051000016009"
 * address = "https://found-inside-the-ap-extension.com"
 * extension[smpParticipantId].valueString = "397829"
 * extension[smpReceiverServiceId].valueString = "179651"
-* extension[ap-system].valueReference = Reference(SundhedsDataStyrelsen-EMR-Test-AP)
+* extension[ap-system].valueReference = Reference(SundhedsDataStyrelsen-EMR-Test1-AP)
+
+Instance: EMR-TEST2-5744008360227
+InstanceOf: EerEndpointMessaging
+Description: "EMR SDS EUA TEST2 5744008360227 / 1134991000016003"
+* identifier[GLN-ID]
+  * type = $EerAuditEventAgentWhoIdentifierTypes#GLN
+  * value = "5744008360227"
+* status = #active
+* connectionType = $EerEndpointConnectionTypeCS#EerMessagingEdelivery
+* name = "MedCom-EHMI-SundhedsDataStyrelsen-EMR-Test2-Caller-Test"
+* managingOrganization = Reference(DigitalSundhedDanmark-EMR-TEST2)
+* period.start = "2026-08-10T00:00:00+02:00"
+* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
+* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
+* payloadMimeType[+] = #application/fhir+xml
+* payloadMimeType[+] = #application/fhir+json
+* payloadMimeType[+] = #text/xml
+* address = "https://found-inside-the-ap-extension.com"
+* extension[smpParticipantId].valueString = "404207"
+* extension[smpReceiverServiceId].valueString = "180411"
+* extension[ap-system].valueReference = Reference(SundhedsDataStyrelsen-EMR-Test2-AP)
 
 Instance: LaegerneOestergade-5790000126330
 InstanceOf: EerEndpointMessaging
