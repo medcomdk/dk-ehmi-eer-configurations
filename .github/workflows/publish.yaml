@@ -1,7 +1,7 @@
 on:
   push:
     tags:
-      - 'ig-release/*'
+      - 'ig-release/**'
 
 jobs:
   get-version:
@@ -10,7 +10,7 @@ jobs:
       version: ${{ steps.extract.outputs.version }}
     steps:
       - id: extract
-        run: echo "version=${GITHUB_REF_NAME##*/}" >> "$GITHUB_OUTPUT"
+        run: echo "version=${GITHUB_REF_NAME#ig-release/}" >> "$GITHUB_OUTPUT"
 
   publish:
     needs: get-version
