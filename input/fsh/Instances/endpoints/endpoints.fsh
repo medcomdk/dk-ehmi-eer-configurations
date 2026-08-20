@@ -9,11 +9,8 @@ Description: "Endpoint instance"
 * name = "EER Messaging Endpoint - Default FHIR Endpoint"
 * managingOrganization = Reference(Organization/DefaultOrg)
 * period.start = "2026-02-03T00:00:00+01:00"
-* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
 * payloadMimeType[0] = #text/xml
-* payloadMimeType[+] = #application/fhir+xml
-* payloadMimeType[+] = #application/fhir+json
 * address = "https://example.org/fhir"
 
 Instance: EGClinea-5790000120048
