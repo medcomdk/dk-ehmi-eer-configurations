@@ -1,1 +1,1 @@
-Release with a new version, the qa/test/demo version will be for the demo environment and then the prod version will come at a later point when ready
+Release with a new version, the qa version will be for the demo environment and then the prod version will come at a later point when ready
