@@ -1,2 +1,1 @@
-- Added 'Familielægen Højbjerg'
-- Added SDS EMR TEST2 AP
+- Removed the fhir ack from default endpoint
