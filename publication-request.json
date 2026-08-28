@@ -1,9 +1,9 @@
 {
     "package-id": "dk.ehmi.eer-config",
-    "version": "3.0.0-prod-environment-1",
-    "path": "http://medcomehmi.dk/ig/eer-config/3.0.0-prod-environment-1",
-    "status": "release",
-    "sequence": "Release 3.x.x",
+    "version": "2.0.0-trial-use-3",
+    "path": "http://medcomehmi.dk/ig/eer-config/2.0.0-trial-use-3",
+    "status": "trial-use",
+    "sequence": "Release 2.x.x",
     "mode": "milestone",
     "descmd": "@release-notes.md",
     "desc": "See release notes"
