@@ -1,2 +1,1 @@
-- Release with a new version, the qa version will be for the demo environment and then the prod version will come at a later point when ready
-- Changed the default endpoint to not have fhir ack
+- Fixed smpParticipantId for endpoint with GLN 5790002515798

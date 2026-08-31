@@ -117,7 +117,7 @@ Description: "EMR DDS EUA TEST2 5790002515798 / 1134991000016003"
 * payloadMimeType[+] = #application/fhir+json
 * payloadMimeType[+] = #text/xml
 * address = "https://found-inside-the-ap-extension.com"
-* extension[smpParticipantId].valueString = "558633"
+* extension[smpParticipantId].valueString = "390305"
 * extension[smpReceiverServiceId].valueString = "178911"
 * extension[ap-system].valueReference = Reference(KvalitetsIT-EMR-AP)
 
