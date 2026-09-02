@@ -1,1 +1,1 @@
-- Removed the fhir ack from default endpoint
+- Added Aarhus Kommune AP and all their endpoints during the production trial

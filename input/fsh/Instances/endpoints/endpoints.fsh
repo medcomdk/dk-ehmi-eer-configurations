@@ -13,6 +13,25 @@ Description: "Endpoint instance"
 * payloadMimeType[0] = #text/xml
 * address = "https://example.org/fhir"
 
+Instance: AarhusSundhedOgOmsorgEndpoint-5790000123117
+InstanceOf: EerEndpointMessaging
+Description: "Aarhus EUA Sundhed og Omsorg Endpoint 5790000123117 / 937961000016000"
+* identifier[GLN-ID]
+  * type = $EerAuditEventAgentWhoIdentifierTypes#GLN
+  * value = "5790000123117"
+* status = #active
+* connectionType = $EerEndpointConnectionTypeCS#EerMessagingEdelivery
+* name = "MedCom-EHMI-Sundhed-og-Omsorg-Aarhus-Columna-Cura-EUA"
+* managingOrganization = Reference(SundhedOgOmsorg-937961000016000)
+* period.start = "2026-05-05T00:00:00+02:00"
+* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
+* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
+* payloadMimeType[+] = #application/fhir+xml
+* payloadMimeType[+] = #application/fhir+json
+* payloadMimeType[+] = #text/xml
+* address = "https://found-inside-the-ap-extension.com"
+* extension[ap-system].valueReference = Reference(KvalitetsIT-Aarhus-AP)
+
 Instance: LaegerneKirstinelund-5790002407314
 InstanceOf: EerEndpointMessaging
 Description: "LPS EUA Lægerne Kirstinelund 5790002407314 / 991721000016006"
@@ -32,25 +51,6 @@ Description: "LPS EUA Lægerne Kirstinelund 5790002407314 / 991721000016006"
 * payloadMimeType[+] = #text/xml
 * address = "https://found-inside-the-ap-extension.com"
 * extension[ap-system].valueReference = Reference(MultiMed-AP)
-
-Instance: AarhusSundhedOgOmsorgEndpoint-5790000123117
-InstanceOf: EerEndpointMessaging
-Description: "Aarhus EUA Sundhed og Omsorg Endpoint 5790000123117 / 937961000016000"
-* identifier[GLN-ID]
-  * type = $EerAuditEventAgentWhoIdentifierTypes#GLN
-  * value = "5790000123117"
-* status = #active
-* connectionType = $EerEndpointConnectionTypeCS#EerMessagingEdelivery
-* name = "MedCom-EHMI-Sundhed-og-Omsorg-Aarhus-Columna-Cura-EUA"
-* managingOrganization = Reference(SundhedOgOmsorg-937961000016000)
-* period.start = "2026-05-05T00:00:00+02:00"
-* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
-* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
-* payloadMimeType[+] = #application/fhir+xml
-* payloadMimeType[+] = #application/fhir+json
-* payloadMimeType[+] = #text/xml
-* address = "https://found-inside-the-ap-extension.com"
-* extension[ap-system].valueReference = Reference(KvalitetsIT-Aarhus-AP)
 
 Instance: LaegerneOestergade-5790000126330
 InstanceOf: EerEndpointMessaging
