@@ -1,2 +1,1 @@
-- Added 'Familielægen Højbjerg'
-- Added SDS EMR TEST2 AP
+- Updated EER dependency to 3.0.0-trial-use-3 and hl7.dk.core to 3.5.0 which makes the endpoints use the scheme 'http' instead of scheme 'https' for the GLN identifier
