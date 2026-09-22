@@ -4,7 +4,7 @@ name: EHMI Endpoint Register (EER) IG Configurations
 title: "DK EHMI Endpoint Register (EER) - Configurations"
 description: The EHMI Endpoint Register (EER) IG - Configurations for merge with incoming from SOR 
 status: active # draft | active | retired | unknown
-version: 3.0.0-prod-environment-2
+version: 3.0.0-prod-environment-3
 fhirVersion: 4.0.1
 copyrightYear: 2025+
 releaseLabel: release # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
@@ -16,12 +16,12 @@ publisher:
 
 dependencies:
   ihe.iti.mcsd: 4.0.0
-  hl7.fhir.dk.core: 3.4.0
+  hl7.fhir.dk.core: 3.5.0
   medcom.fhir.dk.core: 3.0.1
   medcom.fhir.dk.messaging: 4.0.1
   medcom.fhir.dk.terminology: 2.0.1
   dk.ehmi.terminology: 1.2.0
-  dk.ehmi.eer: 3.0.0-trial-use-1
+  dk.ehmi.eer: 3.0.0-trial-use-3
 
 menu:
   Home: index.html
