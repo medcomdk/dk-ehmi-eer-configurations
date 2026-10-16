@@ -31,8 +31,6 @@ Description: "Endpoint instance"
 // * payloadMimeType[+] = #application/fhir+json
 // * payloadMimeType[+] = #text/xml
 // * address = "https://found-inside-the-ap-extension.com"
-// * extension[smpParticipantId].valueString = "390373"
-// * extension[smpReceiverServiceId].valueString = "178933"
 // * extension[ap-system].valueReference = Reference(MultiMed-AP)
 
 // Instance: LaegerneKirstinelund-5790002407314
@@ -53,8 +51,6 @@ Description: "Endpoint instance"
 // * payloadMimeType[+] = #application/fhir+json
 // * payloadMimeType[+] = #text/xml
 // * address = "https://found-inside-the-ap-extension.com"
-// * extension[smpParticipantId].valueString = "391089"
-// * extension[smpReceiverServiceId].valueString = "178933"
 // * extension[ap-system].valueReference = Reference(MultiMed-AP)
 
 // Instance: AarhusSundhedOgOmsorgEndpoint-5790000123117
@@ -74,8 +70,6 @@ Description: "Endpoint instance"
 // * payloadMimeType[+] = #application/fhir+json
 // * payloadMimeType[+] = #text/xml
 // * address = "https://found-inside-the-ap-extension.com"
-// * extension[smpParticipantId].valueString = "390303"
-// * extension[smpReceiverServiceId].valueString = "178909"
 // * extension[ap-system].valueReference = Reference(KvalitetsIT-Aarhus-AP)
 
 // Instance: FolkeSundhedAarhusEndpoint-5790000160921
@@ -95,8 +89,6 @@ Description: "Endpoint instance"
 // * payloadMimeType[+] = #application/fhir+json
 // * payloadMimeType[+] = #text/xml
 // * address = "https://found-inside-the-ap-extension.com"
-// * extension[smpParticipantId].valueString = "390371"
-// * extension[smpReceiverServiceId].valueString = "178931"
 // * extension[ap-system].valueReference = Reference(KvalitetsIT-Test-AP)
 
 // Instance: EMR-TEST2-5790002515798
@@ -117,8 +109,6 @@ Description: "Endpoint instance"
 // * payloadMimeType[+] = #application/fhir+json
 // * payloadMimeType[+] = #text/xml
 // * address = "https://found-inside-the-ap-extension.com"
-// * extension[smpParticipantId].valueString = "390305"
-// * extension[smpReceiverServiceId].valueString = "178911"
 // * extension[ap-system].valueReference = Reference(KvalitetsIT-EMR-AP)
 
 // Instance: EMR-TEST1-5790002515811
@@ -138,8 +128,6 @@ Description: "Endpoint instance"
 // * payloadMimeType[+] = #application/fhir+json
 // * payloadMimeType[+] = #text/xml
 // * address = "https://found-inside-the-ap-extension.com"
-// * extension[smpParticipantId].valueString = "397829"
-// * extension[smpReceiverServiceId].valueString = "179651"
 // * extension[ap-system].valueReference = Reference(SundhedsDataStyrelsen-EMR-Test1-AP)
 
 // Instance: EMR-TEST2-5744008360227
@@ -159,8 +147,6 @@ Description: "Endpoint instance"
 // * payloadMimeType[+] = #application/fhir+json
 // * payloadMimeType[+] = #text/xml
 // * address = "https://found-inside-the-ap-extension.com"
-// * extension[smpParticipantId].valueString = "404207"
-// * extension[smpReceiverServiceId].valueString = "180411"
 // * extension[ap-system].valueReference = Reference(SundhedsDataStyrelsen-EMR-Test2-AP)
 
 // Instance: LaegerneOestergade-5790000126330
