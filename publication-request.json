@@ -1,7 +1,7 @@
 {
     "package-id": "dk.ehmi.eer-config",
-    "version": "3.0.0-qa-environment-4",
-    "path": "http://medcomehmi.dk/ig/eer-config/3.0.0-qa-environment-4",
+    "version": "3.0.0-qa-environment-5",
+    "path": "http://medcomehmi.dk/ig/eer-config/3.0.0-qa-environment-5",
     "status": "release",
     "sequence": "Release 3.x.x",
     "mode": "milestone",

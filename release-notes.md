@@ -1,1 +1,1 @@
-- Removed all instances for an upcoming EER test where everything is reset.
+- Reinsert all EER Endpoints
