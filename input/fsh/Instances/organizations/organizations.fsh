@@ -185,3 +185,21 @@ Description: "Organization instance"
 * type = $EerSorOrganizationTypeCS#SI
 * name = "Laegerne Bjerre og Indvardsen (481121000016009)"
 * endpoint[+] = Reference(LaegerneBjerreOgIndvardsen-5790000151226)
+
+Instance: DigitalSundhedDanmark-EMR-PROD
+InstanceOf: EerMessagingOrganization
+Description: "Digital Sundhed Danmark's national PROD XDS environment"
+* active = true
+* identifier[SOR-ID]
+  * use = #official
+  * type = $EerMessagingOrganizationIdentierType#SORID "SOR Identifier"
+  * system = "urn:oid:1.2.208.176.1.1"
+  * value = "1135011000016005"
+* identifier[CVR-ID]
+  * system = "http://cvr.dk"
+  * value = "26919991"
+* type = $EerSorOrganizationTypeCS#OE
+* name = "DigitalSundhedDanmark-EMR-PROD (1135011000016005)"
+* telecom.system = #url 
+* telecom.value = "https://sor2.sum.dsdn.dk/Units/Index#id=1135011000016005"
+* endpoint[+] = Reference(EMR-PROD-5790002515804)
