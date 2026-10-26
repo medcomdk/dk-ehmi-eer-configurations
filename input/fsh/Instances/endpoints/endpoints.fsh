@@ -232,4 +232,21 @@ Description: "Laegerne Bjerre og Indvardsen 5790000151226 / 481121000016009"
 * address = "https://found-inside-the-ap-extension.com"
 * extension[ap-system].valueReference = Reference(MultiMed-AP)
 
-
+Instance: EMR-PROD-5790002515804
+InstanceOf: EerEndpointMessaging
+Description: "EHMI Message Registration PROD 5790002515804 / 1135011000016005"
+* identifier[GLN-ID]
+  * type = $EerAuditEventAgentWhoIdentifierTypes#GLN
+  * value = "5790002515804"
+* status = #active
+* connectionType = $EerEndpointConnectionTypeCS#EerMessagingEdelivery
+* name = "MedCom-EHMI-SundhedsDataStyrelsen-EMR-Caller-Test"
+* managingOrganization = Reference(Sundhedsdatastyrelsen-AP-Organization-Owner)
+* period.start = "2026-05-05T00:00:00+02:00"
+* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
+* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
+* payloadMimeType[+] = #application/fhir+xml
+* payloadMimeType[+] = #application/fhir+json
+* payloadMimeType[+] = #text/xml
+* address = "https://found-inside-the-ap-extension.com"
+* extension[ap-system].valueReference = Reference(SundhedsDataStyrelsen-EMR-Test1-AP)
