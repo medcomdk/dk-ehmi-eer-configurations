@@ -1,1 +1,1 @@
-- Updated EER dependency to 3.0.0-trial-use-3 and hl7.dk.core to 3.5.0 which makes the endpoints use the scheme 'http' instead of scheme 'https' for the GLN identifier
+- Added EMR as an endpoint even though the certificates aren't real. EMR is not ready yet so it's just so that other participant on the EHMI network can send to them without getting an SMP error
