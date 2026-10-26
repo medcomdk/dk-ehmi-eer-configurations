@@ -231,3 +231,5 @@ Description: "Laegerne Bjerre og Indvardsen 5790000151226 / 481121000016009"
 * payloadMimeType[+] = #text/xml
 * address = "https://found-inside-the-ap-extension.com"
 * extension[ap-system].valueReference = Reference(MultiMed-AP)
+
+

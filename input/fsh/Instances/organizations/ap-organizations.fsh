@@ -14,11 +14,10 @@ Description: "EER_AP_Organization_Owner-KvalitetsIT"
 * name = "KvalitetsIT"
 * extension[smpMTLSKey][+].extension[certificateSubject].valueString = "CVR:38163264-UID:UI:DK-O:G:04aed3e2-ee66-4f72-90bc-585f4cebc60e"
 
-// TODO: Change to prod values once EMR is ready to go live
-// Instance: Sundhedsdatastyrelsen-AP-Organization-Owner
-// InstanceOf: EER_AP_Organization_Owner
-// Description: "EER_AP_Organization_Owner-Sundhedsdatastyrelsen"
-// * identifier[CVR-ID].value = "33257872"
-// * active = true
-// * name = "EHMI Sundhedsdatastyrelsen"
-// * extension[smpMTLSKey][+].extension[certificateSubject].valueString = "CVR:33257872-UID:UI:DK-O:G:12a8cb19-c9b2-4d74-813c-269c865cdaf2"
+Instance: Sundhedsdatastyrelsen-AP-Organization-Owner
+InstanceOf: EER_AP_Organization_Owner
+Description: "EER_AP_Organization_Owner-Sundhedsdatastyrelsen"
+* identifier[CVR-ID].value = "33257872"
+* active = true
+* name = "EHMI Sundhedsdatastyrelsen"
+* extension[smpMTLSKey][+].extension[certificateSubject].valueString = "CVR:33257872-UID:UI:DK-O:G:12a8cb19-c9b2-4d74-813c-269c865cdaf2"
