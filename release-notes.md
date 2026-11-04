@@ -1,1 +1,1 @@
-- Added EMR as an endpoint even though the certificates and urls aren't the right ones. EMR is not ready yet so it's just so that other participant on the EHMI network can send to them without (hopefully) getting an SMP error
+- Changed temp EMR AP to sundhedsdatastyrelsen CVR 33257872 instead of MedComs
