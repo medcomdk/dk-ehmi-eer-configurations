@@ -241,7 +241,7 @@ Description: "EHMI Message Registration PROD 5790002515804 / 1135011000016005"
 * status = #active
 * connectionType = $EerEndpointConnectionTypeCS#EerMessagingEdelivery
 * name = "MedCom-EHMI-SundhedsDataStyrelsen-EMR-Caller-Test"
-* managingOrganization = Reference(DigitalSundhedDanmark-EMR-PROD)
+* managingOrganization = Reference(Sundhedsdatastyrelsen-EMR-PROD)
 * period.start = "2026-05-05T00:00:00+02:00"
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0

@@ -1,1 +1,1 @@
-- Changed temp EMR AP to sundhedsdatastyrelsen CVR 33257872 instead of MedComs
+- Corrected EMR AP to real values

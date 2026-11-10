@@ -20,4 +20,4 @@ Description: "EER_AP_Organization_Owner-Sundhedsdatastyrelsen"
 * identifier[CVR-ID].value = "33257872"
 * active = true
 * name = "EHMI Sundhedsdatastyrelsen"
-* extension[smpMTLSKey][+].extension[certificateSubject].valueString = "CVR:33257872-UID:UI:DK-O:G:12a8cb19-c9b2-4d74-813c-269c865cdaf2"
+* extension[smpMTLSKey][+].extension[certificateSubject].valueString = "CVR:33257872-UID:UI:DK-O:G:2b40f682-e23b-4f42-b067-54e5a959df72"
