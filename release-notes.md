@@ -1,1 +1,1 @@
-- Corrected EMR AP to real values
+- Corrected the message types that EMR can receive (HomeCareObservation 1.1 and 1.2)
