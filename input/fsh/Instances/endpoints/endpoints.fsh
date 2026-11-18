@@ -111,25 +111,6 @@ Description: "EMR DDS EUA TEST2 5790002515798 / 1134991000016003"
 * address = "https://found-inside-the-ap-extension.com"
 * extension[ap-system].valueReference = Reference(KvalitetsIT-EMR-AP)
 
-Instance: EMR-TEST1-5790002515811
-InstanceOf: EerEndpointMessaging
-Description: "EMR SDS EUA TEST1 5790002515811 / 1135051000016009"
-* identifier[GLN-ID]
-  * type = $EerAuditEventAgentWhoIdentifierTypes#GLN
-  * value = "5790002515811"
-* status = #active
-* connectionType = $EerEndpointConnectionTypeCS#EerMessagingEdelivery
-* name = "MedCom-EHMI-SundhedsDataStyrelsen-EMR-Caller-Test"
-* managingOrganization = Reference(DigitalSundhedDanmark-EMR-TEST1)
-* period.start = "2026-05-05T00:00:00+02:00"
-* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
-* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
-* payloadMimeType[+] = #application/fhir+xml
-* payloadMimeType[+] = #application/fhir+json
-* payloadMimeType[+] = #text/xml
-* address = "https://found-inside-the-ap-extension.com"
-* extension[ap-system].valueReference = Reference(SundhedsDataStyrelsen-EMR-Test1-AP)
-
 Instance: EMR-TEST2-5744008360227
 InstanceOf: EerEndpointMessaging
 Description: "EMR SDS EUA TEST2 5744008360227 / 1134991000016003"
@@ -141,13 +122,34 @@ Description: "EMR SDS EUA TEST2 5744008360227 / 1134991000016003"
 * name = "MedCom-EHMI-SundhedsDataStyrelsen-EMR-Test2-Caller-Test"
 * managingOrganization = Reference(DigitalSundhedDanmark-EMR-TEST2)
 * period.start = "2026-08-10T00:00:00+02:00"
-* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::acknowledgement-message##urn:dk:medcom:fhir:acknowledgement-message::2.0
+* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.1
+* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.2
 * payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
 * payloadMimeType[+] = #application/fhir+xml
 * payloadMimeType[+] = #application/fhir+json
 * payloadMimeType[+] = #text/xml
 * address = "https://found-inside-the-ap-extension.com"
 * extension[ap-system].valueReference = Reference(SundhedsDataStyrelsen-EMR-Test2-AP)
+
+Instance: EMR-TEST1-5790002515811
+InstanceOf: EerEndpointMessaging
+Description: "EMR SDS EUA TEST1 5790002515811 / 1135051000016009"
+* identifier[GLN-ID]
+  * type = $EerAuditEventAgentWhoIdentifierTypes#GLN
+  * value = "5790002515811"
+* status = #active
+* connectionType = $EerEndpointConnectionTypeCS#EerMessagingEdelivery
+* name = "MedCom-EHMI-SundhedsDataStyrelsen-EMR-Caller-Test"
+* managingOrganization = Reference(DigitalSundhedDanmark-EMR-TEST1)
+* period.start = "2026-05-05T00:00:00+02:00"
+* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.1
+* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:medcom:messaging:fhir:structuredefinition::homecareobservation-message##urn:dk:medcom:fhir:homecareobservation-message::1.2
+* payloadType[+] = $EhmiMessageDefinitionUri#urn:dk:healthcare:messaging:oasis:ebxml:schema:xsd::ehmisbdh-acknowledgement##urn:dk:ehmi:sbdh:ehmisbdh-acknowledgement::1.0
+* payloadMimeType[+] = #application/fhir+xml
+* payloadMimeType[+] = #application/fhir+json
+* payloadMimeType[+] = #text/xml
+* address = "https://found-inside-the-ap-extension.com"
+* extension[ap-system].valueReference = Reference(SundhedsDataStyrelsen-EMR-Test1-AP)
 
 Instance: LaegerneOestergade-5790000126330
 InstanceOf: EerEndpointMessaging
