@@ -1,1 +1,1 @@
-- Reinsert all EER Endpoints
+- Corrected EMR Test1 and test2 receive messagetypes (but not KIT's EMR AP for testing purposes)
